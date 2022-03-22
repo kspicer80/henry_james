@@ -8,11 +8,6 @@ simpler_string = '''I went to the stores to get the store and stores went and go
 counts = {}
 dict_ids = {}
 
-#split_dict = {}
-#for k, v in results:
-    #split_dict.setdefault(k, []).append(v)
-#print(split_dict)
-
 final_dictionary = {}
 counts = {}
 
@@ -20,15 +15,5 @@ nlp_test_string = nlp(simpler_string)
 
 for token in nlp_test_string:
     final_dictionary[token.i] = (token.text, token.lemma_)
-    #for i in range(len(nlp_test_string)):
-        #final_dictionary[i] = (word.text, word.lemma_)
 
 print(final_dictionary)
-        
-#print(final_dictionary)
-    
-    #for id_number, word in word_ids:
-        #lemma_dictionary[id] = word.text, word.lemma_
-#for item in word_ids:
-    #print(item)
-#print(lemma_dictionary)
