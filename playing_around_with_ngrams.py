@@ -69,14 +69,14 @@ the_rest_of_theCounts = [list(segment).count('the rest of the') for segment in j
 
 print(np.corrcoef(at_the_end_ofCounts, the_rest_of_theCounts)[0,1])
 
-james4gramsMostFrequent = [" ".join(words) for words, count in james4gramsFreqs.most_common(10)] # get a list of top 
+james4gramsMostFrequent = [" ".join(words) for words, count in james4gramsFreqs.most_common(10)] 
 print(james4gramsMostFrequent)
 
-james4gramsSegmentsCounts = {} # build a dictionary of counts for each search item
+james4gramsSegmentsCounts = {} item
 for search in james4gramsMostFrequent:
     james4gramsSegmentsCounts[search] = [list(segment).count(search) for segment in james4gramsSegments]
 
-at_the_end_ofCorrelations = {} # build a dictionary of correlation values for "at the end of""
+at_the_end_ofCorrelations = {}
 for ngram, counts in james4gramsSegmentsCounts.items():
     at_the_end_ofCorrelations[ngram] = np.corrcoef(james4gramsSegmentsCounts["at the end of"], counts)[0,1]
 
