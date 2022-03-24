@@ -109,6 +109,41 @@ print(indices)
             #counts[i] = 
         #final_dictionary[token.i] = (token.text, token.lemma_)
 
+#Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
+def getDuplicatesWithInfo(listOfElems):
+    dictOfElems = {}
+    index = 0
+    for elem in listOfElems:
+        if elem in dictOfElems:
+            dictOfElems[elem][0] += 1
+            dictOfElems[elem][1].append(index)
+        else:
+            dictOfElems[elem] = [1, [index]]
+        index += 1
+    dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
+    return dictOfElems
+
+#dictOfElements = getDuplicatesWithInfo(lemmas_rejoined)
+
+#for key, value in dictOfElements.items():
+    #print('Element = ', key, ':: Repeated Count = ', value[0], ':: Index Positions = ', value[1])
+
+def find_repetitions(text):
+    lemmas = []
+    dictOfElems = dict()
+    index = 0
+    for token in text:
+        lemmas.append(token.lemma_)
+    for elem in lemmas:
+        if elem in dictOfElems:
+            dictOfElems[elem][0] += 1
+            dictOfElems[elem][1].append(index)
+        else:
+            dictOfElems[elem] = [1, [index]]
+        index += 1
+    dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
+    return dictOfElems
+
 
 
 

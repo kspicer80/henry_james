@@ -1,3 +1,4 @@
+import pandas as pd
 import spacy
 nlp = spacy.load('en_core_web_lg')
 
@@ -6,23 +7,12 @@ test_string = '''The story had held us, round the fire, sufficiently breathless,
 # Just a silly string to test the lemmatizing that we need here ...
 simpler_string = '''I went to the stores to get the store and stores went and go rock and rocks and rocks and rocked and rocking and stores and storing.'''
 
-final_dictionary = {}
-lemmas = []
-counts = {}
+with open(r'C:\Users\KSpicer\Documents\GitHub\henry_james\209-0.txt', encoding ='utf-8') as f:
+    data = f.read()
 
-nlp_test_string = nlp(simpler_string)
+spacy_text = nlp(data)
 
-look_ahead_look_behind = 10
-
-for token in nlp_test_string:
-    lemmas.append(token.lemma_)
-    lemmas_rejoined = ' '.join(lemmas)
-    lemmas_rejoined = lemmas_rejoined.split()
-
-#print(len(simpler_string))
-#print(len(nlp_test_string))
-#print(len(lemmas))
-
+#Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
 def find_repetitions(text):
     lemmas = []
     dictOfElems = dict()
@@ -39,25 +29,15 @@ def find_repetitions(text):
     dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
     return dictOfElems
 
-repetitions = find_repetitions(nlp_test_string)
+repetitions = find_repetitions(spacy_text)
 print(repetitions)
 
-
-
-
-#Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
-def getDuplicatesWithInfo(listOfElems):
-    dictOfElems = {}
-    index = 0
-    for elem in listOfElems:
-        if elem in dictOfElems:
-            dictOfElems[elem][0] += 1
-            dictOfElems[elem][1].append(index)
-        else:
-            dictOfElems[elem] = [1, [index]]
-        index += 1
-    dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
-    return dictOfElems
+df = pd.DataFrame(repetitions)
+df = df.T
+df = df.rename(columns={0: 'number_of_repetitions', 1: 'indices'})
+#print(df.head())
+#print(df.columns)
+df.to_csv('repetition_counts.csv')
 
 #dictOfElements = getDuplicatesWithInfo(lemmas_rejoined)
 
