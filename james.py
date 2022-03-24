@@ -10,7 +10,7 @@ final_dictionary = {}
 lemmas = []
 counts = {}
 
-nlp_test_string = nlp(test_string)
+nlp_test_string = nlp(simpler_string)
 
 look_ahead_look_behind = 10
 
@@ -19,7 +19,31 @@ for token in nlp_test_string:
     lemmas_rejoined = ' '.join(lemmas)
     lemmas_rejoined = lemmas_rejoined.split()
 
-print(lemmas_rejoined)
+#print(len(simpler_string))
+#print(len(nlp_test_string))
+#print(len(lemmas))
+
+def find_repetitions(text):
+    lemmas = []
+    dictOfElems = dict()
+    index = 0
+    for token in text:
+        lemmas.append(token.lemma_)
+    for elem in lemmas:
+        if elem in dictOfElems:
+            dictOfElems[elem][0] += 1
+            dictOfElems[elem][1].append(index)
+        else:
+            dictOfElems[elem] = [1, [index]]
+        index += 1
+    dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
+    return dictOfElems
+
+repetitions = find_repetitions(nlp_test_string)
+print(repetitions)
+
+
+
 
 #Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
 def getDuplicatesWithInfo(listOfElems):
@@ -35,7 +59,7 @@ def getDuplicatesWithInfo(listOfElems):
     dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
     return dictOfElems
 
-dictOfElements = getDuplicatesWithInfo(lemmas_rejoined)
+#dictOfElements = getDuplicatesWithInfo(lemmas_rejoined)
 
-for key, value in dictOfElements.items():
-    print('Element = ', key, ':: Repeated Count = ', value[0], ':: Index Positions = ', value[1])
+#for key, value in dictOfElements.items():
+    #print('Element = ', key, ':: Repeated Count = ', value[0], ':: Index Positions = ', value[1])
