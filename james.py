@@ -30,7 +30,7 @@ def find_repetitions(text):
     return dictOfElems
 
 repetitions = find_repetitions(spacy_text)
-print(repetitions)
+#print(repetitions)
 
 df = pd.DataFrame(repetitions)
 df = df.T
