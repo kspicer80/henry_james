@@ -8,7 +8,7 @@ nlp = spacy.load('en_core_web_lg')
 # Just a silly string to test the lemmatizing that we need here ...
 #simpler_string = '''I went to the stores to get the store and stores went and go rock and rocks and rocks and rocked and rocking and stores and storing.'''
 
-with open(r'C:\Users\KSpicer\Documents\GitHub\henry_james\209-0.txt', encoding ='utf-8') as f:
+with open('209-0.txt') as f:
     data = f.read()
 
 spacy_text = nlp(data)
@@ -18,7 +18,8 @@ def find_repetitions(text):
     lemmas = []
     dictOfElems = dict()
     index = 0
-    for token in text:
+    text_no_punct = [token for token in spacy_text if not token.is_punct]
+    for token in text_no_punct:
         lemmas.append(token.lemma_)
     for elem in lemmas:
         if elem in dictOfElems:
@@ -43,13 +44,13 @@ def find_neighbors(list, close_number=int()):
             results.append(chunk)
             chunk = []
     return(results)
-            
+
 repetitions = find_repetitions(spacy_text)
-#print(repetitions)
+print(repetitions)
 
 df = pd.DataFrame(repetitions)
 df = df.T
 df = df.rename(columns={0: 'number_of_repetitions', 1: 'indices'})
-print(df.head())
+print(df.head(10))
 #print(df.columns)
 df.to_csv('repetition_counts.csv')
