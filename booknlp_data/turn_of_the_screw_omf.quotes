@@ -1,0 +1,973 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+264	344	255	255	he	10	“ I quite agree — in regard to Griffin ’s ghost , or whatever it was — that its appearing first to the little boy , at so tender an age , adds a particular touch . But it ’s not the first occurrence of its charming kind that I know to have involved a child . If the child gives the effect another turn of the screw , what do you say to _ two _ children — ? ”
+345	352	353	353	somebody	52	“ We say , of course , ”
+356	372	353	353	somebody	52	“ that they give two turns ! Also that we want to hear about them . ”
+405	423	384	384	he	10	“ Nobody but me , till now , has ever heard . It ’s quite too horrible . ”
+465	480	454	454	his	62	“ It ’s beyond everything . Nothing at all that I know touches it . ”
+481	486	487	487	I	0	“ For sheer terror ? ”
+528	534	514	514	He	62	“ For dreadful — dreadfulness ! ”
+535	541	543	546	one of the women	64	“ Oh , how delicious ! ”
+575	585	568	568	he	62	“ For general uncanny ugliness and horror and pain . ”
+586	590	591	591	I	0	“ Well then , ”
+594	602	591	591	I	0	“ just sit right down and begin . ”
+629	643	624	624	he	62	“ I ca n’t begin . I shall have to send to town . ”
+667	710	664	664	he	62	“ The story ’s written . It ’s in a locked drawer — it has not been out for years . I could write to my man and enclose the key ; he could send down the packet as he finds it . ”
+813	821	808	808	his	62	“ Oh , thank God , no ! ”
+822	835	793	793	I	0	“ And is the record yours ? You took the thing down ? ”
+836	846	848	848	his	62	“ Nothing but the impression . I took that _ here_”—he
+851	858	848	848	his	62	“ I ’ve never lost it . ”
+859	865	793	793	I	0	“ Then your manuscript — ? ”
+866	881	882	882	He	62	“ Is in old , faded ink , and in the most beautiful hand . ”
+887	911	882	882	He	62	“ A woman ’s . She has been dead these twenty years . She sent me the pages in question before she died . ”
+953	976	977	977	he	62	“ She was a most charming person , but she was ten years older than I. She was my sister ’s governess , ”
+981	1155	977	977	he	62	“ She was the most agreeable woman I ’ve ever known in her position ; she would have been worthy of any whatever . It was long ago , and this episode was long before . I was at Trinity , and I found her at home on my coming down the second summer . I was much there that year — it was a beautiful one ; and we had , in her off - hours , some strolls and talks in the garden — talks in which she struck me as awfully clever and nice . Oh yes ; do n’t grin : I liked her extremely and am glad to this day to think she liked me , too . If she had n’t she would n’t have told me . She had never told anyone . It was n’t simply that she said so , but that I knew she had n’t . I was sure ; I could see . You ’ll easily judge why when you hear . ”
+1156	1166	1167	1167	He	69	“ Because the thing had been such a scare ? ”
+1173	1179	1180	1180	he	69	“ You ’ll easily judge , ”
+1183	1189	1180	1180	he	69	“ _ you _ will . ”
+1196	1205	1190	1190	I	0	“ I see . She was in love . ”
+1213	1309	1206	1206	He	69	“ You _ are _ acute . Yes , she was in love . That is , she had been . That came out — she could n’t tell her story without its coming out . I saw it , and she saw I saw it ; but neither of us spoke of it . I remember the time and the place — the corner of the lawn , the shade of the great beeches and the long , hot summer afternoon . It was n’t a scene for a shudder ; but oh — ! ”
+1321	1330	1331	1331	I	0	“ You ’ll receive the packet Thursday morning ? ”
+1334	1342	1206	1206	He	69	“ Probably not till the second post . ”
+1343	1350	1206	1206	He	69	“ Well then ; after dinner — ”
+1351	1359	1360	1360	He	69	“ You ’ll all meet me here ? ”
+1366	1372	1360	1360	He	69	“ Is n’t anybody going ? ”
+1381	1386	1206	1206	He	69	“ Everybody will stay ! ”
+1387	1391	1206	1206	He	69	“ _ I _ will”—and
+1392	1398	1400	1406	the ladies whose departure had been fixed	71	“ _ I _ will ! ”
+1422	1432	1408	1409	Mrs. Griffin	11	“ Who was it she was in love with ? ”
+1433	1439	1440	1440	I	0	“ The story will tell , ”
+1447	1458	1206	1206	He	69	“ Oh , I ca n’t wait for the story ! ”
+1459	1468	1470	1470	Douglas	10	“ The story _ wo n’t _ tell , ”
+1472	1481	1470	1470	Douglas	10	“ not in any literal , vulgar way . ”
+1482	1499	1206	1206	He	69	“ More ’s the pity , then . That ’s the only way I ever understand . ”
+1500	1510	1511	1512	somebody else	72	“ Wo n’t _ you _ tell , Douglas ? ”
+1522	1537	1515	1515	He	10	“ Yes — tomorrow . Now I must go to bed . Good night . ”
+1572	1595	1568	1569	Mrs. Griffin	11	“ Well , if I do n’t know who she was in love with , I know who _ he _ was . ”
+1596	1603	1605	1606	her husband	74	“ She was ten years older , ”
+1608	1626	1568	1569	Mrs. Griffin	11	“ _ Raison de plus_—at that age ! But it ’s rather nice , his long reticence . ”
+1627	1631	1632	1632	Griffin	11	“ Forty years ! ”
+1636	1643	1568	1569	Mrs. Griffin	11	“ With this outbreak at last . ”
+1644	1648	1649	1649	I	0	“ The outbreak , ”
+1652	1662	1664	1664	everyone	75	“ will make a tremendous occasion of Thursday night ; ”
+1707	1710	1712	1712	somebody	52	“ candlestuck , ”
+2869	2882	2864	2864	someone	138	“ And what did the former governess die of?—of so much respectability ? ”
+2890	2901	2883	2884	Our friend	62	“ That will come out . I do n’t anticipate . ”
+2902	2918	2952	2952	Douglas	10	“ Excuse me — I thought that was just what you _ are _ doing . ”
+2919	2926	2927	2927	I	0	“ In her successor ’s place , ”
+2930	2944	2927	2927	I	0	“ I should have wished to learn if the office brought with it — ”
+2945	2951	2952	2952	Douglas	10	“ Necessary danger to life ? ”
+2957	3050	2952	2952	Douglas	10	“ She did wish to learn , and she did learn . You shall hear tomorrow what she learned . Meanwhile , of course , the prospect struck her as slightly grim . She was young , untried , nervous : it was a vision of serious duties and little company , of really great loneliness . She hesitated — took a couple of days to consult and consider . But the salary offered much exceeded her modest measure , and on a second interview she faced the music , she engaged . ”
+3075	3097	3052	3052	Douglas	10	“ The moral of which was of course the seduction exercised by the splendid young man . She succumbed to it . ”
+3136	3143	3131	3131	his	10	“ She saw him only twice . ”
+3144	3157	3104	3104	he	10	“ Yes , but that ’s just the beauty of her passion . ”
+3173	3187	3188	3188	he	10	“ It _ was _ the beauty of it . There were others , ”
+3192	3243	3188	3188	he	10	“ who had n’t succumbed . He told her frankly all his difficulty — that for several applicants the conditions had been prohibitive . They were , somehow , simply afraid . It sounded dull — it sounded strange ; and all the more so because of his main condition . ”
+3244	3249	3188	3188	he	10	“ Which was — ? ”
+3250	3333	3188	3188	he	10	“ That she should never trouble him — but never , never : neither appeal nor complain nor write about anything ; only meet all questions herself , receive all moneys from his solicitor , take the whole thing over and let him alone . She promised to do this , and she mentioned to me that when , for a moment , disburdened , delighted , he held her hand , thanking her for the sacrifice , she already felt rewarded . ”
+3334	3342	3345	3346	the ladies	144	“ But was that all her reward ? ”
+3349	3356	3188	3188	he	10	“ She never saw him again . ”
+3357	3360	3362	3363	the lady	145	“ Oh ! ”
+3443	3449	3436	3438	the same lady	148	“ What is your title ? ”
+3450	3456	3404	3404	he	62	“ I have n’t one . ”
+3457	3465	3466	3466	I	0	“ Oh , _ I _ have ! ”
+4438	4440	4442	4442	Flora	16	“ form ”
+4697	4716	4717	4717	One	94	“ And the little boy — does he look like her ? Is he too so very remarkable ? ”
+4724	4740	4741	4741	she	14	“ Oh , miss , _ most _ remarkable . If you think well of this one!”—and
+4776	4784	4741	4741	she	14	“ Yes ; if I do — ? ”
+4785	4798	4741	4741	she	14	“ You _ will _ be carried away by the little gentleman ! ”
+4799	4824	4825	4825	I	0	“ Well , that , I think , is what I came for — to be carried away . I ’m afraid , however , ”
+4833	4848	4825	4825	I	0	“ I ’m rather easily carried away . I was carried away in London ! ”
+4864	4869	4859	4859	she	14	“ In Harley Street ? ”
+4870	4875	4859	4859	she	14	“ In Harley Street . ”
+4876	4895	4859	4859	she	14	“ Well , miss , you ’re not the first — and you wo n’t be the last . ”
+4896	4904	4905	4905	I	0	“ Oh , I ’ve no pretension , ”
+4909	4932	4905	4905	I	0	“ to being the only one . My other pupil , at any rate , as I understand , comes back tomorrow ? ”
+4933	4968	4969	4969	I	0	“ Not tomorrow — Friday , miss . He arrives , as you did , by the coach , under care of the guard , and is to be met by the same carriage . ”
+5655	5698	5699	5699	I	0	“ This , I recognize , is from the headmaster , and the headmaster ’s an awful bore . Read him , please ; deal with him ; but mind you do n’t report . Not a word . I ’m off ! ”
+5798	5811	5812	5812	She	14	“ What does it mean ? The child ’s dismissed his school . ”
+5841	5849	5812	5812	She	14	“ But are n’t they all — ? ”
+5850	5870	5812	5812	She	14	“ Sent home — yes . But only for the holidays . Miles may never go back at all . ”
+5880	5887	5877	5877	she	14	“ They wo n’t take him ? ”
+5888	5893	5812	5812	She	14	“ They absolutely decline . ”
+5916	5922	5896	5896	she	14	“ What has he done ? ”
+5965	5975	5959	5959	She	14	“ Such things are not for me , miss . ”
+6027	6035	6019	6019	I	0	“ Is he really _ bad _ ? ”
+6044	6051	6041	6041	her	14	“ Do the gentlemen say so ? ”
+6052	6080	6088	6088	she	14	“ They go into no particulars . They simply express their regret that it should be impossible to keep him . That can have only one meaning . ”
+6128	6138	6124	6124	I	0	“ That he ’s an injury to the others . ”
+6157	6167	6152	6152	she	14	“ Master Miles ! _ him _ an injury ? ”
+6222	6230	6204	6204	myself	0	“ To his poor little innocent mates ! ”
+6231	6237	6239	6240	Mrs. Grose	14	“ It ’s too dreadful , ”
+6242	6258	6239	6240	Mrs. Grose	14	“ to say such cruel things ! Why , he ’s scarce ten years old . ”
+6259	6269	6270	6270	She	14	“ Yes , yes ; it would be incredible . ”
+6279	6293	6270	6270	She	14	“ See him , miss , first . _ Then _ believe it ! ”
+6351	6366	6367	6367	she	14	“ You might as well believe it of the little lady . Bless her , ”
+6371	6376	6367	6367	she	14	moment—“_look _ at her ! ”
+6411	6416	6419	6419	herself	16	“ round O ’s , ”
+6587	6612	6573	6573	I	0	“ I take what you said to me at noon as a declaration that _ you ’ve _ never known him to be bad . ”
+6635	6650	6619	6619	she	188	“ Oh , never known him — I do n’t pretend _ that ! _ ”
+6656	6666	6651	6651	I	0	“ Then you _ have _ known him — ? ”
+6667	6676	6616	6616	her	188	“ Yes indeed , miss , thank God ! ”
+6683	6694	6679	6679	I	0	“ You mean that a boy who never is — ? ”
+6695	6704	6616	6616	her	188	“ Is no boy for _ me ! _ ”
+6710	6721	6705	6705	I	0	“ You like them with the spirit to be naughty ? ”
+6730	6735	6736	6736	I	0	“ So do I ! ”
+6741	6750	6736	6736	I	0	“ But not to the degree to contaminate — ”
+6751	6753	6757	6757	her	188	“ To contaminate?”—my
+6766	6770	6762	6762	I	0	“ To corrupt . ”
+6788	6799	6800	6800	She	188	“ Are you afraid he ’ll corrupt _ you ? _ ”
+6858	6868	6851	6851	I	0	“ What was the lady who was here before ? ”
+6869	6895	6823	6823	her	188	“ The last governess ? She was also young and pretty — almost as young and almost as pretty , miss , even as you . ”
+6896	6911	6912	6912	I	0	“ Ah , then , I hope her youth and her beauty helped her ! ”
+6917	6927	6912	6912	I	0	“ He seems to like us young and pretty ! ”
+6928	6936	6937	6938	Mrs. Grose	14	“ Oh , he _ did _ , ”
+6941	6950	6951	6951	She	188	“ it was the way he liked everyone ! ”
+6963	6977	6958	6958	she	188	“ I mean that ’s _ his _ way — the master ’s . ”
+6982	6991	6978	6978	I	0	“ But of whom did you speak first ? ”
+7000	7008	6997	6997	she	188	“ Why , of _ him _ . ”
+7009	7014	7038	7038	her	188	“ Of the master ? ”
+7015	7020	6997	6997	she	188	“ Of who else ? ”
+7057	7069	7048	7048	I	0	“ Did _ she _ see anything in the boy — ? ”
+7070	7081	7038	7038	her	188	“ That was n’t right ? She never told me . ”
+7092	7099	7088	7088	I	0	“ Was she careful — particular ? ”
+7109	7116	7100	7101	Mrs. Grose	14	“ About some things — yes . ”
+7117	7123	7125	7125	she	188	“ But not about all ? ”
+7128	7143	7125	7125	she	188	“ Well , miss — she ’s gone . I wo n’t tell tales . ”
+7144	7151	7152	7152	I	0	“ I quite understand your feeling , ”
+7174	7180	7158	7158	I	0	“ Did she die here ? ”
+7181	7188	7125	7125	she	188	“ No — she went off . ”
+7209	7215	7200	7201	Mrs. Grose	14	“ Went off to die ? ”
+7249	7262	7239	7243	young persons engaged for Bly	226	“ She was taken ill , you mean , and went home ? ”
+7263	7379	7216	7217	Mrs. Grose	14	“ She was not taken ill , so far as appeared , in this house . She left it , at the end of the year , to go home , as she said , for a short holiday , to which the time she had put in had certainly given her a right . We had then a young woman — a nursemaid who had stayed on and who was a good girl and clever ; and _ she _ took the children altogether for the interval . But our young lady never came back , and at the very moment I was expecting her I heard from the master that she was dead . ”
+7385	7390	7380	7380	I	0	“ But of what ? ”
+7391	7402	7404	7405	Mrs. Grose	14	“ He never told me ! But please , miss , ”
+7407	7415	7404	7405	Mrs. Grose	14	“ I must get to my work . ”
+7737	7745	7732	7732	She	14	“ You mean the cruel charge — ? ”
+7746	7764	7765	7765	She	14	“ It does n’t live an instant . My dear woman , _ look _ at him ! ”
+7776	7795	7796	7796	she	14	“ I assure you , miss , I do nothing else ! What will you say , then ? ”
+7800	7807	7808	7808	I	0	“ In answer to the letter ? ”
+7815	7818	7808	7808	I	0	“ Nothing . ”
+7819	7825	7796	7796	she	14	“ And to his uncle ? ”
+7830	7833	7826	7826	I	0	“ Nothing . ”
+7834	7841	7808	7808	I	0	“ And to the boy himself ? ”
+7846	7849	7842	7842	I	0	“ Nothing . ”
+7862	7876	7850	7850	She	14	“ Then I ’ll stand by you . We ’ll see it out . ”
+7877	7884	7885	7885	I	0	“ We ’ll see it out ! ”
+7917	7930	7913	7913	her	14	“ Would you mind , miss , if I used the freedom — ”
+7931	7938	7939	7939	I	0	“ To kiss me ? No ! ”
+10012	10014	9971	9971	He	274	“ secret ”
+10610	10613	10635	10635	someone	138	“ game . ”
+11279	11281	11272	11272	he	15	“ caught ”
+11606	11610	11622	11622	I	0	“ grown - up ”
+12499	12511	12493	12493	she	14	“ What in the name of goodness is the matter — ? ”
+12530	12534	12521	12521	I	0	“ With me ? ”
+12543	12549	12535	12535	I	0	“ Do I show it ? ”
+12550	12563	12521	12521	I	0	“ You ’re as white as a sheet . You look awful . ”
+12657	12674	12654	12654	her	14	“ You came for me for church , of course , but I ca n’t go . ”
+12675	12680	12654	12654	her	14	“ Has anything happened ? ”
+12681	12695	12654	12654	her	14	“ Yes . You must know now . Did I look very queer ? ”
+12696	12703	12654	12654	her	14	“ Through this window ? Dreadful ! ”
+12704	12707	12708	12708	I	0	“ Well , ”
+12711	12717	12708	12708	I	0	“ I ’ve been frightened . ”
+12768	12799	12737	12737	she	14	“ Just what you saw from the dining room a minute ago was the effect of that . What _ I _ saw — just before — was much worse . ”
+12804	12809	12800	12800	Her	14	“ What was it ? ”
+12810	12818	12876	12876	She	14	“ An extraordinary man . Looking in . ”
+12819	12824	12800	12800	Her	14	“ What extraordinary man ? ”
+12825	12833	12876	12876	She	14	“ I have n’t the least idea . ”
+12842	12849	12834	12835	Mrs. Grose	14	“ Then where is he gone ? ”
+12850	12856	12800	12800	Her	14	“ I know still less . ”
+12857	12864	12834	12835	Mrs. Grose	14	“ Have you seen him before ? ”
+12865	12875	12800	12800	Her	14	“ Yes — once . On the old tower . ”
+12884	12893	12876	12876	She	14	“ Do you mean he ’s a stranger ? ”
+12894	12900	12834	12835	Mrs. Grose	14	“ Oh , very much ! ”
+12901	12909	12876	12876	She	14	“ Yet you did n’t tell me ? ”
+12910	12923	12834	12835	Mrs. Grose	14	“ No — for reasons . But now that you ’ve guessed — ”
+12933	12941	12942	12942	she	14	“ Ah , I have n’t guessed ! ”
+12947	12959	12942	12942	she	14	“ How can I if _ you _ do n’t imagine ? ”
+12960	12969	12876	12876	She	14	“ I do n’t in the very least . ”
+12970	12981	12942	12942	she	14	“ You ’ve seen him nowhere but on the tower ? ”
+12982	12990	12876	12876	She	14	“ And on this spot just now . ”
+12997	13006	12991	12992	Mrs. Grose	14	“ What was he doing on the tower ? ”
+13007	13017	12942	12942	she	14	“ Only standing there and looking down at me . ”
+13023	13029	13018	13018	She	14	“ Was he a gentleman ? ”
+13039	13042	13043	13043	She	14	“ No . ”
+13049	13052	13043	13043	She	14	“ No . ”
+13053	13065	12991	12992	Mrs. Grose	14	“ Then nobody about the place ? Nobody from the village ? ”
+13066	13082	13043	13043	She	14	“ Nobody — nobody . I did n’t tell you , but I made sure . ”
+13108	13117	13152	13153	Mrs. Grose	14	“ But if he is n’t a gentleman — ”
+13118	13130	12991	12992	Mrs. Grose	14	“ What _ is _ he ? He ’s a horror . ”
+13131	13135	13152	13153	Mrs. Grose	14	“ A horror ? ”
+13136	13151	12991	12992	Mrs. Grose	14	“ He’s — God help me if I know _ what _ he is ! ”
+13181	13191	13159	13159	she	14	“ It ’s time we should be at church . ”
+13192	13202	13263	13264	Mrs. Grose	14	“ Oh , I ’m not fit for church ! ”
+13203	13211	13159	13159	she	14	“ Wo n’t it do you good ? ”
+13212	13227	13263	13264	Mrs. Grose	14	“ It wo n’t do _ them ! _ — I nodded at the house .
+13228	13232	13159	13159	she	14	“ The children ? ”
+13233	13241	13263	13264	Mrs. Grose	14	“ I ca n’t leave them now . ”
+13242	13248	13159	13159	she	14	“ You ’re afraid — ? ”
+13253	13262	13249	13249	I	0	“ I ’m afraid of _ him _ . ”
+13353	13362	13346	13346	she	14	“ When was it — on the tower ? ”
+13363	13376	13334	13334	her	14	“ About the middle of the month . At this same hour . ”
+13377	13382	13384	13385	Mrs. Grose	14	“ Almost at dark , ”
+13387	13403	13334	13334	her	14	“ Oh , no , not nearly . I saw him as I see you . ”
+13404	13412	13334	13334	her	14	“ Then how did he get in ? ”
+13413	13421	13422	13422	I	0	“ And how did he get out ? ”
+13425	13440	13441	13441	I	0	“ I had no opportunity to ask him ! This evening , you see , ”
+13444	13454	13441	13441	I	0	“ he has not been able to get in . ”
+13455	13460	13422	13422	I	0	“ He only peeps ? ”
+13461	13471	13472	13472	She	14	“ I hope it will be confined to that ! ”
+13496	13507	13492	13492	I	0	“ Go to church . Goodbye . I must watch . ”
+13514	13521	13509	13509	she	14	“ Do you fear for them ? ”
+13529	13536	13540	13540	she	14	“ Do n’t _ you ? _ ”
+13559	13567	13568	13568	I	0	“ You see how he could see , ”
+13578	13585	13573	13573	She	14	“ How long was he here ? ”
+13586	13598	13573	13573	She	14	“ Till I came out . I came to meet him . ”
+13615	13625	13612	13612	her	14	“ _ I _ could n’t have come out . ”
+13626	13631	13632	13632	I	0	“ Neither could I ! ”
+13636	13647	13632	13632	I	0	“ But I did come . I have my duty . ”
+13648	13654	13655	13655	she	14	“ So have I mine , ”
+13663	13669	13660	13660	she	14	“ What is he like ? ”
+13670	13685	13660	13660	she	14	“ I ’ve been dying to tell you . But he ’s like nobody . ”
+13686	13689	13690	13690	she	14	“ Nobody ? ”
+13693	13699	13703	13703	her	14	“ He has no hat . ”
+13730	13853	13723	13723	I	0	“ He has red hair , very red , close - curling , and a pale face , long in shape , with straight , good features and little , rather queer whiskers that are as red as his hair . His eyebrows are , somehow , darker ; they look particularly arched and as if they might move a good deal . His eyes are sharp , strange — awfully ; but I only know clearly that they ’re rather small and very fixed . His mouth ’s wide , and his lips are thin , and except for his little whiskers he ’s quite clean - shaven . He gives me a sort of sense of looking like an actor . ”
+13854	13858	13723	13723	I	0	“ An actor ! ”
+13877	13898	13899	13899	I	0	“ I ’ve never seen one , but so I suppose them . He ’s tall , active , erect , ”
+13902	13911	13899	13899	I	0	“ but never — no , never!—a gentleman . ”
+13933	13937	13938	13938	she	239	“ A gentleman ? ”
+13945	13952	13938	13938	she	239	“ a gentleman _ he ? _ ”
+13953	13959	13960	13960	She	239	“ You know him then ? ”
+13967	13975	13960	13960	She	239	“ But he _ is _ handsome ? ”
+13984	13987	13976	13976	I	0	“ Remarkably ! ”
+13988	13993	14014	14014	She	239	“ And dressed — ? ”
+13994	14000	13976	13976	I	0	“ In somebody ’s clothes . ”
+14001	14013	14014	14014	She	239	“ They ’re smart , but they ’re not his own . ”
+14022	14029	14014	14014	She	239	“ They ’re the master ’s ! ”
+14035	14043	14030	14030	I	0	“ You _ do _ know him ? ”
+14050	14053	14054	14054	she	239	“ Quint ! ”
+14057	14060	14014	14014	She	239	“ Quint ? ”
+14061	14077	14092	14092	she	239	“ Peter Quint — his own man , his valet , when he was here ! ”
+14078	14084	14014	14014	She	239	“ When the master was ? ”
+14098	14135	14092	14092	she	239	“ He never wore his hat , but he did wear — well , there were waistcoats missed . They were both here — last year . Then the master went , and Quint was alone . ”
+14144	14147	14136	14136	I	0	“ Alone ? ”
+14148	14155	14169	14169	she	239	“ Alone with _ us _ . ”
+14164	14168	14169	14169	she	239	“ In charge , ”
+14172	14179	14180	14180	She	239	“ And what became of him ? ”
+14192	14198	14199	14199	she	239	“ He went , too , ”
+14205	14209	14210	14210	Her	239	“ Went where ? ”
+14219	14227	14210	14210	Her	239	“ God knows where ! He died . ”
+14228	14231	14232	14232	I	0	“ Died ? ”
+14254	14262	14236	14236	She	239	“ Yes . Mr. Quint is dead . ”
+14743	14760	14729	14729	We	370	“ He was looking for someone else , you say — someone who was not you ? ”
+14761	14769	14718	14718	strength	382	“ He was looking for little Miles . ”
+14777	14788	14718	14718	strength	382	“ _ That ’s _ whom he was looking for . ”
+14789	14796	14729	14729	We	370	“ But how do you know ? ”
+14797	14807	14808	14808	My	0	“ I know , I know , I know ! ”
+14812	14822	14808	14808	My	0	“ And _ you _ know , my dear ! ”
+14854	14864	14844	14844	She	383	“ What if _ he _ should see him ? ”
+14865	14875	14876	14876	She	383	“ Little Miles ? That ’s what he wants ! ”
+14882	14886	14876	14876	She	383	“ The child ? ”
+14887	14903	14905	14905	he	384	“ Heaven forbid ! The man . He wants to appear to _ them _ . ”
+15031	15043	15044	15044	She	14	“ It does strike me that my pupils have never mentioned — ”
+15055	15068	15044	15044	She	14	“ His having been here and the time they were with him ? ”
+15069	15091	15044	15044	She	14	“ The time they were with him , and his name , his presence , his history , in any way . ”
+15092	15108	15044	15044	She	14	“ Oh , the little lady does n’t remember . She never heard or knew . ”
+15109	15116	15117	15117	I	0	“ The circumstances of his death ? ”
+15123	15136	15117	15117	I	0	“ Perhaps not . But Miles would remember — Miles would know . ”
+15137	15145	15148	15149	Mrs. Grose	14	“ Ah , do n’t try him ! ”
+15161	15167	15156	15156	she	14	“ Do n’t be afraid . ”
+15173	15181	15168	15168	I	0	“ It _ is _ rather odd . ”
+15182	15191	15156	15156	she	14	“ That he has never spoken of him ? ”
+15192	15210	15168	15168	I	0	“ Never by the least allusion . And you tell me they were ‘ great friends ’ ? ”
+15211	15221	15222	15223	Mrs. Grose	14	“ Oh , it was n’t _ him ! _ ”
+15228	15248	15249	15249	She	14	“ It was Quint ’s own fancy . To play with him , I mean — to spoil him . ”
+15258	15265	15255	15255	she	14	“ Quint was much too free . ”
+15285	15294	15255	15255	she	14	“ Too free with _ my _ boy ? ”
+15295	15301	15255	15255	she	14	“ Too free with everyone ! ”
+15449	15472	15437	15437	she	14	“ I have it from you then — for it ’s of great importance — that he was definitely and admittedly bad ? ”
+15473	15491	15552	15552	my	0	“ Oh , not admittedly . _ I _ knew it — but the master did n’t . ”
+15492	15499	15437	15437	she	14	“ And you never told him ? ”
+15500	15536	15552	15552	my	0	“ Well , he did n’t like tale - bearing — he hated complaints . He was terribly short with anything of that kind , and if people were all right to _ him _ — ”
+15537	15546	15437	15437	she	14	“ He would n’t be bothered with more ? ”
+15590	15601	15585	15585	I	0	“ I promise you _ I _ would have told ! ”
+15607	15622	15602	15602	She	402	“ I daresay I was wrong . But , really , I was afraid . ”
+15623	15628	15602	15602	She	402	“ Afraid of what ? ”
+15629	15647	15602	15602	She	402	“ Of things that man could do . Quint was so clever — he was so deep . ”
+15661	15676	15648	15648	I	0	“ You were n’t afraid of anything else ? Not of his effect — ? ”
+15677	15681	15682	15682	she	402	“ His effect ? ”
+15695	15708	15648	15648	I	0	“ On innocent little precious lives . They were in your charge . ”
+15709	15718	15719	15719	she	402	“ No , they were not in mine ! ”
+15725	15759	15719	15719	she	402	“ The master believed in him and placed him here because he was supposed not to be well and the country air so good for him . So he had everything to say . Yes”—she
+15763	15769	15719	15719	she	402	it—“even about _ them _ . ”
+15770	15776	15777	15777	I	0	“ Them — that creature ? ”
+15786	15793	15777	15777	I	0	“ And you could bear it ! ”
+15794	15806	15808	15810	the poor woman	403	“ No . I couldn’t — and I ca n’t now ! ”
+17590	17604	17582	17582	I	0	“ They _ know_—it ’s too monstrous : they know , they know ! ”
+17605	17612	17615	17615	her	14	“ And what on earth — ? ”
+17622	17639	17643	17643	she	14	“ Why , all that _ we _ know — and heaven knows what else besides ! ”
+17667	17674	17643	17643	she	14	“ Two hours ago , in the garden”—I
+17677	17682	17643	17643	she	14	articulate—“Flora _ saw ! _ ”
+17698	17704	17705	17705	she	14	“ She has told you ? ”
+17708	17734	17747	17748	Mrs. Grose	14	“ Not a word — that ’s the horror . She kept it to herself ! The child of eight , _ that _ child ! ”
+17759	17766	17747	17748	Mrs. Grose	14	“ Then how do you know ? ”
+17767	17785	17747	17748	Mrs. Grose	14	“ I was there — I saw with my eyes : saw that she was perfectly aware . ”
+17786	17796	17747	17748	Mrs. Grose	14	“ Do you mean aware of _ him ? _ ”
+17797	17805	17747	17748	Mrs. Grose	14	“ No — of _ her _ . ”
+17832	17897	17827	17828	my companion	239	“ Another person — this time ; but a figure of quite as unmistakable horror and evil : a woman in black , pale and dreadful — with such an air also , and such a face!—on the other side of the lake . I was there with the child — quiet for the hour ; and in the midst of it she came . ”
+17898	17905	17953	17953	My	0	“ Came how — from where ? ”
+17906	17925	17827	17828	my companion	239	“ From where they come from ! She just appeared and stood there — but not so near . ”
+17926	17932	17953	17953	My	0	“ And without coming nearer ? ”
+17933	17952	17827	17828	my companion	239	“ Oh , for the effect and the feeling , she might have been as close as you ! ”
+17966	17975	17953	17954	My friend	219	“ Was she someone you ’ve never seen ? ”
+17976	17991	17953	17953	My	0	“ Yes . But someone the child has . Someone _ you _ have . ”
+18004	18013	17953	17953	My	0	“ My predecessor — the one who died . ”
+18014	18018	17953	17953	My	0	“ Miss Jessel ? ”
+18019	18029	18030	18030	I	0	“ Miss Jessel . You do n’t believe me ? ”
+18042	18049	18033	18033	She	219	“ How can you be sure ? ”
+18067	18075	18111	18112	Mrs. Grose	14	“ Then ask Flora—_she ’s _ sure ! ”
+18088	18110	18083	18083	I	0	“ No , for God ’s sake , _ do n’t ! _ She ’ll say she isn’t — she’ll lie ! ”
+18121	18130	18111	18112	Mrs. Grose	14	“ Ah , how _ can _ you ? ”
+18131	18145	18215	18216	Mrs. Grose	14	“ Because I ’m clear . Flora does n’t want me to know . ”
+18146	18155	18111	18112	Mrs. Grose	14	“ It ’s only then to spare you . ”
+18156	18214	18215	18216	Mrs. Grose	14	“ No , no — there are depths , depths ! The more I go over it , the more I see in it , and the more I see in it , the more I fear . I do n’t know what I _ do n’t _ see — what I _ do n’t _ fear ! ”
+18224	18235	18215	18216	Mrs. Grose	14	“ You mean you ’re afraid of seeing her again ? ”
+18236	18247	18249	18249	I	0	“ Oh , no ; that ’s nothing — now ! ”
+18252	18262	18249	18249	I	0	“ It ’s of _ not _ seeing her . ”
+18270	18277	18264	18265	my companion	239	“ I do n’t understand you . ”
+18278	18302	18215	18216	Mrs. Grose	14	“ Why , it ’s that the child may keep it up — and that the child assuredly _ will_—without my knowing it . ”
+18351	18374	18375	18375	She	14	“ Dear , dear — we must keep our heads ! And after all , if she does n’t mind it — ! ”
+18382	18388	18375	18375	She	14	“ Perhaps she likes it ! ”
+18389	18402	18421	18421	She	14	“ Likes _ such _ things — a scrap of an infant ! ”
+18403	18415	18416	18417	my friend	219	“ Is n’t it just a proof of her blessed innocence ? ”
+18432	18476	18421	18421	She	14	“ Oh , we must clutch at _ that_—we must cling to it ! If it is n’t a proof of what you say , it ’s a proof of — God knows what ! For the woman ’s a horror of horrors . ”
+18498	18505	18506	18506	she	14	“ Tell me how you know , ”
+18509	18519	18520	18520	I	0	“ Then you admit it ’s what she was ? ”
+18523	18530	18531	18532	my friend	219	“ Tell me how you know , ”
+18536	18549	18477	18478	Mrs. Grose	14	“ Know ? By seeing her ! By the way she looked . ”
+18550	18561	18609	18609	She	14	“ At you , do you mean — so wickedly ? ”
+18562	18587	18477	18478	Mrs. Grose	14	“ Dear me , no — I could have borne that . She gave me never a glance . She only fixed the child . ”
+18595	18599	18588	18589	Mrs. Grose	14	“ Fixed her ? ”
+18600	18608	18609	18609	She	14	“ Ah , with such awful eyes ! ”
+18622	18629	18609	18609	She	14	“ Do you mean of dislike ? ”
+18630	18642	18588	18589	Mrs. Grose	14	“ God help us , no . Of something much worse . ”
+18643	18646	18648	18648	her	14	“ Worse than dislike?”—this
+18654	18669	18588	18589	Mrs. Grose	14	“ With a determination — indescribable . With a kind of fury of intention . ”
+18676	18679	18670	18670	I	0	“ Intention ? ”
+18680	18687	18688	18689	Mrs. Grose	14	“ To get hold of her . ”
+18719	18728	18714	18714	I	0	“ _ That ’s _ what Flora knows . ”
+18736	18746	18732	18732	she	14	“ The person was in black , you say ? ”
+18747	18765	18766	18766	I	0	“ In mourning — rather poor , almost shabby . But — yes — with extraordinary beauty . ”
+18794	18803	18804	18804	I	0	“ Oh , handsome — very , very , ”
+18807	18814	18804	18804	I	0	“ wonderfully handsome . But infamous . ”
+18822	18828	18829	18829	She	14	“ Miss Jessel—_was _ infamous . ”
+18861	18867	18868	18868	she	14	“ They were both infamous , ”
+18900	18904	18905	18905	I	0	“ I appreciate , ”
+18908	18932	18905	18905	I	0	“ the great decency of your not having hitherto spoken ; but the time has certainly come to give me the whole thing . ”
+18952	18973	18948	18948	I	0	“ I must have it now . Of what did she die ? Come , there was something between them . ”
+18974	18979	18933	18933	She	14	“ There was everything . ”
+18980	18988	18948	18948	I	0	“ In spite of the difference — ? ”
+18989	18997	18933	18933	She	14	“ Oh , of their rank , their condition”—she
+19003	19011	18933	18933	She	14	“ _ She _ was a lady . ”
+19021	19029	19012	19012	I	0	“ Yes — she was a lady . ”
+19030	19037	19039	19040	Mrs. Grose	14	“ And he so dreadfully below , ”
+19122	19124	19119	19125	good - looking “ own ” man	471	“ own ”
+19135	19142	19119	19125	good - looking “ own ” man	471	“ The fellow was a hound . ”
+19161	19176	19143	19144	Mrs. Grose	14	“ I ’ve never seen one like him . He did what he wished . ”
+19177	19183	19143	19144	Mrs. Grose	14	“ With _ her ? _ ”
+19184	19189	19143	19144	Mrs. Grose	14	“ With them all . ”
+19241	19253	19235	19235	I	0	“ It must have been also what _ she _ wished ! ”
+19273	19282	19266	19266	she	14	“ Poor woman — she paid for it ! ”
+19283	19293	19294	19294	I	0	“ Then you do know what she died of ? ”
+19297	19329	19266	19266	she	14	“ No — I know nothing . I wanted not to know ; I was glad enough I did n’t ; and I thanked heaven she was well out of this ! ”
+19330	19340	19266	19266	she	14	“ Yet you had , then , your idea — ”
+19341	19388	19266	19266	she	14	“ Of her real reason for leaving ? Oh , yes — as to that . She could n’t have stayed . Fancy it here — for a governess ! And afterward I imagined — and I still imagine . And what I imagine is dreadful . ”
+19389	19400	19401	19401	I	0	“ Not so dreadful as what _ I _ do , ”
+19482	19489	19469	19469	she	475	“ I do n’t do it ! ”
+19495	19515	19490	19490	I	0	“ I do n’t save or shield them ! It ’s far worse than I dreamed — they’re lost ! ”
+19675	19680	19681	19681	I	0	“ made it up , ”
+19949	19952	19931	19931	She	14	“ cried . ”
+20534	20543	20544	20544	I	0	“ I do n’t believe anything so horrible , ”
+20548	20738	20544	20544	I	0	“ no , let us put it definitely , my dear , that I do n’t . But if I did , you know , there ’s a thing I should require now , just without sparing you the least bit more — oh , not a scrap , come!—to get out of you . What was it you had in mind when , in our distress , before Miles came back , over the letter from his school , you said , under my insistence , that you did n’t pretend for him that he had not literally _ ever _ been ‘ bad ’ ? He has _ not _ literally ‘ ever , ’ in these weeks that I myself have lived with him and so closely watched him ; he has been an imperturbable little prodigy of delightful , lovable goodness . Therefore you might perfectly have made the claim for him if you had not , as it happened , seen an exception to take . What was your exception , and to what passage in your personal observation of him did you refer ? ”
+20926	20938	20916	20916	I	0	“ You reminded him that Quint was only a base menial ? ”
+20939	20959	20916	20916	I	0	“ As you might say ! And it was his answer , for one thing , that was bad . ”
+20960	20966	20967	20967	I	0	“ And for another thing ? ”
+20970	20978	20967	20967	I	0	“ He repeated your words to Quint ? ”
+20979	20995	20996	20996	she	219	“ No , not that . It ’s just what he _ would n’t ! _ ”
+21003	21012	21013	21013	she	219	“ I was sure , at any rate , ”
+21016	21028	21013	21013	she	219	“ that he did n’t . But he denied certain occasions . ”
+21029	21033	21097	21097	Her	219	“ What occasions ? ”
+21034	21082	21013	21013	she	219	“ When they had been about together quite as if Quint were his tutor — and a very grand one — and Miss Jessel only for the little lady . When he had gone off with the fellow , I mean , and spent hours with him . ”
+21083	21096	21097	21097	Her	219	“ He then prevaricated about it — he said he had n’t ? ”
+21111	21118	21097	21097	Her	219	“ I see . He lied . ”
+21119	21122	21123	21124	Mrs. Grose	14	“ Oh ! ”
+21147	21166	21139	21139	she	219	“ You see , after all , Miss Jessel did n’t mind . She did n’t forbid him . ”
+21170	21181	21167	21167	I	0	“ Did he put that to you as a justification ? ”
+21188	21197	21184	21184	she	219	“ No , he never spoke of it . ”
+21198	21207	21208	21208	She	219	“ Never mentioned her in connection with Quint ? ”
+21220	21232	21233	21233	she	219	“ Well , he did n’t show anything . He denied , ”
+21236	21240	21233	21233	she	219	“ he denied . ”
+21249	21264	21244	21244	I	0	“ So that you could see he knew what was between the two wretches ? ”
+21265	21276	21277	21279	the poor woman	403	“ I do n’t know — I do n’t know ! ”
+21282	21291	21292	21292	I	0	“ You do know , you dear thing , ”
+21295	21370	21371	21371	I	0	“ only you have n’t my dreadful boldness of mind , and you keep back , out of timidity and modesty and delicacy , even the impression that , in the past , when you had , without my aid , to flounder about in silence , most of all made you miserable . But I shall get it out of you yet ! There was something in the boy that suggested to you , ”
+21374	21383	21371	21371	I	0	“ that he covered and concealed their relation . ”
+21384	21392	21491	21491	she	14	“ Oh , he could n’t prevent — ”
+21393	21406	21407	21407	I	0	“ Your learning the truth ? I daresay ! But , heavens , ”
+21415	21434	21407	21407	I	0	“ what it shows that they must , to that extent , have succeeded in making of him ! ”
+21435	21447	21448	21449	Mrs. Grose	14	“ Ah , nothing that ’s not nice _ now ! _ ”
+21453	21462	21463	21463	I	0	“ I do n’t wonder you looked queer , ”
+21466	21478	21463	21463	I	0	“ when I mentioned to you the letter from his school ! ”
+21479	21490	21491	21491	she	14	“ I doubt if I looked as queer as you ! ”
+21497	21518	21491	21491	she	14	“ And if he was so bad then as that comes to , how is he such an angel now ? ”
+21519	21541	21542	21542	I	0	“ Yes , indeed — and if he was a fiend at school ! How , how , how ? Well , ”
+21548	21578	21579	21579	I	0	“ you must put it to me again , but I shall not be able to tell you for some days . Only , put it to me again ! ”
+21590	21606	21579	21579	I	0	“ There are directions in which I must not for the present let myself go . ”
+21636	21675	21677	21677	her	14	“ If Quint — on your remonstrance at the time you speak of — was a base menial , one of the things Miles said to you , I find myself guessing , was that you were another . ”
+21686	21693	21683	21683	I	0	“ And you forgave him that ? ”
+21694	21701	21677	21677	her	14	“ Would n’t _ you ? _ ”
+21702	21707	21709	21709	we	503	“ Oh , yes ! ”
+21729	21741	21725	21725	I	0	“ At all events , while he was with the man — ”
+21742	21755	21725	21725	I	0	“ Miss Flora was with the woman . It suited them all ! ”
+21833	21869	21870	21870	I	0	“ His having lied and been impudent are , I confess , less engaging specimens than I had hoped to have from you of the outbreak in him of the little natural man . Still , ”
+21873	21891	21870	21870	I	0	“ They must do , for they make me feel more than ever that I must watch . ”
+21946	21956	21942	21942	she	219	“ Surely you do n’t accuse _ him _ — ”
+21957	21983	21988	21988	her	219	“ Of carrying on an intercourse that he conceals from me ? Ah , remember that , until further evidence , I now accuse nobody . ”
+22002	22008	22009	22009	I	0	“ I must just wait , ”
+22292	22307	22285	22285	I	0	“ What will they think of that ? Does n’t it betray too much ? ”
+22577	22579	22580	22580	they	507	“ pieces ”
+22898	22901	22903	22904	a schoolmaster	525	“ kicked out ”
+23017	23020	23028	23028	brothers	531	“ come in ”
+24544	24553	24537	24537	she	16	“ You naughty : where _ have _ you been?”—instead
+24706	24717	24718	24718	I	0	“ You were looking for me out of the window ? ”
+24721	24732	24718	24718	I	0	“ You thought I might be walking in the grounds ? ”
+24733	24742	24746	24746	she	16	“ Well , you know , I thought someone was”—she
+24762	24769	24756	24756	I	0	“ And did you see anyone ? ”
+24770	24777	24778	24778	she	16	“ Ah , _ no ! _ ”
+24921	24984	25011	25011	you	569	“ You see , you see , you _ know _ that you do and that you already quite suspect I believe it ; therefore , why not frankly confess it to me , so that we may at least live with it together and learn perhaps , in the strangeness of our fate , where we are and what it means ? ”
+25038	25057	25019	25019	I	0	“ Why did you pull the curtain over the place to make me think you were still there ? ”
+25071	25081	25058	25058	Flora	16	“ Because I do n’t like to frighten you ! ”
+25082	25096	25104	25104	she	16	“ But if I had , by your idea , gone out — ? ”
+25139	25146	25147	25147	she	16	“ Oh , but you know , ”
+25152	25169	25147	25147	she	16	“ that you might come back , you dear , and that you _ have ! _ ”
+27414	27416	27411	27411	they	631	“ had ”
+27463	27465	27462	27462	He	15	“ had ”
+27624	27649	27650	27650	I	0	“ You must tell me now — and all the truth . What did you go out for ? What were you doing there ? ”
+27679	27690	27669	27669	his	15	“ If I tell you why , will you understand ? ”
+27786	27789	27790	27790	he	15	“ Well , ”
+27795	27806	27790	27790	he	15	“ just exactly in order that you should do this . ”
+27807	27811	27790	27790	he	15	“ Do what ? ”
+27812	27821	27832	27832	he	15	“ Think me — for a change—_bad ! _ ”
+27934	27943	27930	27930	I	0	“ Then you did n’t undress at all ? ”
+27951	27962	27944	27944	He	15	“ Not at all . I sat up and read . ”
+27963	27971	28020	28020	His	15	“ And when did you go down ? ”
+27972	27986	27944	27944	He	15	“ At midnight . When I ’m bad I _ am _ bad ! ”
+27987	28009	28020	28020	His	15	“ I see , I see — it ’s charming . But how could you be sure I would know it ? ”
+28010	28019	28020	28020	His	15	“ Oh , I arranged that with Flora . ”
+28028	28038	28020	28020	His	15	“ She was to get up and look out . ”
+28039	28047	28020	28020	His	15	“ Which is what she did do . ”
+28057	28080	28020	28020	His	15	“ So she disturbed you , and , to see what she was looking at , you also looked — you saw . ”
+28081	28085	28086	28086	I	0	“ While you , ”
+28089	28098	28086	28086	I	0	“ caught your death in the night air ! ”
+28114	28124	28125	28125	he	15	“ How otherwise should I have been bad enough ? ”
+28206	28216	28217	28217	I	0	“ It all lies in half a dozen words , ”
+28222	28281	28217	28217	I	0	“ words that really settle the matter . ‘ Think , you know , what I _ might _ do ! ’ He threw that off to show me how good he is . He knows down to the ground what he ‘ might ’ do . That ’s what he gave them a taste of at school . ”
+28282	28289	28291	28292	my friend	219	“ Lord , you do change ! ”
+28294	28458	28459	28459	I	0	“ I do n’t change — I simply make it out . The four , depend upon it , perpetually meet . If on either of these last nights you had been with either child , you would clearly have understood . The more I ’ve watched and waited the more I ’ve felt that if there were nothing else to make it sure it would be made so by the systematic silence of each . _ Never _ , by a slip of the tongue , have they so much as alluded to either of their old friends , any more than Miles has alluded to his expulsion . Oh , yes , we may sit here and look at them , and they may show off to us there to their fill ; but even while they pretend to be lost in their fairytale they ’re steeped in their vision of the dead restored . He ’s not reading to her , ”
+28462	28524	28459	28459	I	0	“ they ’re talking of _ them_—they’re talking horrors ! I go on , I know , as if I were crazy ; and it ’s a wonder I ’m not . What I ’ve seen would have made _ you _ so ; but it has only made me more lucid , made me get hold of still other things . ”
+28585	28595	28577	28577	she	223	“ Of what other things have you got hold ? ”
+28596	28643	28644	28644	I	0	“ Why , of the very things that have delighted , fascinated , and yet , at bottom , as I now so strangely see , mystified and troubled me . Their more than earthly beauty , their absolutely unnatural goodness . It ’s a game , ”
+28648	28657	28644	28644	I	0	“ it ’s a policy and a fraud ! ”
+28658	28667	28577	28577	she	223	“ On the part of little darlings — ? ”
+28668	28682	28644	28644	I	0	“ As yet mere lovely babies ? Yes , mad as that seems ! ”
+28707	28756	28644	28644	I	0	“ They have n’t been good — they’ve only been absent . It has been easy to live with them , because they ’re simply leading a life of their own . They ’re not mine — they’re not ours . They ’re his and they ’re hers ! ”
+28757	28765	28857	28857	her	219	“ Quint ’s and that woman ’s ? ”
+28766	28781	28644	28644	I	0	“ Quint ’s and that woman ’s . They want to get to them . ”
+28797	28802	28789	28791	poor Mrs. Grose	14	“ But for what ? ”
+28803	28848	28857	28857	her	219	“ For the love of all the evil that , in those dreadful days , the pair put into them . And to ply them with that evil still , to keep up the work of demons , is what brings the others back . ”
+28849	28852	28857	28857	her	219	“ Laws ! ”
+28940	28954	28955	28955	she	219	“ They _ were _ rascals ! But what can they now do ? ”
+28958	28961	28962	28962	I	0	“ Do ? ”
+28989	28996	28997	28997	I	0	“ Do n’t they do enough ? ”
+29034	29040	29031	29031	I	0	“ They can destroy them ! ”
+29069	29173	29051	29051	she	219	“ They do n’t know , as yet , quite how — but they ’re trying hard . They ’re seen only across , as it were , and beyond — in strange places and on high places , the top of towers , the roof of houses , the outside of windows , the further edge of pools ; but there ’s a deep design , on either side , to shorten the distance and overcome the obstacle ; and the success of the tempters is only a question of time . They ’ve only to keep to their suggestions of danger . ”
+29174	29181	29222	29222	she	219	“ For the children to come ? ”
+29182	29189	29051	29051	she	219	“ And perish in the attempt ! ”
+29201	29211	29197	29197	I	0	“ Unless , of course , we can prevent ! ”
+29228	29242	29222	29222	she	219	“ Their uncle must do the preventing . He must take them away . ”
+29243	29251	29252	29252	She	219	“ And who ’s to make him ? ”
+29269	29274	29260	29260	she	219	“ You , miss . ”
+29275	29293	29337	29338	Mrs. Grose	14	“ By writing to him that his house is poisoned and his little nephew and niece mad ? ”
+29294	29304	29260	29260	she	219	“ But if they _ are _ , miss ? ”
+29305	29336	29337	29338	Mrs. Grose	14	“ And if I am myself , you mean ? That ’s charming news to be sent him by a governess whose prime undertaking was to give him no worry . ”
+29346	29360	29337	29338	Mrs. Grose	14	“ Yes , he do hate worry . That was the great reason — ”
+29361	29400	29401	29402	My companion	239	“ Why those fiends took him in so long ? No doubt , though his indifference must have been awful . As I ’m not a fiend , at any rate , I should n’t take him in . ”
+29420	29430	29401	29402	My companion	239	“ Make him at any rate come to you . ”
+29434	29440	29431	29431	I	0	“ To _ me ? _ ”
+29452	29457	29441	29441	I	0	“ ‘ Him ’ ? ”
+29458	29472	29401	29402	My companion	239	“ He ought to _ be _ here — he ought to help . ”
+29492	29502	29480	29480	I	0	“ You see me asking him for a visit ? ”
+29614	29630	29597	29597	she	239	“ If you should so lose your head as to appeal to him for me — ”
+29636	29641	29631	29631	She	239	“ Yes , miss ? ”
+29642	29656	29657	29657	XIII	35	“ I would leave , on the spot , both him and you . ”
+30016	30033	30000	30002	one of them	663	“ She thinks she ’ll do it this time — but she _ wo n’t ! _ ”
+30035	30038	30002	30002	them	654	“ do it ”
+30959	30972	30973	30973	I	0	“ They ’re here , they ’re here , you little wretches , ”
+30978	30987	30973	30973	I	0	“ and you ca n’t deny it now ! ”
+31284	31308	31279	31279	I	0	“ _ They _ have the manners to be silent , and you , trusted as you are , the baseness to speak ! ”
+31437	31440	31442	31443	the French	698	“ passed , ”
+31629	31649	31589	31590	the children	1088	“ When do you think he _ will _ come ? Do n’t you think we _ ought _ to write?”—there
+31667	31669	31673	31674	their uncle	1239	“ He ”
+32361	32371	32372	32372	he	15	“ Look here , my dear , you know , ”
+32376	32391	32372	32372	he	15	“ when in the world , please , am I going back to school ? ”
+32446	32449	32451	32451	I	0	“ catch , ”
+32579	32600	32560	32560	he	15	“ You know , my dear , that for a fellow to be with a lady _ always _ — ! ”
+32602	32605	32609	32609	his	15	“ my dear ”
+32696	32704	32705	32705	I	0	“ And always with the same lady ? ”
+32723	32761	32708	32708	He	15	“ Ah , of course , she ’s a jolly , ‘ perfect ’ lady ; but , after all , I ’m a fellow , do n’t you see ? that’s — well , getting on . ”
+32773	32781	32762	32762	I	0	“ Yes , you ’re getting on . ”
+32812	32828	32801	32801	he	15	“ And you ca n’t say I ’ve not been awfully good , can you ? ”
+32860	32871	32853	32853	I	0	“ No , I ca n’t say that , Miles . ”
+32872	32883	32897	32897	he	15	“ Except just that one night , you know — ! ”
+32884	32889	32890	32890	I	0	“ That one night ? ”
+32899	32913	32897	32897	he	15	“ Why , when I went down — went out of the house . ”
+32914	32928	32897	32897	he	15	“ Oh , yes . But I forget what you did it for . ”
+32929	32931	32897	32897	he	15	“ You forget?”—he
+32941	32952	32897	32897	he	15	“ Why , it was to show you I could ! ”
+32953	32961	32897	32897	he	15	“ Oh , yes , you could . ”
+32962	32968	32897	32897	he	15	“ And I can again . ”
+32988	32996	32972	32972	I	0	“ Certainly . But you wo n’t . ”
+32997	33010	33028	33028	He	15	“ No , not _ that _ again . It was nothing . ”
+33011	33016	33017	33017	I	0	“ It was nothing , ”
+33020	33027	33017	33017	I	0	“ But we must go on . ”
+33042	33052	33028	33028	He	15	“ Then when _ am _ I going back ? ”
+33066	33074	33053	33053	I	0	“ Were you very happy at school ? ”
+33079	33088	33075	33075	He	15	“ Oh , I ’m happy enough anywhere ! ”
+33089	33094	33095	33095	I	0	“ Well , then , ”
+33098	33108	33095	33095	I	0	“ if you ’re just as happy here — ! ”
+33109	33127	33143	33143	he	15	“ Ah , but that is n’t everything ! Of course _ you _ know a lot — ”
+33128	33139	33140	33140	I	0	“ But you hint that you know almost as much ? ”
+33146	33153	33154	33154	Miles	15	“ Not half I want to ! ”
+33158	33167	33154	33154	Miles	15	“ But it is n’t so much that . ”
+33168	33175	33143	33143	he	15	“ What is it , then ? ”
+33176	33186	33154	33154	Miles	15	“ Well — I want to see more life . ”
+33187	33194	33143	33143	he	15	“ I see ; I see . ”
+33342	33349	33338	33338	he	15	“ I want my own sort ! ”
+33357	33369	33370	33370	I	0	“ There are not many of your own sort , Miles ! ”
+33373	33380	33370	33370	I	0	“ Unless perhaps dear little Flora ! ”
+33381	33391	33338	33338	he	15	“ You really compare me to a baby girl ? ”
+33398	33412	33394	33394	me	0	“ Do n’t you , then , _ love _ our sweet Flora ? ”
+33413	33429	33430	33430	he	15	“ If I didn’t — and you , too ; if I did n’t — ! ”
+33526	33535	33506	33506	We	732	“ Yes , if you did n’t — ? ”
+33547	33554	33536	33536	He	15	“ Well , you know what ! ”
+33583	33594	33562	33562	he	15	“ Does my uncle think what _ you _ think ? ”
+33599	33608	33595	33595	I	0	“ How do you know what I think ? ”
+33609	33638	33562	33562	he	15	“ Ah , well , of course I do n’t ; for it strikes me you never tell me . But I mean does _ he _ know ? ”
+33639	33645	33595	33595	I	0	“ Know what , Miles ? ”
+33646	33656	33562	33562	he	15	“ Why , the way I ’m going on . ”
+33704	33714	33715	33715	Miles	15	“ I do n’t think your uncle much cares . ”
+33725	33737	33715	33715	Miles	15	“ Then do n’t you think he can be made to ? ”
+33738	33743	33715	33715	Miles	15	“ In what way ? ”
+33744	33752	33715	33715	Miles	15	“ Why , by his coming down . ”
+33753	33763	33715	33715	Miles	15	“ But who ’ll get him to come down ? ”
+33764	33770	33771	33772	the boy	1078	“ _ I _ will ! ”
+34079	34116	34056	34057	The boy	1078	“ Either you clear up with my guardian the mystery of this interruption of my studies , or you cease to expect me to lead with you a life that ’s so unnatural for a boy . ”
+34431	34475	34476	34476	I	0	“ What _ did _ you do , you naughty , bad thing ? Why in the world , to worry us so — and take our thoughts off , too , do n’t you know?—did you desert us at the very door ? ”
+35103	35107	35109	35109	myself	0	her—“You terrible , miserable woman!”—I
+35373	35375	35450	35450	She	769	“ put away”—of
+35386	35422	35450	35450	She	769	“ Oh , yes , they asked me to say nothing ; and to please them — so long as they were there — of course I promised . But what had happened to you ? ”
+35423	35433	35434	35434	I	0	“ I only went with you for the walk , ”
+35437	35449	35434	35434	I	0	“ I had then to come back to meet a friend . ”
+35455	35460	35450	35450	She	769	“ A friend—_you ? _ ”
+35461	35471	35472	35472	I	0	“ Oh , yes , I have a couple ! ”
+35475	35485	35472	35472	I	0	“ But did the children give you a reason ? ”
+35486	35511	35450	35450	She	769	“ For not alluding to your leaving us ? Yes ; they said you would like it better . Do you like it better ? ”
+35519	35527	35512	35512	My	0	“ No , I like it worse ! ”
+35535	35546	35532	35532	I	0	“ Did they say why I should like it better ? ”
+35547	35566	35532	35532	I	0	“ No ; Master Miles only said , ‘ We must do nothing but what she likes ! ’ ”
+35567	35580	35532	35532	I	0	“ I wish indeed he would . And what did Flora say ? ”
+35581	35604	35532	35532	I	0	“ Miss Flora was too sweet . She said , ‘ Oh , of course , of course!’—and I said the same . ”
+35610	35638	35605	35605	I	0	“ You were too sweet , too — I can hear you all . But nonetheless , between Miles and me , it ’s now all out . ”
+35639	35643	35644	35645	My companion	239	“ All out ? ”
+35648	35654	35644	35645	My companion	239	“ But what , miss ? ”
+35655	35677	35678	35678	I	0	“ Everything . It does n’t matter . I ’ve made up my mind . I came home , my dear , ”
+35682	35690	35678	35678	I	0	“ for a talk with Miss Jessel . ”
+35738	35748	35731	35731	I	0	“ A talk ! Do you mean she spoke ? ”
+35749	35767	35810	35810	her	14	“ It came to that . I found her , on my return , in the schoolroom . ”
+35768	35775	35788	35788	her	14	“ And what did she say ? ”
+35791	35799	35810	35810	her	14	“ That she suffers the torments — ! ”
+35821	35826	35827	35827	she	14	“ Do you mean , ”
+35830	35836	35827	35827	she	14	“ — of the lost ? ”
+35837	35855	35856	35856	I	0	“ Of the lost . Of the damned . And that ’s why , to share them — ”
+35877	35883	35866	35867	my companion	239	“ To share them — ? ”
+35884	35889	35890	35891	Mrs. Grose	14	“ She wants Flora . ”
+35924	35938	35913	35913	I	0	“ As I ’ve told you , however , it does n’t matter . ”
+35939	35952	35895	35895	I	0	“ Because you ’ve made up your mind ? But to what ? ”
+35953	35957	35913	35913	I	0	“ To everything . ”
+35958	35968	35895	35895	I	0	“ And what do you call ‘ everything ’ ? ”
+35969	35977	35913	35913	I	0	“ Why , sending for their uncle . ”
+35978	35987	35895	35895	I	0	“ Oh , miss , in pity do , ”
+35993	36094	35895	35895	I	0	“ ah , but I will , I _ will ! _ I see it ’s the only way . What ’s ‘ out , ’ as I told you , with Miles is that if he thinks I ’m afraid to — and has ideas of what he gains by that — he shall see he ’s mistaken . Yes , yes ; his uncle shall have it here from me on the spot ( and before the boy himself , if necessary ) that if I ’m to be reproached with having done nothing again about more school — ”
+36095	36100	36104	36104	me	0	“ Yes , miss — ”
+36106	36115	36104	36104	me	0	“ Well , there ’s that awful reason . ”
+36136	36143	36129	36129	she	790	“ But — a — which ? ”
+36144	36154	36104	36104	me	0	“ Why , the letter from his old place . ”
+36155	36164	36129	36129	she	790	“ You ’ll show it to the master ? ”
+36165	36176	36104	36104	me	0	“ I ought to have done so on the instant . ”
+36177	36182	36184	36185	Mrs. Grose	14	“ Oh , no ! ”
+36189	36197	36198	36198	I	0	“ I ’ll put it before him , ”
+36203	36223	36198	36198	I	0	“ that I ca n’t undertake to work the question on behalf of a child who has been expelled — ”
+36224	36235	36236	36237	Mrs. Grose	14	“ For we ’ve never in the least known what ! ”
+36240	36301	36302	36302	I	0	“ For wickedness . For what else — when he ’s so clever and beautiful and perfect ? Is he stupid ? Is he untidy ? Is he infirm ? Is he ill - natured ? He ’s exquisite — so it can be only _ that _ ; and that would open up the whole thing . After all , ”
+36305	36321	36302	36302	I	0	“ it ’s their uncle ’s fault . If he left here such people — ! ”
+36322	36338	36339	36339	She	14	“ He did n’t really in the least know them . The fault ’s mine . ”
+36345	36353	36354	36354	I	0	“ Well , you sha n’t suffer , ”
+36357	36363	36364	36364	she	14	“ The children sha n’t ! ”
+36379	36388	36373	36373	we	791	“ Then what am I to tell him ? ”
+36389	36404	36364	36364	she	14	“ You need n’t tell him anything . _ I ’ll _ tell him . ”
+36409	36418	36405	36405	I	0	“ Do you mean you ’ll write — ? ”
+36429	36435	36426	36426	myself	0	“ How do you communicate ? ”
+36436	36447	36364	36364	she	14	“ I tell the bailiff . _ He _ writes . ”
+36448	36459	36426	36426	myself	0	“ And should you like him to write our story ? ”
+36494	36504	36491	36491	her	14	“ Ah , miss , _ you _ write ! ”
+36505	36510	36511	36511	I	0	“ Well — tonight , ”
+36659	36669	36654	36654	His	15	“ I say , you there — come in . ”
+36702	36713	36714	36714	he	15	“ Well , what are _ you _ up to ? ”
+36746	36749	36732	36732	she	14	“ out . ”
+36758	36767	36750	36750	I	0	“ How did you know I was there ? ”
+36768	36793	36794	36794	he	15	“ Why , of course I heard you . Did you fancy you made no noise ? You ’re like a troop of cavalry ! ”
+36798	36805	36750	36750	I	0	“ Then you were n’t asleep ? ”
+36806	36816	36750	36750	I	0	“ Not much ! I lie awake and think . ”
+36854	36859	36860	36860	I	0	“ What is it , ”
+36863	36869	36860	36860	I	0	“ that you think of ? ”
+36870	36884	36928	36928	I	0	“ What in the world , my dear , but _ you ? _ ”
+36885	36909	36860	36860	I	0	“ Ah , the pride I take in your appreciation does n’t insist on that ! I had so far rather you slept . ”
+36910	36927	36928	36928	I	0	“ Well , I think also , you know , of this queer business of ours . ”
+36938	36946	36928	36928	I	0	“ Of what queer business , Miles ? ”
+36947	36962	36928	36928	I	0	“ Why , the way you bring me up . And all the rest ! ”
+36993	37003	36984	36984	he	15	“ What do you mean by all the rest ? ”
+37004	37013	37014	37014	I	0	“ Oh , you know , you know ! ”
+37070	37079	37080	37080	I	0	“ Certainly you shall go back to school , ”
+37083	37133	37080	37080	I	0	“ if it be that that troubles you . But not to the old place — we must find another , a better . How could I know it did trouble you , this question , when you never told me so , never spoke of it at all ? ”
+37211	37240	37206	37206	I	0	“ Do you know you ’ve never said a word to me about your school — I mean the old one ; never mentioned it in any way ? ”
+37267	37272	37259	37259	he	15	“ Have n’t I ? ”
+37359	37480	37485	37485	my	0	“ No , never — from the hour you came back . You ’ve never mentioned to me one of your masters , one of your comrades , nor the least little thing that ever happened to you at school . Never , little Miles — no , never — have you given me an inkling of anything that _ may _ have happened there . Therefore you can fancy how much I ’m in the dark . Until you came out , that way , this morning , you had , since the first hour I saw you , scarce even made a reference to anything in your previous life . You seemed so perfectly to accept the present . ”
+37541	37553	37537	37539	an intellectual equal	804	“ I thought you wanted to go on as you are . ”
+37585	37599	37582	37582	his	802	“ I don’t — I do n’t . I want to get away . ”
+37600	37607	37565	37565	He	802	“ You ’re tired of Bly ? ”
+37608	37617	37582	37582	his	802	“ Oh , no , I like Bly . ”
+37618	37624	37565	37565	He	802	“ Well , then — ? ”
+37625	37637	37582	37582	his	802	“ Oh , _ you _ know what a boy wants ! ”
+37656	37665	37651	37651	I	0	“ You want to go to your uncle ? ”
+37685	37696	37677	37677	he	802	“ Ah , you ca n’t get off with that ! ”
+37717	37729	37706	37706	I	0	“ My dear , I do n’t want to get off ! ”
+37730	37745	37677	37677	he	802	“ You ca n’t , even if you do . You ca n’t , you can’t!”—he
+37750	37764	37677	37677	he	802	“ My uncle must come down , and you must completely settle things . ”
+37765	37770	37771	37771	I	0	“ If we do , ”
+37777	37791	37771	37771	I	0	“ you may be sure it will be to take you quite away . ”
+37792	37836	37771	37771	I	0	“ Well , do n’t you understand that that ’s exactly what I ’m working for ? You ’ll have to tell him — about the way you ’ve let it all drop : you ’ll have to tell him a tremendous lot ! ”
+37858	37882	37841	37841	he	805	“ And how much will _ you _ , Miles , have to tell him ? There are things he ’ll ask you ! ”
+37888	37896	37883	37883	He	805	“ Very likely . But what things ? ”
+37897	37924	37949	37949	He	805	“ The things you ’ve never told me . To make up his mind what to do with you . He ca n’t send you back — ”
+37925	37936	37937	37937	he	805	“ Oh , I do n’t want to go back ! ”
+37941	37948	37937	37937	he	805	“ I want a new field . ”
+38038	38048	38034	38034	I	0	“ Dear little Miles , dear little Miles — ! ”
+38071	38077	38057	38057	he	805	“ Well , old lady ? ”
+38078	38093	38094	38094	He	805	“ Is there nothing — nothing at all that you want to tell me ? ”
+38121	38133	38108	38108	his	805	“ I ’ve told you — I told you this morning . ”
+38142	38153	38136	38136	I	0	“ That you just want me not to worry you ? ”
+38175	38181	38182	38182	he	805	“ To let me alone , ”
+38253	38264	38265	38265	I	0	“ I ’ve just begun a letter to your uncle , ”
+38268	38276	38265	38265	I	0	“ Well , then , finish it ! ”
+38282	38287	38277	38277	I	0	“ What happened before ? ”
+38295	38299	38288	38288	He	805	“ Before what ? ”
+38300	38312	38288	38288	He	805	“ Before you came back . And before you went away . ”
+38328	38332	38321	38321	he	805	“ What happened ? ”
+38385	38445	38447	38447	I	0	“ Dear little Miles , dear little Miles , if you _ knew _ how I want to help you ! It ’s only that , it ’s nothing but that , and I ’d rather die than give you a pain or do you a wrong — I’d rather die than hurt a hair of you . Dear little Miles”—oh
+38460	38471	38454	38454	I	0	far—“I just want you to help me to save you ! ”
+38617	38625	38626	38626	I	0	“ Why , the candle ’s out ! ”
+38630	38640	38642	38642	Miles	15	“ It was I who blew it , dear ! ”
+38663	38670	38652	38653	Mrs. Grose	14	“ Have you written , miss ? ”
+38671	38677	38652	38653	Mrs. Grose	14	“ Yes — I’ve written . ”
+39052	39161	39048	39048	his	15	“ The true knights we love to read about never push an advantage too far . I know what you mean now : you mean that — to be let alone yourself and not followed up — you’ll cease to worry and spy upon me , wo n’t keep me so close to you , will let me go and come . Well , I ‘ come , ’ you see — but I do n’t go ! There ’ll be plenty of time for that . I do really delight in your society , and I only want to show you that I contended for a principle . ”
+39326	39337	39313	39313	he	820	“ Why , my dear , how do _ I _ know?”—breaking
+39602	39608	39609	39609	she	219	“ She ’ll be above , ”
+39611	39621	39609	39609	she	219	said—“in one of the rooms you have n’t searched . ”
+39622	39631	39632	39632	I	0	“ No ; she ’s at a distance . ”
+39639	39645	39632	39632	I	0	“ She has gone out . ”
+39650	39655	39646	39647	Mrs. Grose	14	“ Without a hat ? ”
+39662	39671	39656	39656	I	0	“ Is n’t that woman always without one ? ”
+39672	39680	39646	39647	Mrs. Grose	14	“ She ’s with _ her ? _ ”
+39681	39689	39690	39690	I	0	“ She ’s with _ her ! _ ”
+39693	39699	39690	39690	I	0	“ We must find them . ”
+39746	39753	39731	39731	She	219	“ And where ’s Master Miles ? ”
+39754	39770	39731	39731	She	219	“ Oh , _ he ’s _ with Quint . They ’re in the schoolroom . ”
+39771	39776	39731	39731	She	219	“ Lord , miss ! ”
+39801	39807	39808	39808	I	0	“ The trick ’s played , ”
+39812	39836	39808	39808	I	0	“ they ’ve successfully worked their plan . He found the most divine little way to keep me quiet while she went off . ”
+39837	39842	39843	39844	Mrs. Grose	14	“ ‘ Divine ’ ? ”
+39848	39853	39854	39854	I	0	“ Infernal , then ! ”
+39859	39871	39854	39854	I	0	“ He has provided for himself as well . But come ! ”
+39881	39887	39872	39872	She	14	“ You leave him — ? ”
+39888	39903	39904	39904	She	14	“ So long with Quint ? Yes — I do n’t mind that now . ”
+39941	39947	39948	39948	she	14	“ Because of your letter ? ”
+39990	39996	39997	39997	I	0	“ Luke will take it , ”
+40058	40065	40045	40045	I	0	“ You go with nothing on ? ”
+40066	40084	40085	40085	I	0	“ What do I care when the child has nothing ? I ca n’t wait to dress , ”
+40088	40107	40085	40085	I	0	“ and if you must do so , I leave you . Try meanwhile , yourself , upstairs . ”
+40108	40114	40045	40045	I	0	“ With _ them ? _ ”
+40354	40371	40349	40349	she	16	“ You ’re going to the water , Miss?—you think she ’s _ in _ — ? ”
+40372	40417	40459	40460	Mrs. Grose	14	“ She may be , though the depth is , I believe , nowhere very great . But what I judge most likely is that she ’s on the spot from which , the other day , we saw together what I told you . ”
+40418	40427	40349	40349	she	16	“ When she pretended not to see — ? ”
+40428	40458	40459	40460	Mrs. Grose	14	“ With that astounding self - possession ? I ’ve always been sure she wanted to go back alone . And now her brother has managed it for her . ”
+40468	40479	40459	40460	Mrs. Grose	14	“ You suppose they really _ talk _ of them ? ”
+40480	40504	40349	40349	she	16	“ I could meet this with a confidence ! They say things that , if we heard them , would simply appall us . ”
+40505	40514	40459	40460	Mrs. Grose	14	“ And if she _ is _ there — ”
+40515	40518	40349	40349	she	16	“ Yes ? ”
+40519	40525	40459	40460	Mrs. Grose	14	“ Then Miss Jessel is ? ”
+40526	40535	40349	40349	she	16	“ Beyond a doubt . You shall see . ”
+40536	40542	40459	40460	Mrs. Grose	14	“ Oh , thank you ! ”
+40750	40763	40743	40743	I	0	“ No , no ; wait ! She has taken the boat . ”
+40779	40785	40764	40765	My companion	239	“ Then where is it ? ”
+40786	40813	40740	40740	she	219	“ Our not seeing it is the strongest of proofs . She has used it to go over , and then has managed to hide it . ”
+40814	40821	40764	40765	My companion	239	“ All alone — that child ? ”
+40822	40846	40847	40847	I	0	“ She ’s not alone , and at such times she ’s not a child : she ’s an old , old woman . ”
+40925	40941	40942	40943	my colleague	223	“ But if the boat ’s there , where on earth ’s _ she ? _ ”
+40947	40956	40958	40958	I	0	“ That ’s exactly what we must learn . ”
+40964	40972	40958	40958	I	0	“ By going all the way round ? ”
+40973	41009	40958	40958	I	0	“ Certainly , far as it is . It will take us but ten minutes , but it ’s far enough to have made the child prefer not to walk . She went straight over . ”
+41010	41013	41015	41016	my friend	219	“ Laws ! ”
+41249	41254	41255	41255	we	874	“ There she is ! ”
+41567	41573	41563	41563	she	14	“ I ’ll be hanged , ”
+41577	41585	41563	41563	she	14	“ if _ I ’ll _ speak ! ”
+41611	41619	41603	41603	She	16	“ Why , where are your things ? ”
+41620	41628	41629	41629	I	0	“ Where yours are , my dear ! ”
+41652	41658	41659	41659	she	16	“ And where ’s Miles ? ”
+41731	41744	41745	41745	I	0	“ I ’ll tell you if you ’ll tell _ me _ — ”
+41759	41764	41765	41766	Mrs. Grose	14	“ Well , what ? ”
+41788	41798	41781	41781	I	0	“ Where , my pet , is Miss Jessel ? ”
+41931	41940	41924	41924	I	0	“ She ’s there , she ’s there ! ”
+42364	42393	42394	42394	I	0	“ She ’s there , you little unhappy thing — there , there , _ there _ , and you see her as well as you see me ! ”
+42564	42584	42552	42552	her	28	“ What a dreadful turn , to be sure , miss ! Where on earth do you see anything ? ”
+42644	42685	42686	42686	She	28	“ You do n’t see her exactly as _ we _ see?—you mean to say you do n’t now—_now ? _ She ’s as big as a blazing fire ! Only look , dearest woman , _ look _ — ! ”
+42847	42894	42895	42895	she	14	“ She is n’t there , little lady , and nobody ’s there — and you never see nothing , my sweet ! How can poor Miss Jessel — when poor Miss Jessel ’s dead and buried ? _ We _ know , do n’t we , love?”—and
+42905	42930	42895	42895	she	14	“ It ’s all a mere mistake and a worry and a joke — and we ’ll go home as fast as we can ! ”
+43049	43084	43041	43041	she	16	“ I do n’t know what you mean . I see nobody . I see nothing . I never _ have _ . I think you ’re cruel . I do n’t like you ! ”
+43132	43151	43125	43125	she	16	“ Take me away , take me away — oh , take me away from _ her ! _ ”
+43152	43158	43159	43159	I	0	“ From _ me ? _ ”
+43162	43169	43170	43170	she	16	“ From you — from you ! ”
+43281	43337	43279	43279	her	904	“ If I had ever doubted , all my doubt would at present have gone . I ’ve been living with the miserable truth , and now it has only too much closed round me . Of course I ’ve lost you : I ’ve interfered , and you ’ve seen — under _ her _ dictation”—with
+43349	43372	43339	43339	I	0	witness—“the easy and perfect way to meet it . I ’ve done my best , but I ’ve lost you . Goodbye . ”
+43384	43389	43376	43376	I	0	“ Go , go ! ”
+44163	44181	44143	44143	I	0	“ She persists in denying to you that she saw , or has ever seen , anything ? ”
+44192	44239	44182	44183	My visitor	357	“ Ah , miss , it is n’t a matter on which I can push her ! Yet it is n’t either , I must say , as if I much needed to . It has made her , every inch of her , quite old . ”
+44240	44341	44358	44358	she	14	“ Oh , I see her perfectly from here . She resents , for all the world like some high little personage , the imputation on her truthfulness and , as it were , her respectability . ‘ Miss Jessel indeed—_she ! _ ’ Ah , she ’s ‘ respectable , ’ the chit ! The impression she gave me there yesterday was , I assure you , the very strangest of all ; it was quite beyond any of the others . I _ did _ put my foot in it ! She ’ll never speak to me again . ”
+44376	44396	44358	44358	she	14	“ I think indeed , miss , she never will . She do have a grand manner about it ! ”
+44397	44400	44358	44358	she	14	“ And that manner”—I
+44403	44413	44358	44358	she	14	up—“is practically what ’s the matter with her now ! ”
+44435	44450	44419	44419	I	0	“ She asks me every three minutes if I think you ’re coming in . ”
+44451	44458	44459	44459	I	0	“ I see — I see . ”
+44476	44503	44459	44459	I	0	“ Has she said to you since yesterday — except to repudiate her familiarity with anything so dreadful — a single other word about Miss Jessel ? ”
+44504	44516	44517	44518	my friend	219	“ Not one , miss . And of course you know , ”
+44521	44547	44517	44518	my friend	219	“ I took it from her , by the lake , that , just then and there at least , there _ was _ nobody . ”
+44548	44562	44459	44459	I	0	“ Rather ! and , naturally , you take it from her still . ”
+44563	44576	44517	44518	my friend	219	“ I do n’t contradict her . What else can I do ? ”
+44577	44636	44459	44459	I	0	“ Nothing in the world ! You ’ve the cleverest little person to deal with . They ’ve made them — their two friends , I mean — still cleverer even than nature did ; for it was wondrous material to play on ! Flora has now her grievance , and she ’ll work it to the end . ”
+44637	44649	44517	44518	my friend	219	“ Yes , miss ; but to _ what _ end ? ”
+44650	44674	44459	44459	I	0	“ Why , that of dealing with me to her uncle . She ’ll make me out to him the lowest creature — ! ”
+44703	44713	44690	44690	she	14	“ And him who thinks so well of you ! ”
+44714	44727	44728	44728	I	0	“ He has an odd way — it comes over me now , ”
+44731	44757	44728	44728	I	0	“ — of proving it ! But that does n’t matter . What Flora wants , of course , is to get rid of me . ”
+44763	44774	44758	44759	My companion	239	“ Never again to so much as look at you . ”
+44775	44787	44788	44788	I	0	“ So that what you ’ve come to me now for , ”
+44791	44800	44788	44788	I	0	“ is to speed me on my way ? ”
+44816	44868	44812	44812	her	239	“ I ’ve a better idea — the result of my reflections . My going _ would _ seem the right thing , and on Sunday I was terribly near it . Yet that wo n’t do . It ’s _ you _ who must go . You must take Flora . ”
+44878	44886	44869	44870	My visitor	357	“ But where in the world — ? ”
+44887	44915	44974	44974	She	239	“ Away from here . Away from _ them _ . Away , even most of all , now , from me . Straight to her uncle . ”
+44916	44924	44869	44870	My visitor	357	“ Only to tell on you — ? ”
+44925	44944	44974	44974	She	239	“ No , not ‘ only ’ ! To leave me , in addition , with my remedy . ”
+44950	44959	44945	44945	She	239	“ And what _ is _ your remedy ? ”
+44960	44973	44869	44870	My visitor	357	“ Your loyalty , to begin with . And then Miles ’s . ”
+44980	44987	44974	44974	She	239	“ Do you think he — ? ”
+44988	45036	45037	45037	I	0	“ Wo n’t , if he has the chance , turn on me ? Yes , I venture still to think it . At all events , I want to try . Get off with his sister as soon as possible and leave me with him alone . ”
+45078	45087	45075	45075	she	239	“ There ’s one thing , of course , ”
+45092	45108	45088	45088	I	0	“ they must n’t , before she goes , see each other for three seconds . ”
+45140	45145	45146	45146	I	0	“ Do you mean , ”
+45150	45158	45146	45146	I	0	“ that they _ have _ met ? ”
+45165	45224	45161	45161	she	239	“ Ah , miss , I ’m not such a fool as that ! If I ’ve been obliged to leave her three or four times , it has been each time with one of the maids , and at present , though she ’s alone , she ’s locked in safe . And yet — and yet ! ”
+45231	45236	45161	45161	she	239	“ And yet what ? ”
+45237	45249	45161	45161	she	239	“ Well , are you so sure of the little gentleman ? ”
+45250	45321	45161	45161	she	239	“ I ’m not sure of anything but _ you _ . But I have , since last evening , a new hope . I think he wants to give me an opening . I do believe that — poor little exquisite wretch!—he wants to speak . Last evening , in the firelight and the silence , he sat with me for two hours as if it were just coming . ”
+45338	45344	45322	45323	Mrs. Grose	14	“ And did it come ? ”
+45345	45396	45397	45397	I	0	“ No , though I waited and waited , I confess it did n’t , and it was without a breach of the silence or so much as a faint allusion to his sister ’s condition and absence that we at last kissed for good night . All the same , ”
+45400	45440	45397	45397	I	0	“ I ca n’t , if her uncle sees her , consent to his seeing her brother without my having given the boy — and most of all because things have got so bad — a little more time . ”
+45455	45464	45441	45442	My friend	219	“ What do you mean by more time ? ”
+45465	45532	45534	45534	I	0	“ Well , a day or two — really to bring it out . He ’ll then be on _ my _ side — of which you see the importance . If nothing comes , I shall only fail , and you will , at the worst , have helped me by doing , on your arrival in town , whatever you may have found possible . ”
+45557	45562	45550	45550	I	0	“ Unless , indeed , ”
+45567	45577	45563	45563	I	0	“ you really want _ not _ to go . ”
+45603	45617	45592	45592	she	219	“ I ’ll go — I’ll go . I ’ll go this morning . ”
+45625	45645	45618	45618	I	0	“ If you _ should _ wish still to wait , I would engage she should n’t see me . ”
+45646	45662	45663	45663	She	219	“ No , no : it ’s the place itself . She must leave it . ”
+45678	45691	45663	45663	She	219	“ Your idea ’s the right one . I myself , miss — ”
+45692	45695	45618	45618	I	0	“ Well ? ”
+45696	45702	45663	45663	She	219	“ I ca n’t stay . ”
+45716	45731	45705	45705	she	219	“ You mean that , since yesterday , you _ have _ seen — ? ”
+45739	45747	45732	45732	She	219	“ I ’ve _ heard _ — ! ”
+45748	45751	45705	45705	she	219	“ Heard ? ”
+45752	45761	45762	45762	she	219	“ From that child — horrors ! There ! ”
+45768	45780	45762	45762	she	219	“ On my honor , miss , she says things — ! ”
+45836	45842	45826	45826	I	0	“ Oh , thank God ! ”
+45857	45863	45843	45843	She	219	“ ‘ Thank God ’ ? ”
+45864	45870	45843	45843	She	219	“ It so justifies me ! ”
+45871	45878	45843	45843	She	219	“ It does that , miss ! ”
+45892	45898	45888	45888	I	0	“ She ’s so horrible ? ”
+45910	45914	45899	45899	I	0	“ Really shocking . ”
+45915	45920	45843	45843	She	219	“ And about me ? ”
+45921	45955	45899	45899	I	0	“ About you , miss — since you must have it . It ’s beyond everything , for a young lady ; and I ca n’t think wherever she must have picked up — ”
+45956	45970	45971	45971	I	0	“ The appalling language she applied to me ? I can , then ! ”
+45996	46021	46022	46024	the poor woman	403	“ Well , perhaps I ought to also — since I ’ve heard some of it before ! Yet I ca n’t bear it , ”
+46049	46056	46034	46034	she	403	“ But I must go back . ”
+46063	46074	46057	46057	I	0	“ Ah , if you ca n’t bear it — ! ”
+46075	46103	46104	46104	she	403	“ How can I stop with her , you mean ? Why , just _ for _ that : to get her away . Far from this , ”
+46107	46114	46104	46104	she	403	“ far from _ them _ — ”
+46115	46126	46127	46127	I	0	“ She may be different ? She may be free ? ”
+46134	46147	46127	46127	I	0	“ Then , in spite of yesterday , you _ believe _ — ”
+46148	46153	46154	46154	Her	403	“ In such doings ? ”
+46187	46191	46175	46175	she	403	“ I believe . ”
+46281	46312	46274	46274	I	0	“ There ’s one thing , of course — it occurs to me — to remember . My letter , giving the alarm , will have reached town before you . ”
+46336	46350	46319	46319	she	403	“ Your letter wo n’t have got there . Your letter never went . ”
+46351	46358	46386	46386	she	403	“ What then became of it ? ”
+46359	46366	46319	46319	she	403	“ Goodness knows ! Master Miles — ”
+46367	46377	46378	46378	I	0	“ Do you mean _ he _ took it ? ”
+46391	46441	46386	46386	she	403	“ I mean that I saw yesterday , when I came back with Miss Flora , that it was n’t where you had put it . Later in the evening I had the chance to question Luke , and he declared that he had neither noticed nor touched it . ”
+46472	46476	46460	46461	Mrs. Grose	14	“ You see ! ”
+46477	46498	46460	46461	Mrs. Grose	14	“ Yes , I see that if Miles took it instead he probably will have read it and destroyed it . ”
+46499	46508	46460	46461	Mrs. Grose	14	“ And do n’t you see anything else ? ”
+46519	46536	46509	46509	I	0	“ It strikes me that by this time your eyes are open even wider than mine . ”
+46556	46569	46545	46545	she	403	“ I make out now what he must have done at school . ”
+46585	46589	46571	46571	she	403	“ He stole ! ”
+46602	46607	46595	46595	I	0	“ Well — perhaps . ”
+46618	46625	46612	46612	she	403	“ He stole _ letters ! _ ”
+46649	46678	46679	46679	I	0	“ I hope then it was to more purpose than in this case ! The note , at any rate , that I put on the table yesterday , ”
+46682	46735	46679	46679	I	0	“ will have given him so scant an advantage — for it contained only the bare demand for an interview — that he is already much ashamed of having gone so far for so little , and that what he had on his mind last evening was precisely the need of confession . ”
+46755	46760	46769	46769	her	403	“ Leave us , leave us”—I
+46772	46803	46769	46769	her	403	“ I ’ll get it out of him . He ’ll meet me — he’ll confess . If he confesses , he ’s saved . And if he ’s saved — ”
+46804	46811	46812	46814	The dear woman	938	“ Then _ you _ are ? ”
+46826	46834	46835	46835	she	403	“ I ’ll save you without him ! ”
+47784	47786	47775	47775	I	0	“ nature ”
+48151	48165	48146	48146	he	963	“ I say , my dear , is she really very awfully ill ? ”
+48166	48202	48219	48219	he	963	“ Little Flora ? Not so bad but that she ’ll presently be better . London will set her up . Bly had ceased to agree with her . Come here and take your mutton . ”
+48226	48236	48219	48219	he	963	“ Did Bly disagree with her so terribly suddenly ? ”
+48237	48253	48203	48203	He	963	“ Not so suddenly as you might think . One had seen it coming on . ”
+48254	48265	48219	48219	he	963	“ Then why did n’t you get her off before ? ”
+48266	48270	48203	48203	He	963	“ Before what ? ”
+48271	48280	48219	48219	he	963	“ Before she became too ill to travel . ”
+48286	48321	48283	48283	myself	0	“ She ’s _ not _ too ill to travel : she only might have become so if she had stayed . This was just the moment to seize . The journey will dissipate the influence”—oh
+48325	48330	48281	48281	I	0	grand!—“and carry it off . ”
+48331	48336	48347	48347	He	963	“ I see , I see”—Miles
+48356	48359	48347	48347	He	963	“ table manner ”
+48559	48567	48548	48548	He	963	“ Well — so we ’re alone ! ”
+48569	48576	48577	48577	I	0	“ Oh , more or less . ”
+48584	48594	48595	48595	I	0	“ Not absolutely . We should n’t like that ! ”
+48599	48615	48595	48595	I	0	“ No — I suppose we should n’t . Of course we have the others . ”
+48616	48628	48629	48629	I	0	“ We have the others — we have indeed the others , ”
+48632	48640	48641	48641	he	963	“ Yet even though we have them , ”
+48659	48669	48646	48646	his	963	“ they do n’t much count , do they ? ”
+48682	48693	48678	48678	I	0	“ It depends on what you call ‘ much ’ ! ”
+48694	48695	48706	48706	he	963	“ Yes”—with
+48697	48700	48678	48678	I	0	accommodation—“everything depends ! ”
+48758	48761	48755	48755	my	0	“ work , ”
+49051	49066	49046	49047	this genius	976	“ Well , I think I ’m glad Bly agrees with _ me ! _ ”
+49067	49097	49098	49098	I	0	“ You would certainly seem to have seen , these twenty - four hours , a good deal more of it than for some time before . I hope , ”
+49103	49111	49098	49098	I	0	“ that you ’ve been enjoying yourself . ”
+49112	49140	49046	49047	this genius	976	“ Oh , yes , I ’ve been ever so far ; all round about — miles and miles away . I ’ve never been so free . ”
+49161	49169	49151	49151	I	0	“ Well , do you like it ? ”
+49182	49184	49178	49178	he	963	words—“Do _ you?_”—more
+49222	49256	49257	49257	he	963	“ Nothing could be more charming than the way you take it , for of course if we ’re alone together now it ’s you that are alone most . But I hope , ”
+49261	49268	49257	49257	he	963	“ you do n’t particularly mind ! ”
+49269	49276	49277	49277	I	0	“ Having to do with you ? ”
+49280	49321	49277	49277	I	0	“ My dear child , how can I help minding ? Though I ’ve renounced all claim to your company — you’re so beyond me — I at least greatly enjoy it . What else should I stay on for ? ”
+49352	49362	49333	49333	his	963	“ You stay on just for _ that ? _ ”
+49363	49402	49403	49403	My	0	“ Certainly . I stay on as your friend and from the tremendous interest I take in you till something can be done for you that may be more worth your while . That need n’t surprise you . ”
+49417	49455	49403	49403	My	0	“ Do n’t you remember how I told you , when I came and sat on your bed the night of the storm , that there was nothing in the world I would n’t do for you ? ”
+49456	49461	49462	49462	He	977	“ Yes , yes ! ”
+49505	49524	49497	49497	he	977	“ Only that , I think , was to get me to do something for _ you ! _ ”
+49525	49536	49537	49537	I	0	“ It was partly to get you to do something , ”
+49540	49552	49537	49537	I	0	“ But , you know , you did n’t do it . ”
+49553	49558	49559	49559	he	977	“ Oh , yes , ”
+49567	49576	49559	49559	he	977	“ you wanted me to tell you something . ”
+49577	49597	49615	49615	He	977	“ That ’s it . Out , straight out . What you have on your mind , you know . ”
+49598	49614	49615	49615	He	977	“ Ah , then , is _ that _ what you ’ve stayed over for ? ”
+49672	49694	49695	49695	He	977	“ Well , yes — I may as well make a clean breast of it , it was precisely for that . ”
+49725	49733	49720	49720	he	977	“ Do you mean now — here ? ”
+49734	49745	49746	49746	He	977	“ There could n’t be a better place or time . ”
+49834	49843	49822	49822	myself	0	“ You want so to go out again ? ”
+49844	49847	49848	49848	He	977	“ Awfully ! ”
+50056	50063	50064	50064	Miles	15	“ I ’ll tell you everything , ”
+50065	50107	50114	50114	My	0	said—“I mean I ’ll tell you anything you like . You ’ll stay on with me , and we shall both be all right , and I _ will _ tell you — I _ will _ . But not now . ”
+50108	50113	50114	50114	My	0	“ Why not now ? ”
+50173	50180	50146	50146	he	15	“ I have to see Luke . ”
+50224	50262	50214	50214	I	0	“ Well , then , go to Luke , and I ’ll wait for what you promise . Only , in return for that , satisfy , before you leave me , one very much smaller request . ”
+50282	50288	50267	50267	he	15	“ Very much smaller — ? ”
+50289	50300	50302	50302	my	0	“ Yes , a mere fraction of the whole . Tell me”—oh
+50310	50331	50308	50308	I	0	offhand!—“if , yesterday afternoon , from the table in the hall , you took , you know , my letter . ”
+50697	50704	50689	50689	I	0	“ Yes — I took it . ”
+50884	50892	50880	50880	me	0	“ What did you take it for ? ”
+50893	50902	50916	50916	My	0	“ To see what you said about me . ”
+50903	50909	50880	50880	me	0	“ You opened the letter ? ”
+50910	50915	50916	50916	My	0	“ I opened it . ”
+51059	51063	51065	51065	my	0	“ And you found nothing!”—I
+51079	51082	51069	51069	He	1078	“ Nothing . ”
+51083	51088	51089	51089	I	0	“ Nothing , nothing ! ”
+51096	51101	51102	51102	he	1078	“ Nothing , nothing , ”
+51115	51124	51106	51106	I	0	“ So what have you done with it ? ”
+51125	51131	51069	51069	He	1078	“ I ’ve burned it . ”
+51132	51136	51106	51106	I	0	“ Burned it ? ”
+51143	51152	51106	51106	I	0	“ Is that what you did at school ? ”
+51160	51164	51069	51069	He	1078	“ At school ? ”
+51165	51173	51069	51069	He	1078	“ Did you take letters?—or other things ? ”
+51174	51178	51179	51179	He	1078	“ Other things ? ”
+51207	51214	51205	51205	him	1078	“ Did I _ steal ? _ ”
+51262	51273	51245	51245	him	1078	“ Was it for that you might n’t go back ? ”
+51286	51296	51303	51303	He	1078	“ Did you know I might n’t go back ? ”
+51297	51302	51303	51303	He	1078	“ I know everything . ”
+51314	51317	51303	51303	He	1078	“ Everything ? ”
+51318	51328	51303	51303	He	1078	“ Everything . Therefore _ did _ you — ? ”
+51343	51351	51337	51337	Miles	15	“ No . I did n’t steal . ”
+51399	51406	51390	51390	he	1078	“ What then did you do ? ”
+51456	51463	51448	51448	his	1078	“ Well — I said things . ”
+51464	51468	51507	51507	He	1078	“ Only that ? ”
+51469	51476	51448	51448	his	1078	“ They thought it was enough ! ”
+51477	51484	51507	51507	He	1078	“ To turn you out for ? ”
+51492	51495	51448	51448	his	1078	“ turned out ”
+51524	51533	51507	51507	He	1078	“ Well , I suppose I ought n’t . ”
+51534	51543	51507	51507	He	1078	“ But to whom did you say them ? ”
+51559	51565	51554	51554	he	1078	“ I do n’t know ! ”
+51631	51637	51638	51638	I	0	“ Was it to everyone ? ”
+51641	51649	51651	51651	he	1078	“ No ; it was only to — ”
+51658	51666	51651	51651	he	1078	“ I do n’t remember their names . ”
+51667	51674	51651	51651	he	1078	“ Were they then so many ? ”
+51675	51686	51651	51651	he	1078	“ No — only a few . Those I liked . ”
+51817	51826	51827	51827	I	0	“ And did they repeat what you said ? ”
+51900	51905	51906	51906	he	1078	“ Oh , yes , ”
+51908	51921	51922	51922	he	1078	replied—“they must have repeated them . To those _ they _ liked , ”
+51944	51952	51939	51939	I	0	“ And these things came round — ? ”
+51953	51962	51963	51963	he	1078	“ To the masters ? Oh , yes ! ”
+51968	51978	51963	51963	he	1078	“ But I did n’t know they ’d tell . ”
+51979	51997	51998	51998	He	1078	“ The masters ? They didn’t — they’ve never told . That ’s why I ask you . ”
+52009	52017	51998	51998	He	1078	“ Yes , it was too bad . ”
+52018	52022	51998	51998	He	1078	“ Too bad ? ”
+52023	52035	51998	51998	He	1078	“ What I suppose I sometimes said . To write home . ”
+52072	52077	52065	52065	myself	0	“ Stuff and nonsense ! ”
+52090	52098	52083	52083	I	0	“ What _ were _ these things ? ”
+52268	52278	52279	52279	I	0	“ No more , no more , no more ! ”
+52295	52302	52303	52303	Miles	15	“ Is she _ here ? _ ”
+52322	52324	52320	52320	his	1078	“ she ”
+52337	52344	52345	52345	he	1078	“ Miss Jessel , Miss Jessel ! ”
+52389	52420	52375	52375	me	0	“ It ’s not Miss Jessel ! But it ’s at the window — straight before us . It ’s _ there_—the coward horror , there for the last time ! ”
+52497	52504	52454	52454	he	1078	“ It ’s _ he ? _ ”
+52523	52533	52515	52515	I	0	“ Whom do you mean by ‘ he ’ ? ”
+52534	52541	52542	52542	His	1078	“ Peter Quint — you devil ! ”
+52555	52560	52542	52542	His	1078	“ _ Where ? _ ”
+52581	52603	52604	52604	I	0	“ What does he matter now , my own?—what will he _ ever _ matter ? _ I _ have you , ”
+52610	52618	52604	52604	I	0	“ but he has lost you forever ! ”
+52628	52635	52636	52636	I	0	“ There , _ there ! _ ”
