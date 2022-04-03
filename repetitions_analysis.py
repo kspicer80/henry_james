@@ -20,5 +20,7 @@ def clean(seq_string):
 
 df = pd.read_csv('repetition_counts.csv', encoding='utf-8')
 print(df.head())
-df = df.rename(columns = {0: 'token'})
-print(df.columns)
+df.rename(columns = {'Unnamed: 0': 'token'}, inplace=True)
+print(df.head())
+#df['indices'] = df['indices'].apply(list(map(int, df['indices'])))
+#df['neighbors'] = df['indices'].apply(lambda x: find_neighbors(x, 10))

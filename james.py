@@ -31,7 +31,7 @@ def find_repetitions(text):
     dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
     return dictOfElems
 
-# Let's right a function to find the indices that are a specific number away from one another—following one of the anwsers proposed at https://stackoverflow.com/questions/23541567/find-numbers-in-python-list-which-are-within-a-certain-distance-of-each-other/39814970
+# Let's write a function to find the indices that are a specific number away from one another—following one of the anwsers proposed at https://stackoverflow.com/questions/23541567/find-numbers-in-python-list-which-are-within-a-certain-distance-of-each-other/39814970
 def find_neighbors(list, close_number=int()):
     results = []
     chunk = []
