@@ -10,7 +10,7 @@ james_tokens = list(word_tokenize(text))
 james_words = [word for word in james_tokens if word.isalpha()]
 
 james_text = nltk.Text(james_words)
-#james_text.collocations(25)
+james_text.collocations(25)
 
 jamesFirstSixWords = " ".join(james_words[0:6])
 #print("First Six Words: ", jamesFirstSixWords)
@@ -20,11 +20,11 @@ jamesBigrams = list(nltk.ngrams(james_words, 2))
 
 james4grams = list(nltk.ngrams(james_words, 4))
 james4gramsFreqs = nltk.FreqDist(james4grams)
-for words, count in james4gramsFreqs.most_common(15):
-    print(count, " ".join(list(words)))
+#for words, count in james4gramsFreqs.most_common(150):
+    #print(count, " ".join(list(words)))
 
 james4gramsTokens = [' '.join(gram) for gram in james4grams]
-#nltk.Text(james4gramsTokens).dispersion_plot([('I don t know')])
+#nltk.Text(james4gramsTokens).dispersion_plot([('He was the same')])
 #plt.show()
 
 ngramsFreqs = []
@@ -37,14 +37,14 @@ for length in range(2, len(james_words)):
     else:
         break
 
-for ngram, count in ngramsFreqs:
-    print("ngram of ", len(ngram), " words occuring ", count, " times ", " ".join(list(ngram)))
+#for ngram, count in ngramsFreqs:
+    #print("ngram of ", len(ngram), " words occuring ", count, " times ", " ".join(list(ngram)))
 
-james4gramsSegments = np.array_split(james4gramsTokens, 10)
-print([len(segment) for segment in james4gramsSegments])
+james4gramsSegments = np.array_split(james4gramsTokens, 50)
+#print([len(segment) for segment in james4gramsSegments])
 
-at_the_end_ofCounts = [list(segment).count(('at the end of')) for segment in james4gramsSegments]
-print(at_the_end_ofCounts)
+at_the_end_ofCounts = [list(segment).count(('he was the same')) for segment in james4gramsSegments]
+#print(at_the_end_ofCounts)
 
 line = plt.plot(at_the_end_ofCounts, label='at the end of')
 plt.ylim(0)
@@ -57,7 +57,7 @@ bar = plt.bar(xaxis, at_the_end_ofCounts, label='at the end of')
 plt.legend(handles=[bar])
 #plt.show()
 
-searches = ['at the end of', 'the rest of the']
+searches = ['he was the same']
 lines = []
 for search in searches:
     line, = plt.plot([list(segment).count(search) for segment in james4gramsSegments], label=search)
@@ -67,12 +67,12 @@ plt.legend(handles=lines)
 
 the_rest_of_theCounts = [list(segment).count('the rest of the') for segment in james4gramsSegments]
 
-print(np.corrcoef(at_the_end_ofCounts, the_rest_of_theCounts)[0,1])
+#print(np.corrcoef(at_the_end_ofCounts, the_rest_of_theCounts)[0,1])
 
-james4gramsMostFrequent = [" ".join(words) for words, count in james4gramsFreqs.most_common(10)] 
-print(james4gramsMostFrequent)
+james4gramsMostFrequent = [" ".join(words) for words, count in james4gramsFreqs.most_common(10)]
+#print(james4gramsMostFrequent)
 
-james4gramsSegmentsCounts = {} item
+james4gramsSegmentsCounts = {}
 for search in james4gramsMostFrequent:
     james4gramsSegmentsCounts[search] = [list(segment).count(search) for segment in james4gramsSegments]
 
@@ -82,5 +82,5 @@ for ngram, counts in james4gramsSegmentsCounts.items():
 
 at_the_end_ofCorrelationFreqs = nltk.FreqDist(at_the_end_ofCorrelations)
 plt.clf()
-print(at_the_end_ofCorrelationFreqs.most_common())
+#print(at_the_end_ofCorrelationFreqs.most_common())
 at_the_end_ofCorrelationFreqs.plot()

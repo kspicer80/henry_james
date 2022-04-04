@@ -14,9 +14,9 @@ with open('209-0-1.txt') as f:
 spacy_text = nlp(data)
 
 # Keeping track of sentence numbers ...?
-for sent_i, sent in enumerate(spacy_text.sents):
-    for token in sent:
-        print(sent_i, token.i, token.text)
+#for sent_i, sent in enumerate(spacy_text.sents):
+    #for token in sent:
+        #print(sent_i, token.i, token.text)
 
 # Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
 def find_repetitions(text):
