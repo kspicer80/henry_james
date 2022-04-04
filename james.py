@@ -8,12 +8,17 @@ nlp = spacy.load('en_core_web_lg')
 # Just a silly string to test the lemmatizing that we need here ...
 #simpler_string = '''I went to the stores to get the store and stores went and go rock and rocks and rocks and rocked and rocking and stores and storing.'''
 
-with open('209-0.txt') as f:
+with open('209-0-1.txt') as f:
     data = f.read()
 
 spacy_text = nlp(data)
 
-#Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
+# Keeping track of sentence numbers ...?
+for sent_i, sent in enumerate(spacy_text.sents):
+    for token in sent:
+        print(sent_i, token.i, token.text)
+
+# Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
 def find_repetitions(text):
     lemmas = []
     dictOfElems = dict()
