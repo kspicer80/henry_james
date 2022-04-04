@@ -10,7 +10,7 @@ james_tokens = list(word_tokenize(text))
 james_words = [word for word in james_tokens if word.isalpha()]
 
 james_text = nltk.Text(james_words)
-james_text.collocations(25)
+#james_text.collocations(25)
 
 jamesFirstSixWords = " ".join(james_words[0:6])
 #print("First Six Words: ", jamesFirstSixWords)
@@ -43,8 +43,8 @@ for length in range(2, len(james_words)):
 james4gramsSegments = np.array_split(james4gramsTokens, 50)
 #print([len(segment) for segment in james4gramsSegments])
 
-at_the_end_ofCounts = [list(segment).count(('he was the same')) for segment in james4gramsSegments]
-#print(at_the_end_ofCounts)
+at_the_end_ofCounts = [list(segment).count(('at the end of')) for segment in james4gramsSegments]
+print(at_the_end_ofCounts)
 
 line = plt.plot(at_the_end_ofCounts, label='at the end of')
 plt.ylim(0)
