@@ -50,8 +50,18 @@ df.loc[:, 'indices'] = df.loc[:, 'indices'].apply(to_integers)
 #df['indices'] = df['indices'].astype(int)
 #df['indices'] = pd.to_numeric(df['indices'])
 df['neighbors_within_5'] = df['indices'].apply(lambda x: find_neighbors(x, 5))
-df['neighbors'] = df['neighbors'].apply(lambda x: flatten_list(x))
+df['neighbors_within_5'] = df['neighbors'].apply(lambda x: flatten_list(x))
 #print(df.neighbors.value_counts().sort_index())
+
+df['neighbors_within_10'] = df['indices'].apply(lambda x: find_neighbors(x, 10))
+df['neighbors_within_10'] = df['neighbors'].apply(lambda x: flatten_list(x))
+
+df['neighbors_within_50'] = df['indices'].apply(lambda x: find_neighbors(x, 50))
+df['neighbors_within_50'] = df['neighbors'].apply(lambda x: flatten_list(x))
+
+df['neighbors_within_100'] = df['indices'].apply(lambda x: find_neighbors(x, 100))
+df['neighbors_within_100'] = df['neighbors'].apply(lambda x: flatten_list(x))
+
 df = df.sort_values(by='number_of_repetitions', ascending=False)
 df['length'] = df.neighbors.map(len)
 #print(df.shape)
