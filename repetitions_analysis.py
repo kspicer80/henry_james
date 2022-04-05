@@ -63,9 +63,12 @@ df['neighbors_within_100'] = df['indices'].apply(lambda x: find_neighbors(x, 100
 df['neighbors_within_100'] = df['neighbors_within_100'].apply(lambda x: flatten_list(x))
 
 #df = df.sort_values(by='number_of_repetitions', ascending=False)
-df['length_within_5'] = df.neighbors_within_5.map(len)
-df['length_within_10'] = df.neighbors_within_10.map(len)
-df['length_within_50'] = df.neighbors_within_50.map(len)
-df['length_within_100'] = df.neighbors_within_100.map(len)
+df['number_within_5'] = df.neighbors_within_5.map(len)
+df['number_within_10'] = df.neighbors_within_10.map(len)
+df['number_within_50'] = df.neighbors_within_50.map(len)
+df['number_within_100'] = df.neighbors_within_100.map(len)
 
-df = df.sort_values(by = ['length_within_5', 'length_within_10', 'length_within_50', 'length_within_100'], ascending = [False, False, False, False])
+df = df.sort_values(by = ['number_within_5', 'number_within_10', 'number_within_50', 'number_within_100'], ascending = [False, False, False, False])
+
+df_of_lengths = df[['token', 'number_of_repetitions', 'number_within_5', 'number_within_10', 'number_within_50', 'number_within_100']]
+print(df_of_lengths.head(50))
