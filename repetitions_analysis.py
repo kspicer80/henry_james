@@ -79,10 +79,11 @@ df = df.sort_values(by = ['number_within_5', 'number_within_10', 'number_within_
 
 df_of_lengths = df[['indices', 'token', 'number_of_repetitions', 'number_within_5', 'number_within_10', 'number_within_50', 'number_within_100']]
 #df["token"] = df['token'].str.replace('[^\w\s]','')
+print(df_of_lengths.head(250))
 
 subset_for_strip_plot = df_of_lengths.iloc[0:100, 0]
 #subset_for_strip_plot_list = subset_for_strip_plot.tolist()
-print(subset_for_strip_plot.head(50))
+#print(subset_for_strip_plot.head(50))
 
 #with open('209-0.txt', encoding='utf-8') as f:
     #data = f.read()
@@ -95,6 +96,6 @@ print(subset_for_strip_plot.head(50))
 #print(subset_for_strip_plot.head(100))
 #print(subset_for_strip_plot.head(50))
 
-plt.figure(figsize=(22, 6))
-sns.stripplot(x='indices', y='token', data=df_of_lengths, palette="Set2", size=10, marker='D', edgecolor='gray', alpha=.50)
-plt.show()
+#plt.figure(figsize=(22, 6))
+#sns.stripplot(x='indices', y='token', data=df_of_lengths, palette="Set2", size=10, marker='D', edgecolor='gray', alpha=.50)
+#plt.show()
