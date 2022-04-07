@@ -143,8 +143,3 @@ def find_repetitions(text):
         index += 1
     dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
     return dictOfElems
-
-
-
-
-    

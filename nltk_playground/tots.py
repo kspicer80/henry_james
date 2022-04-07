@@ -8,21 +8,22 @@ from spacy.matcher import PhraseMatcher
 from spacy.matcher import Matcher
 import pandas as pd
 import numpy as np
+import textacy
 
-with open('tots.txt', encoding='utf-8') as f:
+with open(r'nltk_playground\tots.txt', encoding='utf-8') as f:
     data = f.read()
 
-tokens = word_tokenize(data)
-tots_text = nltk.Text(tokens)
+#tokens = word_tokenize(data)
+#tots_text = nltk.Text(tokens)
 
 #prodigious_concordance = tots_text.concordance('prodigious', width=200)
 #print(prodigious_concordance)
 #portentous_concordance = tots_text.concordance('portentous', width=200)
 #sealed_concordance = tots_text.concordance('sealed', width=200)
 
-plt.figure(figsize=(12, 9))
+#plt.figure(figsize=(12, 9))
 targets=['prodigious', 'prodigiously', 'prodigiousness', 'portentous', 'portentously']
-dispersion_plot(tokens, targets, ignore_case=True, title='Lexical Dispersion Plot for "Prodigious" and "Portentous"')
+#dispersion_plot(tokens, targets, ignore_case=True, title='Lexical Dispersion Plot for "Prodigious" and "Portentous"')
 
 # Using spaCy
 #phrase_matcher = PhraseMatcher(nlp.vocab)
@@ -30,22 +31,24 @@ dispersion_plot(tokens, targets, ignore_case=True, title='Lexical Dispersion Plo
 #patterns = [nlp(text) for text in phrases]
 #phrase_matcher.add('mhm', None, *patterns)
 #
-#doc = nlp(data)
-#
+doc = nlp(data)
+
+# Keeping track of sentence numbers in a spaCy Doc object:
 #for sent in doc.sents:
     #for match_id, start, end in phrase_matcher(nlp(sent.text)):
         #if nlp.vocab.strings[match_id] in ["mhm"]:
             #print(sent.text)
 
+# Matching with spaCy:
 #matcher = Matcher(nlp.vocab)
 ##pattern_1 = [{'TEXT': 'prodigious'}]
 ##pattern_2 = [{'TEXT': 'portentous'}]
 ##matcher.add('mhm', [pattern_1, pattern_2])
-#
+
 #lemma_pattern_1 = [{'LEMMA': 'prodigious'}]
 #lemma_pattern_2 = [{'LEMMA': 'portenous'}]
 #matcher.add('mhm_lemma', [lemma_pattern_1, lemma_pattern_2])
-#
+
 #doc = nlp(data)
 #matches = matcher(doc)
 #print(len(matches))
@@ -54,15 +57,23 @@ dispersion_plot(tokens, targets, ignore_case=True, title='Lexical Dispersion Plo
     #span = doc[start:end]
     #sents = span.sent
     #print(match_id, string_id, start, end, sents)
-#
-##print(doc[5013:5014])
-#
+
+#print(doc[5013:5014])
+
+# Recreating the NLTK dispersion plot function:
 #def recreate_lexical_dispersion_plot(target, text):
     #return pd.Series(np.histogram(
         #[word.i for word in text if word.text.lower() == target], bins=100)[0])
-#
+
 #pd.DataFrame({name: recreate_lexical_dispersion_plot(name.lower(), doc) for name in ['prodigious', 'portentous', 'sealed']}).plot(subplots=True)
 #plt.show()
+
+# spaCy and ngrams:
+ngrams = list(textacy.extract.basics.ngrams(doc, 5 , min_freq=2))
+print(ngrams)
+from collections import Counter
+ngrams_freq = Counter(ngrams)
+print(ngrams_freq)
 
 
 
