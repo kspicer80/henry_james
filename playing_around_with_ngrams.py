@@ -20,8 +20,8 @@ jamesBigrams = list(nltk.ngrams(james_words, 2))
 
 james4grams = list(nltk.ngrams(james_words, 4))
 james4gramsFreqs = nltk.FreqDist(james4grams)
-#for words, count in james4gramsFreqs.most_common(150):
-    #print(count, " ".join(list(words)))
+for words, count in james4gramsFreqs.most_common(150):
+    print(count, " ".join(list(words)))
 
 james4gramsTokens = [' '.join(gram) for gram in james4grams]
 #nltk.Text(james4gramsTokens).dispersion_plot([('He was the same')])
