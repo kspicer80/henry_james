@@ -14,11 +14,6 @@ print(book_data['characters'][1]['mentions']['proper'])
 print(book_data['characters'][1]['mentions']['pronoun'])
 
 
-
-
-
-
-
 # Character Analysis
 
 #df_entities = pd.read_csv(r"booknlp_data\turn_of_the_screw.entities", delimiter="\t")
