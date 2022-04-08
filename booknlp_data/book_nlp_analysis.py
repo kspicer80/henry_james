@@ -1,6 +1,11 @@
 import json
 from collections import Counter
 import pandas as pd
+pd.set_option('display.max_rows', None)
+
+df_entities = pd.read_csv(r"booknlp_data\turn_of_the_screw.entities", delimiter="\t")
+print(df_entities.head(200))
+print(df_entities['text'].unique())
 
 def process(filename):
     with open(filename) as f:
