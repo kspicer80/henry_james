@@ -3,16 +3,28 @@ from collections import Counter
 import pandas as pd
 pd.set_option('display.max_rows', None)
 
-# Introductory Matters
+# Introductory Matters—what's in the bookNLP output files?
 
 with open('turn_of_the_screw.book', 'r') as f:
     book_data = json.load(f)
 print(book_data.keys())
 print(len(book_data['characters']))
 print(book_data['characters'][0].keys())
+print(book_data["characters"][0]["agent"][:1])
+print(book_data["characters"][0]["patient"][:1])
+print(book_data["characters"][0]["mod"][:1])
+print(book_data["characters"][0]["poss"][:1])
+print(book_data["characters"][0]["id"])
+print(book_data["characters"][0]["g"])
+print(book_data["characters"][0]["count"])
+print(book_data["characters"][0]["mod"][:10])
+print(book_data["characters"][0]["poss"][:10])
+print(book_data["characters"][0]["id"])
+print(book_data["characters"][0]["count"])
+print(book_data["characters"][0]["mentions"].keys())
 print(book_data['characters'][1]['mentions']['proper'])
+print(book_data['characters'][1]['mentions']['common'])
 print(book_data['characters'][1]['mentions']['pronoun'])
-
 
 # Character Analysis
 
