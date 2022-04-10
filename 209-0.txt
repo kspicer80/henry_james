@@ -296,7 +296,7 @@ read with a fine clearness that was like a rendering to the ear of the
 beauty of his author’s hand.
 
 
-I
+#I
 
 I remember the whole beginning as a succession of flights and drops, a
 little seesaw of the right throbs and the wrong. After rising, in town,
@@ -454,7 +454,7 @@ a handful of passengers in a great drifting ship. Well, I was,
 strangely, at the helm!
 
 
-II
+#II
 
 This came home to me when, two days later, I drove over with Flora to
 meet, as Mrs. Grose said, the little gentleman; and all the more for an
@@ -634,7 +634,7 @@ I turned this over. “But of what?”
 my work.”
 
 
-III
+#III
 
 Her thus turning her back on me was fortunately not, for my just
 preoccupations, a snub that could check the growth of our mutual
@@ -829,7 +829,7 @@ but less long, and even as he turned away still markedly fixed me. He
 turned away; that was all I knew.
 
 
-IV
+#IV
 
 It was not that I didn’t wait, on this occasion, for more, for I was
 rooted as deeply as I was shaken. Was there a “secret” at Bly—a mystery
@@ -1004,7 +1004,7 @@ I thought of more things than one. But there’s only one I take space to
 mention. I wondered why _she_ should be scared.
 
 
-V
+#V
 
 Oh, she let me know as soon as, round the corner of the house, she
 loomed again into view. “What in the name of goodness is the matter—?”
@@ -1223,7 +1223,7 @@ She seemed fairly to square herself, plant herself more firmly to utter
 the wonder of it. “Yes. Mr. Quint is dead.”
 
 
-VI
+#VI
 
 It took of course more than that particular passage to place us
 together in presence of what we had now to live with as we could—my
@@ -1499,7 +1499,7 @@ seconds I felt I was ready for more. Then I again shifted my eyes—I
 faced what I had to face.
 
 
-VII
+#VII
 
 I got hold of Mrs. Grose as soon after this as I could; and I can give
 no intelligible account of how I fought out the interval. Yet I still
@@ -1707,7 +1707,7 @@ despair; “I don’t save or shield them! It’s far worse than I
 dreamed—they’re lost!”
 
 
-VIII
+#VIII
 
 What I had said to Mrs. Grose was true enough: there were in the matter
 I had put before her depths and possibilities that I lacked resolution
@@ -1912,7 +1912,7 @@ shutting her out to go, by another passage, to her own place, “I must
 just wait,” I wound up.
 
 
-IX
+#IX
 
 I waited and waited, and the days, as they elapsed, took something from
 my consternation. A very few of them, in fact, passing, in constant
@@ -2081,7 +2081,7 @@ could have more disfigured, straight down the staircase and into the
 darkness in which the next bend was lost.
 
 
-X
+#X
 
 I remained awhile at the top of the stair, but with the effect
 presently of understanding that when my visitor had gone, he had gone:
@@ -2236,7 +2236,7 @@ and had confidently hurried to meet. The presence on the lawn—I felt
 sick as I made it out—was poor little Miles himself.
 
 
-XI
+#XI
 
 It was not till late next day that I spoke to Mrs. Grose; the rigor
 with which I kept my pupils in sight making it often difficult to meet
@@ -2379,7 +2379,7 @@ closed on my recognition of all the reserves of goodness that, for his
 joke, he had been able to draw upon.
 
 
-XII
+#XII
 
 The particular impression I had received proved in the morning light, I
 repeat, not quite successfully presentable to Mrs. Grose, though I
@@ -2514,7 +2514,7 @@ She was really frightened. “Yes, miss?”
 “I would leave, on the spot, both him and you.”
 
 
-XIII
+#XIII
 
 It was all very well to join them, but speaking to them proved quite as
 much as ever an effort beyond my strength—offered, in close quarters,
@@ -2685,7 +2685,7 @@ or the burst of a thunderstorm to a day of suffocation. It was at least
 change, and it came with a rush.
 
 
-XIV
+#XIV
 
 Walking to church a certain Sunday morning, I had little Miles at my
 side and his sister, in advance of us and at Mrs. Grose’s, well in
@@ -2859,7 +2859,7 @@ gave me another look charged with that expression and then marched off
 alone into church.
 
 
-XV
+#XV
 
 The business was practically settled from the moment I never followed
 him. It was a pitiful surrender to agitation, but my being aware of
@@ -2962,7 +2962,7 @@ the air. There was nothing in the room the next minute but the sunshine
 and a sense that I must stay.
 
 
-XVI
+#XVI
 
 I had so perfectly expected that the return of my pupils would be
 marked by a demonstration that I was freshly upset at having to take
@@ -3103,7 +3103,7 @@ again in her eyes. “Ah, miss, _you_ write!”
 “Well—tonight,” I at last answered; and on this we separated.
 
 
-XVII
+#XVII
 
 I went so far, in the evening, as to make a beginning. The weather had
 changed back, a great wind was abroad, and beneath the lamp, in my
@@ -3297,7 +3297,7 @@ and the window tight. “Why, the candle’s out!” I then cried.
 “It was I who blew it, dear!” said Miles.
 
 
-XVIII
+#XVIII
 
 The next day, after lessons, Mrs. Grose found a moment to say to me
 quietly: “Have you written, miss?”
@@ -3426,7 +3426,7 @@ upstairs.”
 “With _them?_” Oh, on this, the poor woman promptly joined me!
 
 
-XIX
+#XIX
 
 We went straight to the lake, as it was called at Bly, and I daresay
 rightly called, though I reflect that it may in fact have been a sheet
@@ -3575,7 +3575,7 @@ Mrs. Grose’s suspense blazed at me, but it was too late now, and I
 brought the thing out handsomely. “Where, my pet, is Miss Jessel?”
 
 
-XX
+#XX
 
 Just as in the churchyard with Miles, the whole thing was upon us. Much
 as I had made of the fact that this name had never once, between us,
@@ -3732,7 +3732,7 @@ to the other side of the hearth and sank into a chair. We sat there in
 absolute stillness; yet he wanted, I felt, to be with me.
 
 
-XXI
+#XXI
 
 Before a new day, in my room, had fully broken, my eyes opened to Mrs.
 Grose, who had come to my bedside with worse news. Flora was so
@@ -3997,7 +3997,7 @@ he’s saved. And if he’s saved—”
 farewell. “I’ll save you without him!” she cried as she went.
 
 
-XXII
+#XXII
 
 Yet it was when she had got off—and I missed her on the spot—that the
 great pinch really came. If I had counted on what it would give me to
@@ -4130,7 +4130,7 @@ journey, at the inn, feel shy in the presence of the waiter. He turned
 round only when the waiter had left us. “Well—so we’re alone!”
 
 
-XXIII
+#XXIII
 
 “Oh, more or less.” I fancy my smile was pale. “Not absolutely. We
 shouldn’t like that!” I went on.
@@ -4279,7 +4279,7 @@ me, and I was offhand!—“if, yesterday afternoon, from the table in the
 hall, you took, you know, my letter.”
 
 
-XXIV
+#XXIV
 
 My sense of how he received this suffered for a minute from something
 that I can describe only as a fierce split of my attention—a stroke
