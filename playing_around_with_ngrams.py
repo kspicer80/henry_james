@@ -24,12 +24,18 @@ jamesBigrams = list(nltk.ngrams(james_words, 2))
 
 james4grams = list(nltk.ngrams(james_words, 4))
 james4gramsFreqs = nltk.FreqDist(james4grams)
-for words, count in james4gramsFreqs.most_common(150):
-    print(count, " ".join(list(words)))
+#for words, count in james4gramsFreqs.most_common(150):
+    #print(count, " ".join(list(words)))
 
 james4gramsTokens = [' '.join(gram) for gram in james4grams]
 #nltk.Text(james4gramsTokens).dispersion_plot([('He was the same')])
 #plt.show()
+
+james5grams = list(nltk.ngrams(james_words, 5))
+james5gramsFreqs = nltk.FreqDist(james5grams)
+for words, count in james5gramsFreqs.most_common(150):
+    print(count, " ".join(list(words)))
+
 
 ngramsFreqs = []
 for length in range(2, len(james_words)):
@@ -48,7 +54,7 @@ james4gramsSegments = np.array_split(james4gramsTokens, 50)
 #print([len(segment) for segment in james4gramsSegments])
 
 at_the_end_ofCounts = [list(segment).count(('at the end of')) for segment in james4gramsSegments]
-print(at_the_end_ofCounts)
+#print(at_the_end_ofCounts)
 
 line = plt.plot(at_the_end_ofCounts, label='at the end of')
 plt.ylim(0)
@@ -87,4 +93,4 @@ for ngram, counts in james4gramsSegmentsCounts.items():
 at_the_end_ofCorrelationFreqs = nltk.FreqDist(at_the_end_ofCorrelations)
 plt.clf()
 #print(at_the_end_ofCorrelationFreqs.most_common())
-at_the_end_ofCorrelationFreqs.plot()
+#at_the_end_ofCorrelationFreqs.plot()
