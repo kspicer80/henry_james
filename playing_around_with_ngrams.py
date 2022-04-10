@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 import nltk
 from nltk.tokenize import word_tokenize
 
+# simple home-made ngram function:
+def n_grams(tokens, n):
+    return[tokens[i:i+n] for i in range(len(tokens)-n+1)]
+
 with open('209-0.txt', encoding='utf-8') as f:
     text = f.read()
 
