@@ -6,6 +6,7 @@ from nltk.tokenize import word_tokenize
 from nltk import bigrams
 import itertools
 import seaborn as sns
+
 # simple home-made ngram function:
 def n_grams(tokens, n):
     return[tokens[i:i+n] for i in range(len(tokens)-n+1)]
@@ -120,6 +121,6 @@ def co_occurence_matrix(corpus):
 #print(merged)
 matrix, vocab_to_index = co_occurence_matrix(james_tokens)
 CoMatrixFinal = pd.DataFrame(matrix, index=vocab_to_index, columns=vocab_to_index)
-print(CoMatrixFinal.head())
-#sns.heatmap(matrix)
+#print(CoMatrixFinal.head())
+#sns.heatmap(CoMatrixFinal)
 #plt.show()

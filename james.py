@@ -4,27 +4,18 @@ import spacy
 nlp = spacy.load('en_core_web_lg')
 spacy_stopwords = nlp.Defaults.stop_words
 
-#test_string = '''The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was gruesome, as, on Christmas Eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to say that it was the only case he had met in which such a visitation had fallen on a child. The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him. It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Someone else told a story not particularly effective, which I saw he was not following. This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.'''
+# Functions we need:
 
-# Just a silly string to test the lemmatizing that we need here ...
-#simpler_string = '''I went to the stores to get the store and stores went and go rock and rocks and rocks and rocked and rocking and stores and storing.'''
-
-with open('209-0.txt', encoding='utf-8') as f:
-    data = f.read()
-
-spacy_text = nlp(data)
-
-# Keeping track of sentence numbers ...?
-#for sent_i, sent in enumerate(spacy_text.sents):
-    #for token in sent:
-        #print(sent_i, token.i, token.text)
-
+def n_grams(tokens, n):
+    return [tokens[i:i+n] for i in range(len(tokens)-n+1)]
+    
 # Following/repurposing from: https://thispointer.com/python-find-duplicates-in-a-list-with-frequency-count-index-positions/
 def find_repetitions(text):
+    nlp_text = nlp(text)
     lemmas = []
     dictOfElems = dict()
     index = 0
-    text_no_punct = [token for token in spacy_text if not token.is_punct and token not in spacy_stopwords]
+    text_no_punct = [token for token in nlp_text if not token.is_punct and token not in spacy_stopwords]
     for token in text_no_punct:
         lemmas.append(token.lemma_)
     for elem in lemmas:
@@ -51,12 +42,35 @@ def find_neighbors(list, close_number=int()):
             chunk = []
     return(results)
 
-repetitions = find_repetitions(spacy_text)
-print(repetitions)
+ngram_test_string = "The story held us, round the fire, for many days. I would like to say that the story held us round the fire for much longer than I would have imagined. I couldn't imagine that the story held us round the fire for so long."
 
-df = pd.DataFrame(repetitions)
-df = df.T
-df = df.rename(columns={0: 'number_of_repetitions', 1: 'indices'})
-print(df.head(10))
+ngram_test = find_ngram_repetitions(ngram_test_string)
+print(ngram_test)
+
+
+
+
+#test_string = '''The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was gruesome, as, on Christmas Eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to say that it was the only case he had met in which such a visitation had fallen on a child. The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him. It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Someone else told a story not particularly effective, which I saw he was not following. This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.'''
+
+# Just a silly string to test the lemmatizing that we need here ...
+#simpler_string = '''I went to the stores to get the store and stores went and go rock and rocks and rocks and rocked and rocking and stores and storing.'''
+
+#with open('209-0.txt', encoding='utf-8') as f:
+    #data = f.read()
+
+#spacy_text = nlp(data)
+
+#repetitions = find_repetitions(spacy_text)
+#print(repetitions)
+
+#df = pd.DataFrame(repetitions)
+#df = df.T
+#df = df.rename(columns={0: 'number_of_repetitions', 1: 'indices'})
+#print(df.head(10))
 #print(df.columns)
-df.to_csv('repetition_counts_no_stopwords.csv')
+#df.to_csv('repetition_counts_no_stopwords.csv')
+
+# Keeping track of sentence numbers ...?
+#for sent_i, sent in enumerate(spacy_text.sents):
+    #for token in sent:
+        #print(sent_i, token.i, token.text)
