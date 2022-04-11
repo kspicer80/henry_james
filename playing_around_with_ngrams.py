@@ -1,8 +1,11 @@
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import nltk
 from nltk.tokenize import word_tokenize
-
+from nltk import bigrams
+import itertools
+import seaborn as sns
 # simple home-made ngram function:
 def n_grams(tokens, n):
     return[tokens[i:i+n] for i in range(len(tokens)-n+1)]
@@ -12,6 +15,7 @@ with open('209-0.txt', encoding='utf-8') as f:
 
 james_tokens = list(word_tokenize(text))
 james_words = [word for word in james_tokens if word.isalpha()]
+print(james_words)
 
 james_text = nltk.Text(james_words)
 #james_text.collocations(25)
@@ -35,7 +39,6 @@ james5grams = list(nltk.ngrams(james_words, 5))
 james5gramsFreqs = nltk.FreqDist(james5grams)
 for words, count in james5gramsFreqs.most_common(150):
     print(count, " ".join(list(words)))
-
 
 ngramsFreqs = []
 for length in range(2, len(james_words)):
@@ -94,3 +97,29 @@ at_the_end_ofCorrelationFreqs = nltk.FreqDist(at_the_end_ofCorrelations)
 plt.clf()
 #print(at_the_end_ofCorrelationFreqs.most_common())
 #at_the_end_ofCorrelationFreqs.plot()
+
+# Co-occurnce Matrix Creation
+def co_occurence_matrix(corpus):
+    vocab = set(corpus)
+    vocab = list(vocab)
+    vocab_to_index = {word:i for i, word in enumerate(vocab)}
+    bi_grams = list(bigrams(corpus))
+    bigram_freq = nltk.FreqDist(bi_grams).most_common(len(bi_grams))
+    co_occurence_matrix = np.zeros((len(vocab), len(vocab)))
+    for bigram in bigram_freq:
+        current = bigram[0][1]
+        previous = bigram[0][0]
+        count = bigram[1]
+        pos_current = vocab_to_index[current]
+        pos_previous = vocab_to_index[previous]
+        co_occurence_matrix[pos_current][pos_previous] = count
+    co_occurence_matrix = np.matrix(co_occurence_matrix)
+    return co_occurence_matrix, vocab_to_index
+
+#merged = list(itertools.chain.from_iterable(james_tokens))
+#print(merged)
+matrix, vocab_to_index = co_occurence_matrix(james_tokens)
+CoMatrixFinal = pd.DataFrame(matrix, index=vocab_to_index, columns=vocab_to_index)
+print(CoMatrixFinal.head())
+#sns.heatmap(matrix)
+#plt.show()
