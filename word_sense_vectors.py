@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 import pandas as pd
 pd.set_option('display.max_rows', None)
 import spacy
@@ -19,8 +20,9 @@ df = pd.DataFrame([whichSense(w.text) for w in nlp_of_file], index=nlp_of_file)
 df.columns = ['sight', 'sound', 'touch', 'smell']
 df = df.sort_values(by=['sight', 'sound'], ascending=[False, False])
 df.plot(kind='bar')
+plt.show()
 #print(df.head(100))
-df.to_csv('sense_test.csv')
+#df.to_csv('sense_test.csv')
 
 #pd.DataFrame(data=[*dict.values()], columns=['firstcolumn','secondcolumn', 'thirdcolumn'])
 
