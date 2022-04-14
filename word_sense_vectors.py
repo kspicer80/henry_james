@@ -19,8 +19,8 @@ nlp_of_file = nlp(data)
 df = pd.DataFrame([whichSense(w.text) for w in nlp_of_file], index=nlp_of_file)
 df.columns = ['sight', 'sound', 'touch', 'smell']
 df = df.sort_values(by=['sight', 'sound'], ascending=[False, False])
-df.plot(kind='bar')
-plt.show()
+#df.plot(kind='bar')
+#plt.show()
 #print(df.head(100))
 #df.to_csv('sense_test.csv')
 
