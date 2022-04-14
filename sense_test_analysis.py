@@ -5,7 +5,7 @@ pd.set_option('display.max_rows', None)
 
 df = pd.read_csv('sense_test.csv', header=0)
 #print(df.head(100))
-df.rename( columns={'Unnamed: 0':'token'}, inplace=True )
+df.rename(columns={'Unnamed: 0':'token'}, inplace=True)
 #print(df.head(50))
 #print(df.nunique())
 df = df.sort_values(by=['touch'], ascending=[False])
