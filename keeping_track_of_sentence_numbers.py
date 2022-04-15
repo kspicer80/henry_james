@@ -1,3 +1,4 @@
+from collections import defaultdict
 from more_itertools import pairwise
 import pandas as pd
 pd.set_option('display.max_rows', None)
@@ -44,11 +45,16 @@ def find_repetitions(text):
 #print(df)
 #df.to_csv('with_sentence_indexing.csv')
 
-test_dict = {}
+test_dict = defaultdict()
 spacy_text = nlp(test_string)
+
+def keep_sentence_index_numbers(text):
+    nlp_text = nlp(text)
 for sent_index, sent in enumerate(spacy_text.sents):
     for token in sent:
-        print(sent_index, token.i - sent.start, token.text)
+        test_dict[token] = (sent_index, token.i - sent.start, token.text)
+
+print(test_dict)
 
 # Keeping track of sentence numbers ...? https://stackoverflow.com/questions/50742516/how-to-get-the-index-of-a-token-in-a-sentence-in-spacy
 #for sent_index, sentence in enumerate(spacy_text.sents):
