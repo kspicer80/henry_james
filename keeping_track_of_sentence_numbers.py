@@ -36,27 +36,29 @@ def keep_sentence_index_numbers(text):
     nlp_text = nlp(text)
     lemmas = []
     test_dict = defaultdict(list)
-    dictOfElems = defaultdict()
+    dictOfElems = defaultdict(list)
     index = 0
     for sent_index, sent in enumerate(nlp_text.sents):
         for token in sent:
-            #print(token.text)
-            #test_dict[token.text] = [sent_index, token.i-sent.start, token.lemma_]
-            test_dict[token] = [sent_index, token.i-sent.start, token.lemma_]
-    for elem in test_dict:
-        if elem in dictOfElems:
-            dictOfElems[elem][0] += 1
-            dictOfElems[elem][1].append(index)
-        else:
-            dictOfElems[elem] = [1, [index]]
-        index += 1
+            for elem in test_dict.keys():
+                if elem in test_dict.keys():
+                    test_dict[elem.lemma_] = [token.idx, sent_index, token.i-sent.start]
+                    test_dict[elem.lemma_][0] += 1
+                    test_dict[elem.lemma_][1].append(elem.idx)
+                else:
+                    dictOfElems[elem] = [1, [elem.idx]]
+                index += 1
     dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
     return(test_dict)
-    
-test_string_1 = '''I went to the store today. I ran and ran all the way until I couldn't run anymore. Then I went to the store again.'''
 
-test = keep_sentence_index_numbers(test_string_1)
-#print(test)
+test_string_1 = '''I went to the store today. I ran and ran all the way until I couldn't run anymore. Then I went to the store again. I hate the store!'''
+
+def index_sentences(text):
+    nlp_text = nlp(text)
+    sent_dict = defaultdict(list)
+    for sent_index, sent in enumerate(nlp_text.sents):
+        sent_dict[sent_index] = []
+
 
 def find_repetitions(text):
     nlp_text = nlp(text)
@@ -72,32 +74,61 @@ def find_repetitions(text):
             lemmas.append([sent_index, token.i, token.i-sent.start, token.text, token.lemma_])
     return lemmas
 
-repetitions = find_repetitions(test_string_1)
-print(repetitions)
-
-#dictOfElems = defaultdict()
-#index = 0
-#
-#for list in (sublist[0][2] for sublist in test):
-    #for elem in list:
-        #if elem in dictOfElems:
-            #dictOfElems[elem][0] += 1
-            #dictOfElems[elem][1].append(index)
-        #else:
-            #dictOfElems[elem] = [1, [index]]
-        #index += 1
-    #dictOfElems = {key: value for key, value in dictOfElems.items() if value[0]>1}
-#
-#print(dictOfElems)
-
-        
+#repetitions = find_repetitions(test_string_1)
+#print(repetitions)
 
 
+test_list = [1, 2, 3, 1, 2, 1, 5, 6, 7, 8, 9]
+
+def find_repetitions_version_two(text):
+    nlp_text = nlp(text)
+    sentence_dict = defaultdict(list)
+    for sent_index, sentence in enumerate(nlp_text.sents):
+        for token in sentence:
+            sentence_dict[token.lemma_] = [token.text, token.idx, token.idx-sentence.start, sentence]
 
 
+    for element in sentence_dict.keys():
+        if element in sentence_dict:
+            sentence_dict[element][0] += 1
+            sentence_dict[element][1].append(element.idx)
+        else:
+            sentence_dict[element] = [1, [element.idx]]
+        index += 1
+    #freq = {key: value for key, value in freq.items() if value[0]>1}
+    return freq
+
+#version_two_test = find_repetitions_version_two(test_string_1)
+#print(version_two_test)
+
+def repetitions(text):
+    nlp_text = nlp(text)
+    test_dict = defaultdict()
+    runninglist = []
+    index = 0
+    for sent_index, sent in enumerate(nlp_text.sents):
+        for token in sent:
+            runninglist.append([token.lemma_, token.i, token.i-sent.start, sent_index])
+            for element in runninglist[0]:
+                test_dict[element][0] += 1
+                test_dict[element].append(index)
+            else:
+                test_dict[key].append([1, [index]])
+            index += 1
+    #test_dict = {key: value for key, value in dictOfElems.items() if value[0]>1}
+    return(test_dict)
+
+test = repetitions(test_string_1)
+print(test)
 
 
-
+#for elem in lemmas:
+    #if elem in dictOfElems:
+        #dictOfElems[elem][0] += 1
+        #dictOfElems[elem][1].append(index)
+    #else:
+        #dictOfElems[elem] = [1, [index]]
+    #index += 1
 
 
 
