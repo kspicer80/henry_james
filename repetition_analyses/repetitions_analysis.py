@@ -79,12 +79,14 @@ df = df.sort_values(by = ['number_within_5', 'number_within_10', 'number_within_
 
 df_of_lengths = df[['indices', 'token', 'number_of_repetitions', 'number_within_5', 'number_within_10', 'number_within_50', 'number_within_100']]
 #df["token"] = df['token'].str.replace('[^\w\s]','')
-print(df_of_lengths.head(50))
+#print(df_of_lengths.head(50))
 
-subset_for_strip_plot = df_of_lengths.iloc[0:100, 0]
+subset_for_strip_plot = df_of_lengths.iloc[0:50, 0:1]
+#print(subset_for_strip_plot)
 #subset_for_strip_plot_list = subset_for_strip_plot.tolist()
 #print(subset_for_strip_plot.head(50))
-
+sns.stripplot(x='indices', y='token', data=df_of_lengths)
+plt.show()
 #with open('209-0.txt', encoding='utf-8') as f:
     #data = f.read()
 #
