@@ -23,6 +23,9 @@ def compute_freq(sentence, n_value=4):
 four_gram_frequencies = compute_freq(data)
 print(four_gram_frequencies)
 
-print({k: v for k, v in sorted(four_gram_frequencies.items(), key=lambda item: item[1])})
+dictionary = {k: v for k, v in sorted(four_gram_frequencies.items(), key=lambda item: item[1])}
 #for k, v in four_gram_frequencies.items():
     #print(k, v)
+    
+df = pd.DataFrame.from_dict(dictionary, orient='index')
+print(df.head(50))

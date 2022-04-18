@@ -39,7 +39,7 @@ def flatten_list(t):
 
 #df[cols_to_check] = df[cols_to_check].replace({';':''}, regex=True)
 
-df = pd.read_csv('repetition_counts_no_stopwords.csv', encoding='utf-8')
+df = pd.read_csv(r'repetition_analyses\repetition_counts.csv', encoding='utf-8')
 #print(df.head())
 df.rename(columns = {'Unnamed: 0': 'token'}, inplace=True)
 #print(df.head())
@@ -81,12 +81,20 @@ df_of_lengths = df[['indices', 'token', 'number_of_repetitions', 'number_within_
 #df["token"] = df['token'].str.replace('[^\w\s]','')
 #print(df_of_lengths.head(50))
 
-subset_for_strip_plot = df_of_lengths.iloc[0:50, 0:1]
-#print(subset_for_strip_plot)
-#subset_for_strip_plot_list = subset_for_strip_plot.tolist()
-#print(subset_for_strip_plot.head(50))
-sns.stripplot(x='indices', y='token', data=df_of_lengths)
+subset_for_strip_plot = df_of_lengths.iloc[:25, 0:2]
+#print(subset_for_strip_plot.columns)
+subset_df_explode = subset_for_strip_plot.explode('indices')
+print(subset_df_explode.columns)
+
+sns.stripplot(x='indices', y='token', data=subset_df_explode)
 plt.show()
+
+#unstacked_subset = df[['indices']].unstack().apply(pd.Series)
+#print(unstacked_subset.head())
+#print(unstacked_subset.columns)
+#sns.stripplot(x=unstacked_subset.index, y=unstacked_subset.columns, data=unstacked_subset, palette='Set2', size=10, marker='D', edgecolor='gray', alpha=.50)
+#plt.show()
+
 #with open('209-0.txt', encoding='utf-8') as f:
     #data = f.read()
 #

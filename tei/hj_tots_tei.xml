@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+,<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -311,8 +311,922 @@
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“And the little boy—does he look like her? Is he too so very remarkable?”</said>
 			</div>
 			<div type='paragraph' n='5'>
-				One wouldn’t flatter a child. <said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, miss, <emph rend='italics'>most</emph> remarkable. If you think well of this one!”</said>—and she stood there with a plate in her hand, <interpretation><desc><sight>beaming</sight></desc></interpretation> at our companion, who looked from one of us to the other with placid heavenly eyes that contained nothing to check us.
+				One wouldn’t flatter a child. <said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, miss, <emph rend='italics'>most</emph> remarkable. If you think well of this one!”</said>—and she stood there with a plate in her hand, <seg ana='vision'>beaming</seg> at our companion, who looked from one of us to the other with placid heavenly eyes that contained nothing to check us.
 			</div>
+			<div type='paragraph' n='6'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yes; if I do—?”</said>
+			</div>
+			<div type='paragraph' n='7'><said who='mrsgrose' aloud='true' toWhom='governess'>“You <emph rend='italics'>will</emph> be carried away by the little gentleman!”</said>
+		</div>
+		<div type='paragraph' n='8'><said who='governess' aloud='true' toWhom='mrsgrose'>“Well, that, I think, is what I came for—to be carried away. I’m afraid, however,”</said> I remember feeling the impulse to add, <said who='governess' aloud='true' toWhom='mrsgrose'>“I’m rather
+			easily carried away. I was carried away in London!”</said>
+		</div>
+		<div type='paragraph' n='9'>I can still see Mrs. Grose’s broad face as she took this in. <said who='mrsgrose' aloud='true' toWhom='governess'>“In Harley Street?”</said>
+	</div>
+	<div type='paragraph' n='10'><said who='governess' aloud='true' toWhom='mrsgrose'>“In Harley Street.”</said>
+</div>
+<div type='paragraph' n='11'><said who='mrsgrose' aloud='true' toWhom='governess'>“Well, miss, you’re not the first—and you won’t be the last.”</said>
+</div>
+<div type='paragraph' n='12'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, I’ve no pretension,”</said> I could laugh, <said who='governess' aloud='true' toWhom='mrsgrose'>“to being the only one. My
+other pupil, at any rate, as I understand, comes back tomorrow?”</said>
+</div>
+<div type='paragraph' n='13'><said who='mrsgrose' aloud='true' toWhom='governess'>“Not tomorrow—Friday, miss. He arrives, as you did, by the coach, under care of the guard, and is to be met by the same carriage.”</said>
+</div>
+<div type='paragraph' n='14'>I forthwith expressed that the proper as well as the pleasant and friendly thing would be therefore that on the arrival of the public conveyance I should be in waiting for him with his little sister; an idea in which Mrs. Grose concurred so heartily that I somehow took her manner as a kind of comforting pledge—never falsified, thank heaven!—that we should on every question be quite at one. Oh, she was glad I was there!
+</div>
+<div type='paragraph' n='15'>  What I felt the next day was, I suppose, nothing that could be fairly called a reaction from the cheer of my arrival; it was probably at the most only a slight oppression produced by a fuller measure of the scale, as I walked round them, gazed up at them, took them in, of my new circumstances. They had, as it were, an extent and mass for which I had not been prepared and in the presence of which I found myself, freshly, a little scared as well as a little proud. Lessons, in this agitation, certainly suffered some delay; I reflected that my first duty was, by the gentlest arts I could contrive, to win the child into the sense of knowing me. I spent the day with her out-of-doors; I arranged with her, to her great satisfaction, that it should be she, she only, who might show me the place. She showed it step by step and room by room and secret by secret, with droll, delightful, childish talk about it and with the result, in half an hour, of our becoming immense friends. Young as she was, I was struck, throughout our little tour, with her confidence and courage with the way, in empty chambers and dull corridors, on crooked staircases that made me pause and even on the summit of an old machicolated square tower that made me dizzy, her morning music, her disposition to tell me so many more things than she asked, rang out and led me on. I have not seen Bly since the day I left it, and I daresay that to my older and more informed eyes it would now appear sufficiently contracted. But as my little conductress, with her hair of gold and her frock of blue, danced before me round corners and pattered down passages, I had the view of a castle of romance inhabited by a rosy sprite, such a place as would somehow, for diversion of the young idea, take all color out of storybooks and fairytales. Wasn’t it just a storybook over which I had fallen adoze and adream? No; it was a big, ugly, antique, but convenient house, embodying a few features of a building still older, half-replaced and half-utilized, in which I had the fancy of our being almost as lost as a handful of passengers in a great drifting ship. Well, I was, strangely, at the helm!
+</div>
+</div>
+<div type='chapter' n='2'>
+	<div type='paragraph' n='1'>
+		This came home to me when, two days later, I drove over with Flora to
+		meet, as Mrs. Grose said, the little gentleman; and all the more for an
+		incident that, presenting itself the second evening, had deeply
+		disconcerted me. The first day had been, on the whole, as I have
+		expressed, reassuring; but I was to see it wind up in keen
+		apprehension. The postbag, that evening—it came late—contained a letter
+		for me, which, however, in the hand of my employer, I found to be
+		composed but of a few words enclosing another, addressed to himself,
+		with a seal still unbroken. <div type='epistle' n='1'>“This, I recognize, is from the headmaster, and the headmaster’s an awful bore. Read him, please; deal with him; but mind you don’t report. Not a word. I’m off!”</div> I broke the seal with a great effort—so great a one that I was a long time coming to it; took the unopened missive at last up to my room and only attacked it just before going to bed. I had better have let it wait till morning, for it gave me a second sleepless night. With no counsel to take, the next day, I was full of distress; and it finally got so the better of me that I determined to open myself at least to Mrs. Grose.
+	</div>
+	<div type='paragraph' n='2'><said who='governess' aloud='true' toWhom='mrsgrose'>“What does it mean? The child’s dismissed his school.”</said>
+</div>
+<div type='paragraph' n='3'>She gave me a look that I remarked at the moment; then, visibly, with a quick blankness, seemed to try to take it back. <said who='mrsgrose' aloud='true' toWhom='governess'>“But aren’t they all—?”</said>
+</div>
+<div type='paragraph' n='4'><said who='governess' aloud='true' toWhom='mrsgrose'>“Sent home—yes. But only for the holidays. Miles may never go back at all.”</said>
+</div>
+<div type='paragraph' n='5'>Consciously, under my attention, she reddened. <said who='mrsgrose' aloud='true' toWhom='governess'>“They won’t take him?”</said>
+</div>
+<div type='paragraph' n='6'><said who='governess' aloud='true' toWhom='mrsgrose>'“They absolutely decline.”</said>
+</div>
+		<div type='paragraph' n='7'>At this she raised her eyes, which she had turned from me; I saw them fill with good tears. <said who='mrsgrose' aloud='true' toWhom='governess'>“What has he done?”</said>
+	</div>
+		<div type='paragraph' n='8'>I hesitated; then I judged best simply to hand her my letter—which, however, had the effect of making her, without taking it, simply put her hands behind her. She shook her head sadly. <said who='mrsgrose' aloud='true' toWhom='governess'>“Such things are not for me, miss.”</said>
+	</div>
+		<div type='paragraph' n='9'>My counselor couldn’t read! I winced at my mistake, which I attenuated as I could, and opened my letter again to repeat it to her; then, faltering in the act and folding it up once more, I put it back in my pocket. <said who='governess' aloud='true' toWhom='mrsgrose'>“Is he really <emph rend='italics'>bad</emph>?”</said>
+	</div>
+		<div type='paragraph' n='10'>The tears were still in her eyes. <said who='mrsgrose' aloud='true' toWhom='governess'>“Do the gentlemen say so?”</said>
+	</div>
+		<div type='paragraph' n='11'><said who='governess' aloud='true' toWhom='mrsgrose'>“They go into no particulars. They simply express their regret that it should be impossible to keep him. That can have only one meaning.”</said> Mrs. Grose listened with dumb emotion; she forbore to ask me what this meaning might be; so that, presently, to put the thing with some coherence and with the mere aid of her presence to my own mind, I went
+		on: <said who='governess' aloud='true' toWhom='mrsgrose'>“That he’s an injury to the others.”</said>
+	</div>
+		<div type='paragraph' n='12'>At this, with one of the quick turns of simple folk, she suddenly <seg ana='fire'>flamed up</seg>. <said who='mrsgrose' aloud='true' toWhom='governess'>“Master Miles! <emph rend='italics'>him</emph> an injury?”</said>
+	</div>
+		<div type='paragraph' n='13'>There was such a flood of good faith in it that, though I had not yet seen the child, my very fears made me jump to the absurdity of the idea. I found myself, to meet my friend the better, offering it, on the spot, sarcastically. <said who='governess' aloud='true' toWhom='mrsgrose'“To his poor little innocent mates!”</said>
+	</div>
+	<div type='paragraph' n='14'><said who='mrsgrose' aloud='true' toWhom='governess'>“It’s too dreadful,”</said> cried Mrs. Grose, <said who='mrsgrose' aloud='true' toWhom='governess'>“to say such cruel things! Why, he’s scarce ten years old.”</said>
+	</div>
+		<div type='paragraph' n='15'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yes, yes; it would be incredible.”</said>
+	</div>
+	<div type='paragraph' n='16'>	She was evidently grateful for such a profession. <said who='mrsgrose' aloud='true' toWhom='governess'>“See him, miss, first. <emph rend='italics'>Then</emph> believe it!”</said> I felt forthwith a new impatience to see him; it was the beginning of a curiosity that, for all the next hours, was to deepen almost to pain. Mrs. Grose was aware, I could judge, of what she had produced in me, and she followed it up with assurance.
+</div>
+		<div type='paragraph' n='17'><said who='mrsgrose' aloud='true' toWhom='governess'>“You might as well believe it of the little lady. Bless her,”</said> she added
+		the next moment—<said who='mrsgrose' aloud='true' toWhom='governess'>“<emph rend='italics'>look</emph> at her!”</said>
+	</div>
+	<div type='paragraph' n='18'>	I turned and saw that Flora, whom, ten minutes before, I had established in the schoolroom with a sheet of white paper, a pencil, and a copy of nice “round O’s,” now presented herself to view at the open door. She expressed in her little way an extraordinary detachment from disagreeable duties, looking to me, however, with a great childish light that seemed to offer it as a mere result of the affection she had conceived for my person, which had rendered necessary that she should follow me. I needed nothing more than this to feel the full force of Mrs. Grose’s comparison, and, catching my pupil in my arms, covered her with kisses in which there was a sob of atonement.
+	</div>
+	<div type='paragraph' n='19'>	Nonetheless, the rest of the day I watched for further occasion to approach my colleague, especially as, toward evening, I began to fancy she rather sought to avoid me. I overtook her, I remember, on the staircase; we went down together, and at the bottom I detained her, <seg ana='touch'>holding her there with a hand on her arm.</seg> <said who='governess' aloud='true' toWhom='mrsgrose'>“I take what you said to me at noon as a declaration that <emph rend='italics'>you’ve</emph> never known him to be bad.”</said> She threw back her head; she had clearly, by this time, and very honestly, adopted an attitude. <said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, never known him—I don’t pretend <emph rend='italics'>that!</emph>”</said>
+</div>
+		<div type='paragraph' n='20'>I was upset again. <said who='governess' aloud='true' toWhom='mrsgrose'>“Then you <emph rend='italics'>have</emph> known him—?”</said>
+	</div>
+		<div type='paragraph' n='21'><said who='mrsgrose' aloud='true' toWhom='governess'>“Yes indeed, miss, thank God!”</said>
+	</div>
+		<div type='paragraph' n='22'>On reflection I accepted this. <said who='governess' aloud='true' toWhom='mrsgrose'>“You mean that a boy who never is—?”</said>
+	</div>
+		<div type='paragraph' n='23'><said who='mrsgrose' aloud='true' toWhom='governess'>“Is no boy for <emph rend='italics'>me!</emph>”></said>
+	</div>
+	<div type='paragraph' n='24'>I held her tighter. <said who='governess' aloud='true' toWhom='mrsgrose'>“You like them with the spirit to be naughty?”</said>
+</div>
+		<div type='paragraph' n='25'>Then, keeping pace with her answer, <said who='governess' aloud='true' toWhom='mrsgrose'>“So do I!”</said> I eagerly brought out.
+	</div>
+		<div type='paragraph' n='26'><said who='mrsgrose' aloud='true' toWhom='governess'>“But not to the degree to contaminate—”</said>
+	</div>
+	<div type='paragraph' n='27'><said who='governess' aloud='true' toWhom='mrsgrose'>“To contaminate?”</said>—my big word left her at a loss. I explained it. <said who='governess' aloud='true' toWhom='mrsgrose'>“To corrupt.”</said>
+</div>
+		<div type='paragraph' n='28'>She stared, taking my meaning in; but it produced in her an odd laugh.
+		</div>
+		<div type='paragraph' n='29'><said who='mrsgrose' aloud='true' toWhom='governess' “Are you afraid he’ll corrupt <emph rend='italics'>you?</emph>”</said> She put the question with such a fine bold humor that, with a laugh, a little silly doubtless, to match her own, I gave way for the time to the apprehension of ridicule.
+	</div>
+		<div type='paragraph' n='30'>But the next day, as the hour for my drive approached, I cropped up in another place. <said who='governess' aloud='true' toWhom='mrsgrose'>“What was the lady who was here before?”</said>
+	</div>
+		<div type='paragraph' n='31'><said who='mrsgrose' aloud='true' toWhom='governess'>“The last governess? She was also young and pretty—almost as young and almost as pretty, miss, even as you.”</said>
+	</div>
+		<div type='paragraph' n='32'><said who='governess' aloud='true' toWhom='mrsgrose'>“Ah, then, I hope her youth and her beauty helped her!”</said> I recollect throwing off. <said who='governess' aloud='true' toWhom='mrsgrose'>“He seems to like us young and pretty!”</said>
+	</div>
+		<div type='paragraph' n='33'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, he <emph rend='italics'>did</emph>,”</said> Mrs. Grose assented: <said who='mrsgrose' aloud='true' toWhom='governess'>“it was the way he liked everyone!”</said> She had no sooner spoken indeed than she caught herself up.
+	</div>
+		<div type='paragraph' n='34'><said who='mrsgrose' aloud='true' toWhom='governess'>“I mean that’s <emph rend='italics'>his</emph> way—the master’s.”</said>
+	</div>
+	<div type='paragraph' n='35'>	I was struck. <said who='governess' aloud='true' toWhom='mrsgrose'>“But of whom did you speak first?”</said>
+</div>
+		<div type='paragraph' n='36'>She looked blank, but she colored. <said who='mrsgrose' aloud='true' toWhom='governess'>“Why, of <emph rend='italics'>him</emph>.”</said>
+	</div>
+	<div type='paragraph' n='37'><said who='governess' aloud='true' toWhom='mrsgrose'>“Of the master?”</said>
+</div>
+		<div type='paragraph' n='38'><said who='mrsgrose' aloud='true' toWhom='governess'>“Of who else?”</said>
+	</div>
+		<div type='paragraph' n='39'>There was so obviously no one else that the next moment I had lost my= impression of her having accidentally said more than she meant; and I merely asked what I wanted to know. <said who='governess' aloud='true' toWhom='mrsgrose'>“Did <emph rend='italics'>she</emph> see anything in the boy—?”</said>
+	</div>
+		<div type='paragraph' n='40'><said who='mrsgrose' aloud='true' toWhom='governess'>“That wasn’t right? She never told me.”</said>
+	</div>
+		<div type='paragraph' n='41'>I had a scruple, but I overcame it. <said who='governess' aloud='true' toWhom='mrsgrose'>“Was she careful—particular?”</said>
+	</div>
+		<div type='paragraph' n='42'>Mrs. Grose appeared to try to be conscientious. <said who='mrsgrose' aloud='true' toWhom='governess'>“About some things—yes.”</said>
+</div>
+		<div type='paragraph' n='43'><said who='governess' aloud='true' toWhom='mrsgrose'>“But not about all?”</said>
+	</div>
+		<div type='paragraph' n='44'>Again she considered. <said who='mrsgrose' aloud='true' toWhom='governess'>“Well, miss—she’s gone. I won’t tell tales.”</said>
+	</div>
+		<div type='paragraph' n='45'><said who='governess' aloud='true' toWhom='mrsgrose'>“I quite understand your feeling,”</said> I hastened to reply; but I thought it, after an instant, not opposed to this concession to pursue: <said who='governess' aloud='true' toWhom='mrsgrose'>“Did she die here?”</said>
+	</div>
+		<div type='paragraph' n='46'><said who='mrsgrose' aloud='true' toWhom='governess'>“No—she went off.”</said>
+	</div>
+	<div type='paragraph' n='47'>I don’t know what there was in this brevity of Mrs. Grose’s that struck me as ambiguous. <said who='governess' aloud='true' toWhom='mrsgrose'>“Went off to die?”</said> Mrs. Grose looked straight out of
+		the window, but I felt that, hypothetically, I had a right to know what
+		young persons engaged for Bly were expected to do. <said who='governess' aloud='true' toWhom='mrsgrose'>“She was taken ill, you mean, and went home?”</said>
+	</div>
+		<div type='paragraph' n='48'><said who='mrsgrose' aloud='true' toWhom='governess'>“She was not taken ill, so far as appeared, in this house. She left it, at the end of the year, to go home, as she said, for a short holiday, to which the time she had put in had certainly given her a right. We had then a young woman—a nursemaid who had stayed on and who was a good girl and clever; and <emph rend='italics'>she</emph> took the children altogether for the interval. But our young lady never came back, and at the very moment I was expecting her I heard from the master that she was dead.”</said> 
+	</div>
+		<div type='paragraph' n='49'>I turned this over. <said who='governess' aloud='true' toWhom='mrsgrose'>“But of what?”</said>
+		</div>
+		<div type='paragraph' n='50'><said who='mrsgrose' aloud='true' toWhom='governess'>“He never told me! But please, miss,”</said> said Mrs. Grose, <said who='mrsgrose' aloud='true' toWhom='governess'>“I must get to my work.”</said>
+	</div>
+</div>
+<div type='chapter' n='3'>
+	<div type='paragraph' n'=1'>Her thus turning her back on me was fortunately not, for my just preoccupations, a snub that could check the growth of our mutual esteem. We met, after I had brought home little Miles, more intimately than ever on the ground of my stupefaction, my general emotion: so monstrous was I then ready to pronounce it that such a child as had now been revealed to me should be under an interdict. I was a little late on the scene, and I felt, as he stood wistfully looking out for me before the door of the inn at which the coach had put him down, that I had seen him, on the instant, without and within, in the great glow of freshness, the same positive fragrance of purity, in which I had, from the first moment, seen his little sister. He was incredibly beautiful, and Mrs. Grose had put her finger on it: everything but a sort of passion of tenderness for him was swept away by his presence. What I then and there took him to my heart for was something divine that I have never found to the same degree in any child—his indescribable little air of knowing nothing in the world but love. It would have been impossible to carry a bad name with a greater sweetness of innocence, and by the time I had got back to Bly with him I remained merely bewildered—so far, that is, as I was not outraged—by the sense of the horrible letter locked up in my room, in a drawer. As soon as I could compass a private word with Mrs. Grose I declared to her that it was grotesque.
+	</div>
+	<div type='paragraph' n='2'>She promptly understood me. <said who='mrsgrose' aloud='true' toWhom='governess'>“You mean the cruel charge—?”</said>
+</div>
+<div type='paragraph' n='3'><said who='governess' aloud='true' toWhom='mrsgrose'>“It doesn’t live an instant. My dear woman, <emph rend='italics'>look</emph> at him!”</said>
+</div>
+	<div type='paragraph' n='4'>She smiled at my pretention to have discovered his charm. <said who='mrsgrose' aloud='true' toWhom='governess'>“I assure you, miss, I do nothing else! What will you say, then?”</said> she immediately added.
+	</div>
+	<div type='paragraph' n='5'><said who='governess' aloud='true' toWhom='mrsgrose'>“In answer to the letter?”</said> I had made up my mind. <said who='governess' aloud='true' toWhom='mrsgrose'>“Nothing.”</said>
+</div>
+<div type='paragraph' n='6'><said who='mrsgrose' aloud='true' toWhom='governess'>“And to his uncle?”</said>
+</div>
+<div type='paragraph' n='7'>I was incisive. <said who='governess' aloud='true' toWhom='mrsgrose'>“Nothing.”</said>
+</div>
+<div type='paragraph' n='8'><said who='mrsgrose' aloud='true' toWhom='governess'>“And to the boy himself?”</said>
+</div>
+	<div type='paragraph' n='9'>I was wonderful. <said who='governess' aloud='true' toWhom='mrsgrose'>“Nothing.”</said>
+</div>
+<div type='paragraph' n='10'>She gave with her apron a great wipe to her mouth. <said who='mrsgrose' aloud='true' toWhom='governess'>“Then I’ll stand by you. We’ll see it out.”</said>
+</div>
+<div type='paragraph' n='11'><said who='governess' aloud='true' toWhom='mrsgrose'>“We’ll see it out!”</said> I ardently echoed, giving her my hand to make it a vow.
+</div>
+<div type='paragraph' n='12'>She held me there a moment, then whisked up her apron again with her detached hand. <said who='mrsgrose' aloud='true' toWhom='governess'>“Would you mind, miss, if I used the freedom—”</said>
+</div>
+<div type='paragraph' n='13'><said who='governess' aloud='true' toWhom='mrsgrose'>“To kiss me? No!”</said> I took the good creature in my arms and, after we had embraced like sisters, felt still more fortified and indignant.
+</div>
+<div type='paragraph' n='14'>This, at all events, was for the time: a time so full that, as I recallthe way it went, it reminds me of all the art I now need to make it alittle distinct. What I look back at with amazement is the situation Iaccepted. I had undertaken, with my companion, to see it out, and I wasunder a charm, apparently, that could smooth away the extent and thefar and difficult connections of such an effort. I was lifted aloft ona great wave of infatuation and pity. I found it simple, in myignorance, my confusion, and perhaps my conceit, to assume that I coulddeal with a boy whose education for the world was all on the point ofbeginning. I am unable even to remember at this day what proposal Iframed for the end of his holidays and the resumption of his studies.Lessons with me, indeed, that charming summer, we all had a theory thathe was to have; but I now feel that, for weeks, the lessons must havebeen rather my own. I learned something—at first, certainly—that hadnot been one of the teachings of my small, smothered life; learned tobe amused, and even amusing, and not to think for the morrow. It wasthe first time, in a manner, that I had known space and air andfreedom, all the music of summer and all the mystery of nature. Andthen there was consideration—and consideration was sweet. Oh, it was atrap—not designed, but deep—to my imagination, to my delicacy, perhapsto my vanity; to whatever, in me, was most excitable. The best way topicture it all is to say that I was off my guard. They gave me solittle trouble—they were of a gentleness so extraordinary. I used tospeculate—but even this with a dim disconnectedness—as to how the roughfuture (for all futures are rough!) would handle them and might bruisethem. They had the bloom of health and happiness; and yet, as if I hadbeen in charge of a pair of little grandees, of princes of the blood,for whom everything, to be right, would have to be enclosed andprotected, the only form that, in my fancy, the afteryears could takefor them was that of a romantic, a really royal extension of the gardenand the park. It may be, of course, above all, that what suddenly brokeinto this gives the previous time a charm of stillness—that hush inwhich something gathers or crouches. The change was actually like thespring of a beast.
+</div>
+<div type='paragraph' n='15'>In the first weeks the days were long; they often, at their finest,gave me what I used to call my own hour, the hour when, for my pupils,teatime and bedtime having come and gone, I had, before my finalretirement, a small interval alone. Much as I liked my companions, thishour was the thing in the day I liked most; and I liked it best of allwhen, as the light faded—or rather, I should say, the day lingered andthe last calls of the last birds sounded, in a flushed sky, from theold trees—I could take a turn into the grounds and enjoy, almost with asense of property that amused and flattered me, the beauty and dignityof the place. It was a pleasure at these moments to feel myselftranquil and justified; doubtless, perhaps, also to reflect that by mydiscretion, my quiet good sense and general high propriety, I wasgiving pleasure—if he ever thought of it!—to the person to whosepressure I had responded. What I was doing was what he had earnestlyhoped and directly asked of me, and that I _could_, after all, do itproved even a greater joy than I had expected. I daresay I fanciedmyself, in short, a remarkable young woman and took comfort in thefaith that this would more publicly appear. Well, I needed to beremarkable to offer a front to the remarkable things that presentlygave their first sign.
+</div>
+<div type='paragraph' n='16'> It was plump, one afternoon, in the middle of my very hour: the children were tucked away, and I had come out for my stroll. One of the thoughts that, as I don’t in the least shrink now from noting, used to be with me in these wanderings was that it would be as charming as a charming story suddenly to meet someone. Someone would appear there at the turn of a path and would stand before me and smile and approve. I didn’t ask more than that—I only asked that he should <emph rend='italics'>know;</emph> and the only way to be sure he knew would be to see it, and the kind light of it, in his handsome face. That was exactly present to me—by which I mean the face was—when, on the first of these occasions, at the end of a long June day, I stopped short on emerging from one of the plantations and coming into view of the house. What arrested me on the spot—and with a shock much greater than any vision had allowed for—was the sense that my imagination had, in a flash, turned real. He did stand there!—but high up, beyond the lawn and at the very top of the tower to which, on that first morning, little Flora had conducted me. 
+</div>
+<div type='paragraph' n='17'>This tower was one of a pair—square, incongruous, crenelated structures—that were distinguished, for some reason, though I could see little difference, as the new and the old. They flanked opposite ends of the house and were probably architectural absurdities, redeemed in a measure indeed by not being wholly disengaged nor of a height too pretentious, dating, in their gingerbread antiquity, from a romantic revival that was already a respectable past. I admired them, had fancies about them, for we could all profit in a degree, especially when they loomed through the dusk, by the grandeur of their actual battlements; yet it was not at such an elevation that the figure I had so often invoked seemed most in place.
+</div>
+<div type='paragraph' n='18'> It produced in me, this figure, in the clear twilight, I remember, two distinct gasps of emotion, which were, sharply, the shock of my first and that of my second surprise. My second was a violent perception of the mistake of my first: the man who met my eyes was not the person I had precipitately supposed. There came to me thus a bewilderment of vision of which, after these years, there is no living view that I can hope to give. An unknown man in a lonely place is a permitted object of fear to a young woman privately bred; and the figure that faced me was—a few more seconds assured me—as little anyone else I knew as it was the image that had been in my mind. I had not seen it in Harley Street—I had not seen it anywhere. The place, moreover, in the strangest way in the world, had, on the instant, and by the very fact of its appearance, become a solitude. To me at least, making my statement here with a deliberation with which I have never made it, the whole feeling of the moment returns. It was as if, while I took in—what I did take in—all the rest of the scene had been stricken with death. I can hear again, as I write, the intense hush in which the sounds of evening dropped. The rooks stopped cawing in the golden sky, and the friendly hour lost, for the minute, all its voice. But there was no other change in nature, unless indeed it were a change that I saw with a stranger sharpness. The gold was still in the sky, the clearness in the air, and the man who looked at me over the battlements was as definite as a picture in a frame. That’s how I thought, with extraordinary quickness, of each person that he might have been and that he was not. We were confronted across our distance quite long enough for me to ask myself with intensity who then he was and to feel, as an effect of my inability to say, a wonder that in a few instants more became intense.
+</div>
+<div type='paragraph' n='19'> The great question, or one of these, is, afterward, I know, with regard to certain matters, the question of how long they have lasted. Well, this matter of mine, think what you will of it, lasted while I caught at a dozen possibilities, none of which made a difference for the better, that I could see, in there having been in the house—and for how long, above all?—a person of whom I was in ignorance. It lasted while I just bridled a little with the sense that my office demanded that there should be no such ignorance and no such person. It lasted while this visitant, at all events—and there was a touch of the strange freedom, as I remember, in the sign of familiarity of his wearing no hat—seemed to fix me, from his position, with just the question, just the scrutiny through the fading light, that his own presence provoked. We were too far apart to call to each other, but there was a moment at which, at shorter range, some challenge between us, breaking the hush, would have been the right result of our straight mutual stare. He was in one of the angles, the one away from the house, very erect, as it struck me, and with both hands on the ledge. So I saw him as I see the letters I form on this page; then, exactly, after a minute, as if to add to the spectacle, he slowly changed his place—passed, looking at me hard all the while, to the opposite corner of the platform. Yes, I had the sharpest sense that during this transit he never took his eyes from me, and I can see at this moment the way his hand, as he went, passed from one of the crenelations to the next. He stopped at the other corner, but less long, and even as he turned away still markedly fixed me. He turned away; that was all I knew.
+</div>
+</div>
+<div type='chapter' n='4'>
+	<div type='paragraph' n='1'> It was not that I didn’t wait, on this occasion, for more, for I was rooted as deeply as I was shaken. Was there a “secret” at Bly—a mystery of Udolpho or an insane, an unmentionable relative kept in unsuspected confinement? I can’t say how long I turned it over, or how long, in a confusion of curiosity and dread, I remained where I had had my collision; I only recall that when I re-entered the house darkness had quite closed in. Agitation, in the interval, certainly had held me and driven me, for I must, in circling about the place, have walked three miles; but I was to be, later on, so much more overwhelmed that this mere dawn of alarm was a comparatively human chill. The most singular part of it, in fact—singular as the rest had been—was the part I became, in the hall, aware of in meeting Mrs. Grose. This picture comes back to me in the general train—the impression, as I received it on my return, of the wide white panelled space, bright in the lamplight and with its portraits and red carpet, and of the good surprised look of my friend, which immediately told me she had missed me. It came to me straightway, under her contact, that, with plain heartiness, mere relieved anxiety at my appearance, she knew nothing whatever that could bear upon the incident I had there ready for her. I had not suspected in advance that her comfortable face would pull me up, and I somehow measured the importance of what I had seen by my thus finding myself hesitate to mention it. Scarce anything in the whole history seems to me so odd as this fact that my real beginning of fear was one, as I may say, with the instinct of sparing my companion. On the spot, accordingly, in the pleasant hall and with her eyes on me, I, for a reason that I couldn’t then have phrased, achieved an inward resolution—offered a vague pretext for my lateness and, with the plea of the beauty of the night and of the heavy dew and wet feet, went as soon as possible to my room.
+	</div>
+	<div type='paragraph' n='2'>Here it was another affair; here, for many days after, it was a queer affair enough. There were hours, from day to day—or at least there were moments, snatched even from clear duties—when I had to shut myself up to think. It was not so much yet that I was more nervous than I could bear to be as that I was remarkably afraid of becoming so; for the truth I had now to turn over was, simply and clearly, the truth that I could arrive at no account whatever of the visitor with whom I had been so inexplicably and yet, as it seemed to me, so intimately concerned. It took little time to see that I could sound without forms of inquiry and without exciting remark any domestic complications. The shock I had suffered must have sharpened all my senses; I felt sure, at the end of three days and as the result of mere closer attention, that I had not been practiced upon by the servants nor made the object of any “game.” Of whatever it was that I knew, nothing was known around me. There was but one sane inference: someone had taken a liberty rather gross. That was what, repeatedly, I dipped into my room and locked the door to say to myself. We had been, collectively, subject to an intrusion; some unscrupulous traveler, curious in old houses, had made his way in unobserved, enjoyed the prospect from the best point of view, and then stolen out as he came. If he had given me such a bold hard stare, that was but a part of his indiscretion. The good thing, after all, was that we should surely see no more of him.
+	</div>
+	<div type='paragraph' n='3'>This was not so good a thing, I admit, as not to leave me to judge that what, essentially, made nothing else much signify was simply my charming work. My charming work was just my life with Miles and Flora, and through nothing could I so like it as through feeling that I could throw myself into it in trouble. The attraction of my small charges was a constant joy, leading me to wonder afresh at the vanity of my original fears, the distaste I had begun by entertaining for the probable gray prose of my office. There was to be no gray prose, it appeared, and no long grind; so how could work not be charming that presented itself as daily beauty? It was all the romance of the nursery and the poetry of the schoolroom. I don’t mean by this, of course, that we studied only fiction and verse; I mean I can express no otherwise the sort of interest my companions inspired. How can I describe that except by saying that instead of growing used to them—and it’s a marvel for a governess: I call the sisterhood to witness!—I made constant fresh discoveries. There was one direction, assuredly, in which these discoveries stopped: deep obscurity continued to cover the region of the boy’s conduct at school. It had been promptly given me, I have noted, to face that mystery without a pang. Perhaps even it would be nearer the truth to say that—without a word—he himself had cleared it up. He had made the whole charge absurd. My conclusion bloomed there with the real rose flush of his innocence: he was only too fine and fair for the little horrid, unclean school-world, and he had paid a price for it. I reflected acutely that the sense of such differences, such superiorities of quality, always, on the part of the majority—which could include even stupid, sordid headmasters—turn infallibly to the vindictive.
+	</div>
+	<div type='paragraph' n='4'>Both the children had a gentleness (it was their only fault, and it never made Miles a muff) that kept them—how shall I express it?—almost impersonal and certainly quite unpunishable. They were like the cherubs of the anecdote, who had—morally, at any rate—nothing to whack! I remember feeling with Miles in especial as if he had had, as it were, no history. We expect of a small child a scant one, but there was in this beautiful little boy something extraordinarily sensitive, yet extraordinarily happy, that, more than in any creature of his age I have seen, struck me as beginning anew each day. He had never for a second suffered. I took this as a direct disproof of his having really been chastised. If he had been wicked he would have “caught” it, and I should have caught it by the rebound—I should have found the trace. I found nothing at all, and he was therefore an angel. He never spoke of his school, never mentioned a comrade or a master; and I, for my part, was quite too much disgusted to allude to them. Of course I was under the spell, and the wonderful part is that, even at the time, I perfectly knew I was. But I gave myself up to it; it was an antidote to any pain, and I had more pains than one. I was in receipt in these days of disturbing letters from home, where things were not going well. But with my children, what things in the world mattered? That was the question I used to put to my scrappy retirements. I was dazzled by their loveliness.
+	</div>
+	<div type='paragraph' n='5'>There was a Sunday—to get on—when it rained with such force and for so many hours that there could be no procession to church; in consequence of which, as the day declined, I had arranged with Mrs. Grose that, should the evening show improvement, we would attend together the late service. The rain happily stopped, and I prepared for our walk, which, through the park and by the good road to the village, would be a matter of twenty minutes. Coming downstairs to meet my colleague in the hall, I remembered a pair of gloves that had required three stitches and that had received them—with a publicity perhaps not edifying—while I sat with the children at their tea, served on Sundays, by exception, in that cold, clean temple of mahogany and brass, the “grown-up” dining room. The gloves had been dropped there, and I turned in to recover them. The day was gray enough, but the afternoon light still lingered, and it enabled me, on crossing the threshold, not only to recognize, on a chair near the wide window, then closed, the articles I wanted, but to become aware of a person on the other side of the window and looking straight in. One step into the room had sufficed; my vision was instantaneous; it was all there. The person looking straight in was the person who had already appeared to me. He appeared thus again with I won’t say greater distinctness, for that was impossible, but with a nearness that represented a forward stride in our intercourse and made me, as I met him, catch my breath and turn cold. He was the same—he was the same, and seen, this time, as he had been seen before, from the waist up, the window, though the dining room was on the ground floor, not going down to the terrace on which he stood. His face was close to the glass, yet the effect of this better view was, strangely, only to show me how intense the former had been. He remained but a few seconds—long enough to convince me he also saw and recognized; but it was as if I had been looking at him for years and had known him always. Something, however, happened this time that had not happened before; his stare into my face, through the glass and across the room, was as deep and hard as then, but it quitted me for a moment during which I could still watch it, see it fix successively several other things. On the spot there came to me the added shock of a certitude that it was not for me he had come there. He had come for someone else.
+	</div>
+	<div type='paragraph' n='6'>The <seg ana='vision'>flash</seg> of this knowledge—for it was knowledge in the midst of dread—produced in me the most extraordinary effect, started as I stood there, a sudden vibration of duty and courage. I say courage because I was beyond all doubt already far gone. I bounded straight out of the door again, reached that of the house, got, in an instant, upon the drive, and, passing along the terrace as fast as I could rush, turned a corner and came full in sight. But it was in sight of nothing now—my visitor had vanished. I stopped, I almost dropped, with the real relief of this; but I took in the whole scene—I gave him time to reappear. I call it time, but how long was it? I can’t speak to the purpose today of the duration of these things. That kind of measure must have left me: they couldn’t have lasted as they actually appeared to me to last. The terrace and the whole place, the lawn and the garden beyond it, all I could see of the park, were empty with a great emptiness. There were shrubberies and big trees, but I remember the clear assurance I felt that none of them concealed him. He was there or was not there: not there if I didn’t see him. I got hold of this; then, instinctively, instead of returning as I had come, went to the window. It was confusedly present to me that I ought to place myself where he had stood. I did so; I applied my face to the pane and looked, as he had looked, into the room. As if, at this moment, to show me exactly what his range had been, Mrs. Grose, as I had done for himself just before, came in from the hall. With this I had the full image of a repetition of what had already occurred. She saw me as I had seen my own visitant; she pulled up short as I had done; I gave her something of the shock that I had received. She turned white, and this made me ask myself if I had blanched as much. She stared, in short, and retreated on just <emph rend='italics'>my</emph> lines, and I knew she had then passed out and come round to me and that I should presently meet her. I remained where I was, and while I waited I thought of more things than one. But there’s only one I take space to mention. I wondered why <emph rend='italics'>she</emph> should be scared.
+</div>
+</div>
+<div type='chapter' n='5'>
+	<div type='paragraph' n='1'>Oh, she let me know as soon as, round the corner of the house, she loomed again into view. <said who='mrsgrose' aloud='true' toWhom='governess'>“What in the name of goodness is the matter—?”</said>
+</div>
+<div type='paragraph' n='2'>She was now flushed and out of breath.
+</div>
+<div type='paragraph' n='3'>I said nothing till she came quite near. <said who='governess' aloud='true' toWhom='mrsgrose'>“With me?”</said> I must have made a wonderful face. <said who='governess' aloud='true' toWhom='mrsgrose'>“Do I show it?”</said>
+</div>
+<div type='paragraph' n='4'><said who='mrsgrose' aloud='true' toWhom='governess'>“You’re as white as a sheet. You look awful.”</said>
+</div>
+<div type='paragraph' n='5'>I considered; I could meet on this, without scruple, any innocence. My need to respect the bloom of Mrs. Grose’s had dropped, without a rustle, from my shoulders, and if I wavered for the instant it was not with what I kept back. I put out my hand to her and she took it; I held her hard a little, liking to feel her close to me. There was a kind of support in the shy heave of her surprise. <said who='governess' aloud='true' toWhom='mrsgrose'>“You came for me for church, of course, but I can’t go.”</said>
+</div>
+<div type='paragraph' n='6'><said who='mrsgrose' aloud='true' toWhom='governess'>“Has anything happened?”</said>
+</div>
+<div type='paragraph' n='7'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yes. You must know now. Did I look very queer?”</said>
+</div>
+<div type='paragraph' n='8'><said who='mrsgrose' aloud='true' toWhom='governess'>“Through this window? Dreadful!”</said>
+</div>
+	<div type='paragraph' n='9'><said who='governess' aloud='true' toWhom='mrsgrose'>“Well,”</said> I said, <said who='governess' aloud='true' toWhom='mrsgrose'>“I’ve been frightened.”</said> Mrs. Grose’s eyes expressed plainly that <emph rend='italics'>she</emph> had no wish to be, yet also that she knew too well her place not to be ready to share with me any marked inconvenience. Oh, it was quite settled that she <emph rend='italics'>must</emph> share! <said who='governess' aloud='true' toWhom='mrsgrose'>“Just what you saw from the dining room a minute ago was the effect of that. What <emph rend='italics'>I</emph> saw—just before—was much worse.”</said>
+</div>
+<div type='paragraph' n='10'>Her hand tightened. <said who='mrsgrose' aloud='true' toWhom='governess'>“What was it?”</said>
+</div>
+<div type='paragraph' n='11'><said who='governess' aloud='true' toWhom='mrsgrose'>“An extraordinary man. Looking in.”</said>
+</div>
+<div type='paragraph' n='12'><said who='mrsgrose' aloud='true' toWhom='governess'>“What extraordinary man?”</said>
+</div>
+<div type='paragraph' n='13'><said who='governess' aloud='true' toWhom='mrsgrose'>“I haven’t the least idea.”</said>
+</div>
+<div type='paragraph' n='14'>Mrs. Grose <seg ana='vision'>gazed</seg> round us in vain. <said who='mrsgrose' aloud='true' toWhom='governess'>
+“Then where is he gone?”</said>
+</div>
+<div type='paragraph' n='15'><said who='governess' aloud='true' toWhom='mrsgrose'>“I know still less.”</said>
+</div>
+<div type='paragraph' n='16'><said who='mrsgrose' aloud='true' toWhom='governess'>“Have you seen him before?”</said>
+</div>
+<div type='paragraph' n='17'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yes—once. On the old tower.”</said>
+</div>
+<div type='paragraph' n='18'>She could only look at me harder. <said who='mrsgrose' aloud='true' toWhom='governess'>“Do you mean he’s a stranger?”</said>
+</div>
+<div type='paragraph' n='19'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, very much!”</said>
+</div>
+<div type='paragraph' n='20'><said who='mrsgrose' aloud='true' toWhom='governess'>“Yet you didn’t tell me?”</said>
+</div>
+<div type='paragraph' n='21'><said who='governess' aloud='true' toWhom='mrsgrose'>“No—for reasons. But now that you’ve guessed—”</said>
+</div>
+<div type='paragraph' n='22'>Mrs. Grose’s <seg ana='vision'>round eyes</seg> encountered this charge. <said who='mrsgrose' aloud='true' toWhom='governess'>“Ah, I haven’t guessed!”</said> she said very simply. <said who='mrsgrose' aloud='true' toWhom='governess'>“How can I if <emph rend='italics'>you</emph> don’t imagine?”</said>
+</div>
+<div type='paragraph' n='23'><said who='governess' aloud='true' toWhom='mrsgrose'>“I don’t in the very least.”</said>
+</div>
+<div type='paragraph' n='24'><said who='mrsgrose' aloud='true' toWhom='governess'>“You’ve seen him nowhere but on the tower?”</said>
+</div>
+<div type='paragraph' n='25'><said who='governess' aloud='true' toWhom='mrsgrose'>“And on this spot just now.”</said>
+</div>
+<div type='paragraph' n='26'>Mrs. Grose <seg ana='vision'>looked</seg> round again. <said who='mrsgrose' aloud='true' toWhom='governess'>“What was he doing on the tower?”</said>
+</div>
+<div type='paragraph' n='27'><said who='governess' aloud='true' toWhom='mrsgrose'>“Only standing there and looking down at me.”</said>
+</div>
+<div type='paragraph' n='28'>She thought a minute. <said who='mrsgrose' aloud='true' toWhom='governess'>“Was he a gentleman?”</said>
+</div>
+<div type='paragraph' n='29'>I found I had no need to think. <said who='governess' aloud='true' toWhom='mrsgrose'>“No.”</said> She gazed in deeper wonder. <said who='governess' aloud='true' toWhom='mrsgrose'>“No.”</said>
+</div>
+<div type='paragraph' n='30'><said who='mrsgrose' aloud='true' toWhom='governess'>“Then nobody about the place? Nobody from the village?”</said>
+</div>
+<div type='paragraph' n='31'><said who='governess' aloud='true' toWhom='mrsgrose'>“Nobody—nobody. I didn’t tell you, but I made sure.”</said>
+</div>
+	<div type='paragraph' n='32'>She breathed a vague relief: this was, oddly, so much to the good. It only went indeed a little way. <said who='mrsgrose' aloud='true' toWhom='governess'>“But if he isn’t a gentleman—”</said>
+</div>
+	<div type='paragraph' n='33'><said who='governess' aloud='true' toWhom='mrsgrose'>“What <emph rend='italics'>is</emph> he? He’s a horror.”</said>
+</div>
+<div type='paragraph' n='34'><said who='mrsgrose' aloud='true' toWhom='governess'>“A horror?”</said>
+</div>
+<div type='paragraph' n='35'><said who='governess' aloud='true' toWhom='mrsgrose'>“He’s—God help me if I know <emph rend='italics'>what</emph> he is!”</said>
+</div>
+<div type='paragraph' n='36'>Mrs. Grose looked round once more; she <seg ana='vision'>fixed her eyes</seg> on the duskier distance, then, pulling herself together, turned to me with abrupt inconsequence. <said who='mrsgrose' aloud='true' toWhom='governess'>
+“It’s time we should be at church.”</said>
+</div>
+<div type='paragraph' n='37'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, I’m not fit for church!”</said>
+</div>
+<div type='paragraph' n='38'><said who='mrsgrose' aloud='true' toWhom='governess'>“Won’t it do you good?”</said>
+</div>
+<div type='paragraph' n='39'><said who='governess' aloud='true' toWhom='mrsgrose'>“It won’t do <emph rend='italics'>them!</emph></said>— I nodded at the house.
+</div>
+<div type='paragraph' n='40'><said who='mrsgrose' aloud='true' toWhom='governess'>“The children?”</said>
+</div>
+<div type='paragraph' n='41'><said who='governess' aloud='true' toWhom='mrsgrose'>“I can’t leave them now.”</said>
+</div>
+<div type='paragraph' n='42'><said who='mrsgrose' aloud='true' toWhom='governess'>“You’re afraid—?”</said>
+</div>
+<div type='paragraph' n='43'>I spoke boldly. <said who='governess' aloud='true' toWhom='mrsgrose'>“I’m afraid of <emph rend='italics'>him</emph>.”</said>
+</div>
+<div type='paragraph' n='44'>Mrs. Grose’s large face showed me, at this, for the first time, the faraway faint glimmer of a consciousness more acute: I somehow made out in it the delayed dawn of an idea I myself had not given her and that was as yet quite obscure to me. It comes back to me that I thought instantly of this as something I could get from her; and I felt it to be connected with the desire she presently showed to know more. <said who='mrsgrose' aloud='true' toWhom='governess'>
+“When was it—on the tower?”</said>
+</div>
+<div type='paragraph' n='45'><said who='governess' aloud='true' toWhom='mrsgrose'>“About the middle of the month. At this same hour.”</said>
+</div>
+<div type='paragraph' n='46'><said who='mrsgrose' aloud='true' toWhom='governess'>“Almost at dark,”</said> said Mrs. Grose.
+</div>
+<div type='paragraph' n='47'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, no, not nearly. I <seg ana='vision'>saw</seg> him as I <seg ana='vision'>see</seg> you.”</said>
+</div>
+<div type='paragraph' n='48'><said who='mrsgrose' aloud='true' toWhom='governess'>“Then how did he get in?”</said>
+</div>
+<div type='paragraph' n='49'><said who='governess' aloud='true' toWhom='mrsgrose'>“And how did he get out?”</said> I laughed. <said who='governess' aloud='true' toWhom='mrsgrose'>“I had no opportunity to ask him!</said>
+</div>
+<div type='paragraph' n='50'><said who='governess' aloud='true' toWhom='mrsgrose'>"This evening, you see,”</said> I pursued, <said who='governess' aloud='true' toWhom='mrsgrose'>“he has not been able to get in.”</said>
+</div>
+<div type='paragraph' n='51'><said who='mrsgrose' aloud='true' toWhom='governess'>“He only peeps?”</said>
+</div>
+<div type='paragraph' n='52'><said who='governess' aloud='true' toWhom='mrsgrose'>“I hope it will be confined to that!”</said> She had now <seg ana='touch'>let go my hand</seg>; she turned away a little. I waited an instant; then I brought out: <said who='governess' aloud='true' toWhom='mrsgrose'>“Go to church. Goodbye. I must watch.”</said>
+</div>
+<div type='paragraph' n='53'>Slowly she faced me again. <said who='mrsgrose' aloud='true' toWhom='governess'>“Do you fear for them?”</said>
+</div>
+<div type='paragraph' n='54'>We met in another <seg ana='vision'>long look.</seg> <said who='governess' aloud='true' toWhom='mrsgrose'>“Don’t <emph rend='italics'>you?</emph>”</said> Instead of answering she came nearer to the window and, for a minute, applied her face to the glass. <said who='governess' aloud='true' toWhom='mrsgrose'>“You <seg ana='vision'>see</seg> how he could <seg ana='vision'>see</seg>,”</said> I meanwhile went on.
+</div>
+<div type='paragraph' n='55'>She didn’t move. <said who='mrsgrose' aloud='true' toWhom='governess'>“How long was he here?”</said>
+</div>
+<div type='paragraph' n='56'><said who='governess' aloud='true' toWhom='mrsgrose'>“Till I came out. I came to meet him.”</said>
+</div>
+<div type='paragraph' n='57'>Mrs. Grose at last turned round, and there was still more in her face.
+</div>
+	<div type='paragraph' n='58'><said who='mrsgrose' aloud='true' toWhom='governess'>“<emph rend='italics'>I</emph> couldn’t have come out.”</said>
+</div>
+<div type='paragraph' n='59'><said who='governess' aloud='true' toWhom='mrsgrose'>“Neither could I!”</said> I laughed again. <said who='governess' aloud='true' toWhom='mrsgrose'>“But I did come. I have my duty.”</said>
+</div>
+<div type='paragraph' n='60'><said who='mrsgrose' aloud='true' toWhom='governess'>“So have I mine,”</said> she replied; after which she added: <said who='mrsgrose' aloud='true' toWhom='governess'>“What is he like?”</said>
+</div>
+<div type='paragraph' n='61'><said who='governess' aloud='true' toWhom='mrsgrose'>“I’ve been dying to tell you. But he’s like nobody.”</said>
+</div>
+<div type='paragraph' n='62'><said who='mrsgrose' aloud='true' toWhom='governess'>“Nobody?”</said> she <seg ana='repetition'>echoed.</seg>
+</div>
+<div type='paragraph' n='63'><said who='governess' aloud='true' toWhom='mrsgrose'>“He has no hat.”</said> Then seeing in her face that she already, in this, with a deeper dismay, found a touch of picture, I quickly added stroke to stroke. <said who='governess' aloud='true' toWhom='mrsgrose'>“He has red hair, very red, close-curling, and a pale face, long in shape, with straight, good features and little, rather queer whiskers that are as red as his hair. His eyebrows are, somehow, darker; they look particularly arched and as if they might move a good deal. His eyes are sharp, strange—awfully; but I only know clearly that they’re rather small and very fixed. His mouth’s wide, and his lips are thin, and except for his little whiskers he’s quite clean-shaven. He gives me a sort of sense of looking like an actor.”</said>
+</div>
+<div type='paragraph' n='64'><said who='mrsgrose' aloud='true' toWhom='governess'>“An actor!”</said> It was impossible to resemble one less, at least, than Mrs. Grose at that moment.
+</div>
+<div type='paragraph' n='65'><said who='governess' aloud='true' toWhom='mrsgrose'>“I’ve never seen one, but so I suppose them. He’s tall, active, erect,”</said> I continued, <said who='governess' aloud='true' toWhom='mrsgrose'>“but never—no, never!—a gentleman.”</said>
+</div>
+<div type='paragraph' n='66'>My companion’s face had blanched as I went on; her <seg ana='vision'>round eyes</seg> started and her mild mouth gaped. <said who='mrsgrose' aloud='true' toWhom='governess'>“A gentleman?”</said> she gasped, confounded, stupefied: <said who='mrsgrose' aloud='true' toWhom='governess'>“a gentleman <emph rend='italics'>he?</emph>”</said>
+</div>
+<div type='paragraph' n='67'><said who='governess' aloud='true' toWhom='mrsgrose'>“You know him then?”</said>
+</div>
+<div type='paragraph' n='68'>She <seg ana='vision'>visibly</seg> tried to hold herself. <said who='mrsgrose' aloud='true' toWhom='governess'>“But he <emph rend='italics'>is</emph> handsome?”</said>
+</div>
+<div type='paragraph' n='69'>I saw the way to help her. <said who='governess' aloud='true' toWhom='mrsgrose'>“Remarkably!”</said>
+</div>
+<div type='paragraph' n='70'><said who='mrsgrose' aloud='true' toWhom='governess'>“And dressed—?”</said>
+</div>
+<div type='paragraph' n='71'><said who='governess' aloud='true' toWhom='mrsgrose'>“In somebody’s clothes.”</said> 
+</div>
+<div type='paragraph' n='72'><said who='governess' aloud='true' toWhom='mrsgrose'>“They’re smart, but they’re not his own.”</said>
+</div>
+<div type='paragraph' n='73'>She broke into a breathless affirmative groan: <said who='mrsgrose' aloud='true' toWhom='governess'>
+“They’re the master’s!”</said>
+</div>
+<div type='paragraph' n='74'>I caught it up. <said who='governess' aloud='true' toWhom='mrsgrose'>“You <emph rend='italics'>do</emph> know him?”</said>
+</div>
+<div type='paragraph' n='75'>She faltered but a second. <said who='mrsgrose' aloud='true' toWhom='governess'>“Quint!”</said> she cried.
+</div>
+<div type='paragraph' n='76'><said who='governess' aloud='true' toWhom='mrsgrose'>“Quint?”</said>
+</div>
+<div type='paragraph' n='77'><said who='mrsgrose' aloud='true' toWhom='governess'>“Peter Quint—his own man, his valet, when he was here!”</said>
+</div>
+<div type='paragraph' n='78'><said who='governess' aloud='true' toWhom='mrsgrose'>“When the master was?”</said>
+</div>
+<div type='paragraph' n='79'>Gaping still, but meeting me, she pieced it all together. <said who='mrsgrose' aloud='true' toWhom='governess'>“He never wore his hat, but he did wear—well, there were waistcoats missed. They were both here—last year. Then the master went, and Quint was alone.”</said>
+</div>
+<div type='paragraph' n='80'>I followed, but halting a little. <said who='governess' aloud='true' toWhom='mrsgrose'>“Alone?”</said>
+</div>
+<div type='paragraph' n='81'><said who='mrsgrose' aloud='true' toWhom='governess'>“Alone with <emph rend='italics'>us</emph>.”</said> Then, as from a deeper depth, <said who='mrsgrose' aloud='true' toWhom='governess'>“In charge,”</said> she added.
+</div>
+<div type='paragraph' n='82'><said who='governess' aloud='true' toWhom='mrsgrose'>“And what became of him?”</said>
+</div>
+<div type='paragraph' n='83'>She <seg ana='fire'>hung fire</seg> so long that I was still more mystified. <said who='mrsgrose' aloud='true' toWhom='governess'>“He went, too,”</said> she brought out at last.
+</div>
+<div type='paragraph' n='84'><said who='governess' aloud='true' toWhom='mrsgrose'>“Went where?”</said>
+</div>
+<div type='paragraph' n='85'>Her expression, at this, became extraordinary. <said who='mrsgrose' aloud='true' toWhom='governess'>“God knows where! He died.”</said>
+</div>
+<div type='paragraph' n='86'><said who='governess' aloud='true' toWhom='mrsgrose'>“Died?”</said> I almost shrieked.
+</div>
+<div type='paragraph' n='87'>She seemed fairly to square herself, plant herself more firmly to utter the wonder of it. <said who='mrsgrose' aloud='true' toWhom='governess'>“Yes. Mr. Quint is dead.”</said>
+</div>
+</div>
+<div type='chapter' n='6'>
+	<div type='paragraph' n='1'>It took of course more than that particular passage to place us together in presence of what we had now to live with as we could—my dreadful liability to impressions of the order so vividly exemplified, and my companion’s knowledge, henceforth—a knowledge half consternation and half compassion—of that liability. There had been, this evening, after the revelation left me, for an hour, so prostrate—there had been, for either of us, no attendance on any service but a little service of tears and vows, of prayers and promises, a climax to the series of mutual challenges and pledges that had straightway ensued on our retreating together to the schoolroom and shutting ourselves up there to have everything out. The result of our having everything out was simply to reduce our situation to the last rigor of its elements. She herself had seen nothing, not the shadow of a shadow, and nobody in the house but the governess was in the governess’s plight; yet she accepted without directly impugning my sanity the truth as I gave it to her, and ended by showing me, on this ground, an awestricken tenderness, an expression of the sense of my more than questionable privilege, of which the very breath has remained with me as that of the sweetest of human charities.
+	</div>
+	<div type='paragraph' n='2'>What was settled between us, accordingly, that night, was that we thought we might bear things together; and I was not even sure that, in spite of her exemption, it was she who had the best of the burden. I knew at this hour, I think, as well as I knew later, what I was capable of meeting to shelter my pupils; but it took me some time to be wholly sure of what my honest ally was prepared for to keep terms with so compromising a contract. I was queer company enough—quite as queer as the company I received; but as I trace over what we went through I see how much common ground we must have found in the one idea that, by good fortune, _could_ steady us. It was the idea, the second movement, that led me straight out, as I may say, of the inner chamber of my dread. I could take the air in the court, at least, and there Mrs. Grose could join me. Perfectly can I recall now the particular way strength came to me before we separated for the night. We had gone over and over every feature of what I had seen.
+	</div>
+	<div type='paragraph' n='3'><said who='mrsgrose' aloud='true' toWhom='governess'>“He was looking for someone else, you say—someone who was not you?”</said>
+</div>
+<div type='paragraph' n='4'><said who='governess' aloud='true' toWhom='mrsgrose'>“He was looking for little Miles.”</sid> A portentous clearness now possessed me. “<emph rend='italics'>That’s</emph> whom he was looking for.”</said>
+</div>
+<div type='paragraph' n='5'><said who='mrsgrose' aloud='true' toWhom='governess'>“But how do you know?”</said>
+</div>
+<div type='paragraph' n='6'><said who='governess' aloud='true' toWhom='mrsgrose'>“I know, I know, I know!”</said> My exaltation grew. <said who='governess' aloud='true' toWhom='mrsgrose'>“And <emph rend='italics'>you</emph> know, my dear!”</said>
+</div>
+<div type='paragraph' n='7'>She didn’t deny this, but I required, I felt, not even so much telling as that. She resumed in a moment, at any rate: <said who='mrsgrose' aloud='true' toWhom='governess'>“What if <emph rend='italics'>he</emph> should see him?”</said>
+</div>
+<div type='paragraph' n='8'><said who='governess' aloud='true' toWhom='mrsgrose'>“Little Miles? That’s what he wants!”</said>
+</div>
+<div type='paragraph' n='9'>She looked immensely scared again. <said who='mrsgrose' aloud='true' toWhom='governess'>“The child?”</said>
+</div>
+<div type='paragraph' n='10'><said who='governess' aloud='true' toWhom='mrsgrose'>“Heaven forbid! The man. He wants to appear to <emph rend='italics'>them</emph>.”</said> That he might was an awful conception, and yet, somehow, I could keep it at bay;
+which, moreover, as we lingered there, was what I succeeded in
+practically proving. I had an absolute certainty that I should see
+again what I had already seen, but something within me said that by
+offering myself bravely as the sole subject of such experience, by
+accepting, by inviting, by surmounting it all, I should serve as an
+expiatory victim and guard the tranquility of my companions. The children, in especial, I should thus fence about and absolutely save. I
+recall one of the last things I said that night to Mrs. Grose.
+</div>
+<div type='paragraph' n='11'><said who='governess' aloud='true' toWhom='mrsgrose'>“It does strike me that my pupils have never mentioned—”</said>
+</div>
+<div type='paragraph' n='12'>She looked at me hard as I musingly pulled up. <said who='governess' aloud='true' toWhom='mrsgrose'>“His having been here and the time they were with him?”</said>
+</div>
+<div type='paragraph' n='13'><said who='governess' aloud='true' toWhom='mrsgrose'>“The time they were with him, and his name, his presence, his history, in any way.”</said>
+<div type='paragraph' n='14'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, the little lady doesn’t remember. She never heard or knew.”</said>
+</div>
+<div type='paragraph' n='15'><said who='governess' aloud='false' toWhom='mrsgrose'>“The circumstances of his death?”</said> I thought with some intensity.
+</div>
+<div type='paragraph' n='16'><said who='mrsgrose' aloud='true' toWhom='governess'>“Perhaps not. But Miles would remember—Miles would know.”</said>
+</div>
+<div type='paragraph' n='17'><said who='mrsgrose' aloud='true' toWhom='governess'>“Ah, don’t try him!”</said> broke from Mrs. Grose.
+</div>	
+<div type='paragraph' n='18'>I returned her the look she had given me. <said who='governess' aloud='true' toWhom='mrsgrose'>“Don’t be afraid.”</said> I continued to think. “It <emph rend='italics'>is</emph> rather odd.”</said>
+</div>
+<div type='paragraph' n='19'<said who='mrsgrose' aloud='true' toWhom='governess'>“That he has never spoken of him?”</said>
+</div>
+<div type='paragraph' n='20'><said who='governess' aloud='true' toWhom='mrsgrose'>“Never by the least allusion. And you tell me they were ‘great friends’?”</said>
+</div>
+<div type='paragraph' n='21'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, it wasn’t <emph rend='italics'>him!</emph>”</said> Mrs. Grose with emphasis declared. <said who='mrsgrose' aloud='true' toWhom='governess'>“It was Quint’s own fancy. To play with him, I mean—to spoil him.”</said> She paused a moment; then she added: <said who='mrsgrose' aloud='true' toWhom='governess'>“Quint was much too free.”</said>
+</div>
+<div type='paragraph' n='22'>This gave me, straight from my <seg ana='vision'>vision</seg> of his face—<emph rend='italics'>such</emph> a face!—a sudden sickness of disgust. <said who='governess' aloud='true' toWhom='mrsgrose'>“Too free with <emph rend='italics'>my</emph> boy?”</said>
+</div>
+<div type='paragraph' n='23'><said who='mrsgrose' aloud='true' toWhom='governess'>“Too free with everyone!”</said>
+</div>
+<div type='paragraph' n='24'>I forbore, for the moment, to analyze this description further than by the reflection that a part of it applied to several of the members of the household, of the half-dozen maids and men who were still of our small colony. But there was everything, for our apprehension, in the lucky fact that no discomfortable legend, no perturbation scullions, had ever, within anyone’s memory attached to the kind old place. It had neither bad name nor ill fame, and Mrs. Grose, most apparently, only desired to cling to me and to quake in silence. I even put her, the very last thing of all, to the test. It was when, at midnight, she had her hand on the schoolroom door to take leave. <said who='governess' aloud='true' toWhom='mrsgrose'>“I have it from you then—for it’s of great importance—that he was definitely and admittedly
+bad?”</said>
+</div>
+<div type='paragraph' n='25'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, not admittedly. <emph rend='italics'>I</emph> knew it—<seg ana='master-nonknowledge'>but the master didn’t.”</seg></said>
+</div>
+<div type='paragraph' n='26'><said who='governess' aloud='true' toWhom='mrsgrose'>“And you never told him?”</said>
+</div>
+<div type='paragraph' n='27'><said who='mrsgrose' aloud='true' toWhom='governess'>“Well, he didn’t like tale-bearing—he hated complaints. He was terribly short with anything of that kind, and if people were all right to <emph rend='italics'>him</emph>—”</said>
+</div>
+<div type='paragraph' n='28'><said who='governess' aloud='true' toWhom='mrsgrose'>“He wouldn’t be bothered with more?”</said> This squared well enough with my impressions of him: he was not a trouble-loving gentleman, nor so very particular perhaps about some of the company _he_ kept. All the same, I pressed my interlocutress. <said who='governess' aloud='true' toWhom='mrsgrose'>“I promise you <emph rend='italics'>I</emph> would have told!”</said>
+</div>
+<div type='paragraph' n='29'>She felt my discrimination. <said who='mrsgrose' aloud='true' toWhom='governess'>“I daresay I was wrong. But, really, I was afraid.”</said>
+</div>
+<div type='paragraph' n='30'><said who='governess' aloud='true' toWhom='mrsgrose'>“Afraid of what?”</said>
+</div>
+<div type='paragraph' n='31'><said who='mrsgrose' aloud='true' toWhom='governess'>“Of things that man could do. Quint was so clever—he was so deep.”</said>
+</div>
+<div type='paragraph' n='32'>I took this in still more than, probably, I showed. <said who='mrsgrose' aloud='true' toWhom='governess'>“You weren’t afraid of anything else? Not of his effect—?”</said>
+</div>
+<div type='paragraph' n='33'><said who='mrsgrose' aloud='true' toWhom='governess'>“His effect?”</said> she <seg ana='repetition'>repeated</seg> with a face of anguish and waiting while I faltered.
+</div>
+<div type='paragraph' n='34'><said who='governess' aloud='true' toWhom='mrsgrose'>“On innocent little precious lives. They were in your charge.”</said>
+</div>
+<div type='paragraph' n='35'><said who='mrsgrose' aloud='true' toWhom='governess'>“No, they were not in mine!”</said> she roundly and distressfully returned.
+</div>
+<div type='paragraph' n='36'><said who='mrsgrose' aloud='true' toWhom='governess'>“The master believed in him and placed him here because he was supposed not to be well and the country air so good for him. So he had everything to say. Yes”</said>—she let me have it—<said who='mrsgrose' aloud='true' toWhom='governess'>“even about _them_.”</said>
+</div>
+<div type='paragraph' n='37'><said who='governess' aloud='true' toWhom='mrsgrose'>“Them—that creature?”</said> I had to smother a kind of howl. <said who='governess' aloud='true' toWhom='mrsgrose'>“And you could bear it!”</said>
+</div>
+<div type='paragraph' n='38'><said who='mrsgrose' aloud='true' toWhom='governess'>“No. I couldn’t—and I can’t now!”</said> And the poor woman burst into tears.
+</div>
+<div type='paragraph' n='39'>A rigid control, from the next day, was, as I have said, to follow them; yet how often and how passionately, for a week, we came back together to the subject! Much as we had discussed it that Sunday night, I was, in the immediate later hours in especial—for it may be imagined whether I slept—still haunted with the shadow of something she had not told me. I myself had kept back nothing, but there was a word Mrs. Grose had kept back. I was sure, moreover, by morning, that this was not from a failure of frankness, but because on every side there were fears. It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly read into the fact before us
+almost all the meaning they were to receive from subsequent and more
+cruel occurrences. What they gave me above all was just the sinister
+figure of the living man—the dead one would keep awhile!—and of the months he had continuously passed at Bly, which, added up, made a formidable stretch. The limit of this evil time had arrived only when, on the dawn of a winter’s morning, Peter Quint was found, by a laborer going to early work, stone dead on the road from the village: a catastrophe explained—superficially at least—by a visible wound to his head; such a wound as might have been produced—and as, on the final
+evidence, <emph rend='italics'>had</emph> been—by a fatal slip, in the dark and after leaving the public house, on the steepish icy slope, a wrong path altogether, at the bottom of which he lay. The icy slope, the turn mistaken at night and in liquor, accounted for much—practically, in the end and after the inquest and boundless chatter, for everything; but there had been matters in his life—strange passages and perils, secret disorders, vices more than suspected—that would have accounted for a good deal more.
+</div>
+<div type='paragraph' n='40'>I scarce know how to put my story into words that shall be a credible picture of my state of mind; but I was in these days literally able to find a joy in the extraordinary flight of heroism the occasion demanded of me. I now saw that I had been asked for a service admirable and difficult; and there would be a greatness in letting it be seen—oh, in the right quarter!—that I could succeed where many another girl might have failed. It was an immense help to me—I confess I rather applaud myself as I look back!—that I saw my service so strongly and so simply. I was there to protect and defend the little creatures in the world the most bereaved and the most lovable, the appeal of whose helplessness had suddenly become only too explicit, a deep, constant ache of one’s own committed heart. We were cut off, really, together; we were united in our danger. They had nothing but me, and I—well, I had <emph rend='italics'>them</emph>. It was in short a magnificent chance. This chance presented itself to me in an image richly material. I was a screen—I was to stand before them. The more I saw, the less they would. I began to watch them in a stifled suspense, a disguised excitement that might well, had it continued too long, have turned to something like madness. What saved me, as I now see, was that it turned to something else altogether. It didn’t last as suspense—it was superseded by horrible proofs. Proofs, I say, yes—from the moment I really took hold.
+	</div> 
+	<div type='paragraph' n='41'>This moment dated from an afternoon hour that I happened to spend the grounds with the younger of my pupils alone. We had left Mi indoors, on the red cushion of a deep window seat; he had wished finish a book, and I had been glad to encourage a purpose so lauda in a young man whose only defect was an occasional excess of  restless. His sister, on the contrary, had been alert to come out, and I strolled with her half an hour, seeking the shade, for the sun was still high and the day exceptionally warm. I was aware afresh, with her, as we went, of how, like her brother, she contrived—it was the charming thing in both children—to let me alone without appearing to drop me and to accompany me without appearing to surround. They were never importunate and yet never listless. My attention to them all really went to seeing them amuse themselves immensely without me this was a spectacle they seemed actively to prepare and that engaged me as an active admirer. I walked in a world of their invention—they had no occasion whatever to draw upon mine; so that my time was taken only with being, for them, some remarkable person or thing that the game of the moment required and that was merely, thanks to my superior, myexalted stamp, a happy and highly distinguished sinecure. I forget what I was on the present occasion; I only remember that I was something very important and very quiet and that Flora was playing very hard. We were on the edge of the lake, and, as we had lately begun geography, the lake was the Sea of Azof.
+	</div>
+	<div type='paragraph' n='42'> Suddenly, in these circumstances, I became aware that, on the other side of the Sea of Azof, we had an interested spectator. The way this knowledge gathered in me was the strangest thing in the world—the strangest, that is, except the very much stranger in which it quickly merged itself. I had sat down with a piece of work—for I was something or other that could sit—on the old stone bench which overlooked the pond; and in this position I began to take in with certitude, and yet <seg ana='vision'>without direct vision</seg>, the presence, at a distance, of a thin person.
+		</div>
+	<div type='paragraph' n='43'>The old trees, the thick shrubbery, made a great and pleasant shade, but it was all suffused with the brightness of the hot, still hour. There was no ambiguity in anything; none whatever, at least, in the conviction I from one moment to another found myself forming as to what I should see straight before me and across the lake as a consequence of raising my eyes. They were attached at this juncture to the stitching in which I was engaged, and I can feel once more the spasm of my effort not to move them till I should so have steadied myself as to be able to make up my mind what to do. There was an alien object in view—a figure whose right of presence I instantly, passionately questioned. I recollect counting over perfectly the possibilities, reminding myself that nothing was more natural, for instance, then the appearance of one of the men about the place, or even of a messenger, a postman, or a tradesman’s boy, from the village. That reminder had as little effect on my practical certitude as I was conscious—still even without looking—of its having upon the character and attitude of our visitor. Nothing was more natural than that these things should be the other things that they absolutely were not.
+	</div>
+	<div type='paragraph' n='44'>Of the positive identity of the apparition I would assure myself as
+		soon as the small clock of my courage should have ticked out the right
+		second; meanwhile, with an effort that was already sharp enough, I
+		transferred my eyes straight to little Flora, who, at the moment, was
+		about ten yards away. My heart had stood still for an instant with the
+		wonder and terror of the question whether she too would see; and I held
+		my breath while I waited for what a cry from her, what some sudden
+		innocent sign either of interest or of alarm, would tell me. I waited,
+		but nothing came; then, in the first place—and there is something more
+		dire in this, I feel, than in anything I have to relate—I was
+		determined by a sense that, within a minute, all sounds from her had
+		previously dropped; and, in the second, by the circumstance that, also
+		within the minute, she had, in her play, turned her back to the water.
+	</div>
+	<div type='paragraph' n='45'>This was her attitude when I at last looked at her—looked with the confirmed conviction that we were still, together, under direct personal notice. She had picked up a small flat piece of wood, which happened to have in it a little hole that had evidently suggested to her the idea of sticking in another fragment that might figure as a mast and make the thing a boat. This second morsel, as I watched her, she was very markedly and intently attempting to tighten in its place.
+	</div>
+	<div type='paragraph' n='46'> My apprehension of what she was doing sustained me so that after some seconds I felt I was ready for more. Then I again shifted my eyes—I faced what I had to face.
+	</div>
+</div>
+<div type='chapter' n='7'>
+	I <seg ana='touch'>got hold of</seg> Mrs. Grose as soon after this as I could; and I can give no intelligible account of how I fought out the interval. Yet I still hear myself cry as I fairly threw myself into her arms: <said who='governess' aloud='true' toWhom='mrsgrose'>“They <emph rend='italics'>know</emph>—it’s too monstrous: they know, they know!”</said>
+</div>
+	<div type='paragraph' n='8'><said who='mrsgrose' aloud='true' toWhom='governess'>“And what on earth—?” I felt her incredulity as <seg ana='touch'>she held me.</seg></said>
+</div>
+<div type='paragraph' n='9'><said who='governess' aloud='true' toWhom='mrsgrose'>“Why, all that <emph rend='italics'>we</emph> know—and heaven knows what else besides!”</said> Then, as <seg ana='touch'>she released me</seg>, I made it out to her, made it out perhaps only now with full coherency even to myself. <said who='governess' aloud='true' toWhom='mrsgrose'>“Two hours ago, in the garden”</said>—I
+	could scarce articulate—<said who='governess' aloud='true' toWhom='mrsgrose'>“Flora <emph rend='italics'>saw!</emph>”</said>
+</div>
+<div type='paragraph' n='10'>Mrs. Grose took it as she might have taken a blow in the stomach. <said who='mrsgrose' aloud='true' toWhom='governess'>“She has told you?” she panted.</said>
+</div>
+<div type='paragraph' n='11'><said who='governess' aloud='true' toWhom='mrsgrose'>“Not a word—that’s the horror. She kept it to herself! The child of eight, <emph rend='italics'>that</emph> child!”</said> Unutterable still, for me, was the stupefaction of it.
+</div>
+<div type='paragraph' n='12'>Mrs. Grose, of course, could only gape the wider. <said who='mrsgrose' aloud='true' toWhom='governess'>
+“Then how do you know?”</said>
+</div>
+<div type='paragraph' n='13'><said who='governess' aloud='true' toWhom='mrsgrose'>“I was there—I saw with my eyes: saw that she was perfectly aware.”</said>
+</div>
+<div type='paragraph' n='14'><said who='mrsgrose' aloud='true' toWhom='governess'>“Do you mean aware of <emph rend='italics'>him?</emph>”</said>
+</div>
+<div type='paragraph' n='15'><said who='governess' aloud='true' toWhom='mrsgrose'>“No—of <emph rend='italics'>her</emph>.”</said> I was conscious as I spoke that I looked prodigious things, for I got the slow reflection of them in my companion’s face.
+</div>
+<div type='paragraph' n='16'><said who='governess' aloud='true' toWhom='mrsgrose'>“Another person—this time; but a figure of quite as unmistakable horror and evil: a woman in black, pale and dreadful—with such an air also, and such a face!—on the other side of the lake. I was there with the child—quiet for the hour; and in the midst of it she came.”</said>
+</div>
+<div type='paragraph' n='17'><said who='mrsgrose' aloud='true' toWhom='governess'>“Came how—from where?”</said>
+</div>
+<div type='paragraph' n='18'><said who='governess' aloud='true' toWhom='mrsgrose'>“From where they come from! She just appeared and stood there—but not so near.”</said>
+</div>
+<div type='paragraph' n='19'><said who='mrsgrose' aloud='true' toWhom='governess'>“And without coming nearer?”</said>
+</div>
+<div type='paragraph' n='20'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, for the effect and the feeling, she might have been as close as you!”</said>
+</div>
+<div type='paragraph' n='21'>My friend, with an odd impulse, fell back a step. <said who='mrsgrose' aloud='true' toWhom='governess'>“Was she someone you’ve never seen?”</said>
+</div>
+<div type='paragraph' n='22'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yes. But someone the child has. Someone <emph rend='italics'>you</emph> have.”</said> Then, to show how I had thought it all out: <said who='governess' aloud='true' toWhom='mrsgrose'>“My predecessor—the one who died.”</said>
+</div>
+<div type='paragraph' n='23'><said who='mrsgrose' aloud='true' toWhom='governess'>“Miss Jessel?”</said>
+</div>
+<div type='paragraph' n='24'><said who='governess' aloud='true' toWhom='mrsgrose'>“Miss Jessel. You don’t believe me?”</said><seg ana='figurative-touch'>I pressed.</seg>
+</div>
+<div type='paragraph' n='25'>She turned right and left in her distress. <said who='mrsgrose' aloud='true' toWhom='governess'>“How can you be sure?”</said>
+</div>
+<div type='paragraph' n='26'>This drew from me, in the state of my nerves, a <seg ana='vision'>flash</seg> of impatience.
+</div>
+<div type='paragraph' n='27'><said who='governess' aloud='true' toWhom='mrsgrose'>“Then ask Flora—<emph rend='italics'>she’s</emph> sure!”</said> But I had no sooner spoken than I caught myself up. <said who='governess' aloud='true' toWhom='mrsgrose'>“No, for God’s sake, <emph rend='italics'>don’t!</emph> She’ll say she isn’t—she’ll lie!”</said>
+</div>
+	<div type='paragraph' n='28'>Mrs. Grose was not too bewildered instinctively to protest. <said who='mrsgrose' aloud='true' toWhom='governess'>“Ah, how <emph rend='italics'>can</emph> you?”</said>
+</div>
+<div type='paragraph' n='29'><said who='governess' aloud='true' toWhom='mrsgrose'>“Because I’m <seg ana='vision'>clear</seg>. Flora doesn’t want me to know.”</said>
+</div>
+<div type='paragraph' n='30'><said who='mrsgrose' aloud='true' toWhom='governess'>“It’s only then to spare you.”</said>
+</div>
+<div type='paragraph' n='31'><said who='governess' aloud='true' toWhom='mrsgrose'>“No, no—there are depths, depths! The more I go over it, <seg ana='vision'>the more I see in it, and the more I see in it,</seg> the more I fear. I don’t know what I <emph rend='italics'>don’t</emph> see—what I <emph rend='italics'>don’t</emph> fear!”</said>
+</div>
+<div type='paragraph' n='32'>Mrs. Grose tried to keep up with me. <said who='mrsgrose' aloud='true' toWhom='governess'>“You mean you’re afraid of seeing her again?”</said>
+</div>
+<div type='paragraph' n='33'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, no; that’s nothing—now!”</said> Then I explained. <said who='governess' aloud='true' toWhom='mrsgrose'>“It’s of <seg ana='vision'><emph rend='italics'>not</emph> seeing her.”</seg></said>
+</div>
+<div type='paragraph' n='34'>But my companion only looked wan. <said who='mrsgrose' aloud='true' toWhom='governess'>“I don’t understand you.”</said>
+</div>
+<div type='paragraph' n='35'><said who='governess' aloud='true' toWhom='mrsgrose'>“Why, it’s that the child may keep it up—and that the child assuredly <emph rend='italics'>will</emph>—without my knowing it.”</said>
+</div>
+<div type='paragraph' n='36'>At the image of this possibility Mrs. Grose for a moment collapsed, yet presently to pull herself together again, as if from the positive force of the sense of what, should we yield an inch, there would really be to give way to. <said who='mrsgrose' aloud='true' toWhom='governess'>“Dear, dear—we must keep our heads! And after all, if she doesn’t mind it—!”</said> She even tried a grim joke. <said who='mrsgrose' aloud='true' toWhom='governess'>“Perhaps she likes it!”</said>
+</div>
+<div type='paragraph' n='37'><said who='governess' aloud='true' toWhom='mrsgrose'>“Likes <emph rend='italics'>such</emp> things—a scrap of an infant!”</said>
+</div>
+<div type='paragraph' n='38'><said who='mrsgrose' aloud='true' toWhom='governess'>“Isn’t it just a proof of her blessed innocence?”</said> my friend bravely inquired.
+</div>
+<div type='paragraph' n='39'>She brought me, for the instant, almost round. <said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, we must clutch at <emph rend='italics'>that</emph>—we must cling to it! If it isn’t a proof of what you say, it’s a proof of—God knows what! For the woman’s a horror of horrors.”</said>
+</div>
+<div type='paragraph' n='40'>Mrs. Grose, at this, <seg ana='vision'>fixed her eyes</seg> a minute on the ground; then atlast raising them, <said who='mrsgrose' aloud='true' toWhom='governess'>“Tell me how you know,”</said> she said.
+</div>
+<div type='paragraph' n='41'><said who='governess' aloud='true' toWhom='mrsgrose'>“Then you admit it’s what she was?”</said> I cried.
+</div>
+<div type='paragraph' n='42'><said who='mrsgrose' aloud='true' toWhom='governess'>“Tell me how you know,”</said> <seg ana='repetition'>my friend simply repeated.</seg>
+</div>
+<div type='paragraph' n='43'><said who='governess' aloud='true' toWhom='mrsgrose'>“Know? By <seg ana='vision'>seeing</seg> her! By the way she <seg ana='vision'>looked.”</seg></said>
+</div>
+<div type='paragraph' n='44'><said who='mrsgrose' aloud='true' toWhom='governess'>“At you, do you mean—so wickedly?”</said>
+</div>
+<div type='paragraph' n='45'><said who='governess' aloud='true' toWhom='mrsgrose'>“Dear me, no—I could have borne that. She gave me never a glance. She only <seg ana='vision'>fixed the child.”</seg></said>
+</div>
+<div type='paragraph' n='46'>Mrs. Grose tried to see it. <said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='vision'>“Fixed her?”</seg></said>
+</div>
+<div type='paragraph' n='47'><said who='governess' aloud='true' toWhom='mrsgrose'>“Ah, <seg ana='vision'>with such awful eyes!”</seg></said>
+</div> 
+<div type='paragraph' n='48'>She <seg ana='vision'>stared at mine as if they might really have resembled them.</seg> <said who='mrsgrose' aloud='true' toWhom='governess'>“Do you mean of dislike?”</said>
+</div>
+<div type='paragraph' n='49'><said who='governess' aloud='true' toWhom='mrsgrose'>“God help us, no. Of something much worse.”</said>
+</div>
+<div type='paragraph' n='50'><said who='mrsgrose' aloud='true' toWhom='governess'>“Worse than dislike?”</said>—this left her indeed at a loss.
+</div>
+<div type='paragraph' n='51'><said who='governess' aloud='true' toWhom='mrsgrose'>“With a determination—indescribable. With a kind of fury of intention.”</said>
+</div>
+	<div type='paragraph' n='52'>I made her <seg ana='vision'>turn pale.</seg> <said who='mrsgrose' aloud='true' toWhom='governess'>“Intention?”</said>
+</div>
+<div type='paragraph' n='53'><said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='touch'>“To get hold of her.”</seg></said> Mrs. Grose—her <seg ana='vision'>eyes</seg> just lingering on mine—gave a
+shudder and walked to the window; and while she stood there looking out I completed my statement. <said who='governess' aloud='true' toWhom='mrsgrose'>“<emph rend='italics'>That’s</emph> what Flora knows.”</said>
+</div>
+<div type='paragraph' n='54'>After a little she turned round. <said who='mrsgrose' aloud='true' toWhom='governess'>“The person was in black, you say?”</said>
+</div>
+<div type='paragraph' n='55'><said who='governess' aloud='true' toWhom='mrsgrose'>“In mourning—rather poor, almost shabby. But—yes—with extraordinary beauty.”</said> I now recognized to what I had at last, stroke by stroke, brought the victim of my confidence, for she quite visibly weighed this. <said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, handsome—very, very,”</said> I insisted; <said who='governess' aloud='true' toWhom='mrsgrose'>“wonderfully handsome. But infamous.”</said>
+</div>
+<div type='paragraph' n='56'>She slowly came back to me. <said who='mrsgrose' aloud='true' toWhom='governess'>“Miss Jessel—<emph rend='italics'>was</emph> infamous.”</said> She once more took my hand in both her own, holding it as tight as if to fortify me against the increase of alarm I might draw from this disclosure. <said who='mrsgrose' aloud='true' toWhom='governess'>“They were both infamous,”</said> she finally said.
+</div>
+<div type='paragraph' n='57'>So, for a little, we faced it once more together; and I found absolutely a degree of help in seeing it now so straight. <said who='governess' aloud='true' toWhom='mrsgrose'>“I appreciate,”</said> I said, <said who='governess' aloud='true' toWhom='mrsgrose'>“the great decency of your not having hitherto spoken; but the time has certainly come to give me the whole thing.”</said>
+</div>
+<div type='paragraph' n='58'>She appeared to assent to this, but still only in <seg ana='sound'>silence;</seg> seeing which I went on: <said who='governess' aloud='true' toWhom='mrsgrose'>“I must have it now. Of what did she die? Come, there was something between them.”</said>
+</div>
+<div type='paragraph' n='59'><said who='mrsgrose' aloud='true' toWhom='governess'>“There was everything.”</said>
+</div>
+<div type='paragraph' n='60'><said who='governess' aloud='true' toWhom='mrsgrose'>“In spite of the difference—?”</said>
+</div>
+<div type='paragraph' n='61'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, of their rank, their condition”</said>—she brought it woefully out.
+</div>
+<div type='paragraph' n='62'><said who='governess' aloud='true' toWhom='mrsgrose'>“<emph rend='italics'>She</emph> was a lady.”</said>
+</div>
+<div type='paragraph' n='63'>I turned it over; I again <seg ana='vision'>saw.</seg> <said who='mrsgrose' aloud='true' toWhom='governess'>“Yes—she was a lady.”</said>
+</div>
+<div type='paragraph' n='64'><said who='mrsgrose' aloud='true' toWhom='governess'>“And he so dreadfully below,”</said> said Mrs. Grose.
+</div>
+<div type='paragraph' n='65'>I felt that I doubtless needn’t <seg ana='touch'>press too hard, in such company, on the place of a servant in the scale; but there was nothing to prevent an acceptance of my companion’s own measure of my predecessor’s abasement.
+</div>
+<div type='paragraph' n='66'>There was a way to deal with that, and I dealt; the more readily for my <seg ana='vision'>full vision</seg>—on the evidence—of our employer’s late clever, good-looking “own” man; impudent, assured, spoiled, depraved. <said who='mrsgrose' aloud='true' toWhom='governess'>“The fellow was a hound.”</said>
+</div>
+<div type='paragraph' n='67'>Mrs. Grose considered as if it were perhaps a little a case for a sense of shades. <said who='mrsgrose' aloud='true' toWhom='governess'>“I’ve never seen one like him. He did what he wished.”</said>
+</div>
+<div type='paragraph' n='68'><said who='governess' aloud='true' toWhom='mrsgrose'>“With <emph rend='italics'>her?</emph>”</said>
+</div>
+<div type='paragraph' n='69'><said who='mrsgrose' aloud='true' toWhom='governess'>“With them all.”</said>
+</div>
+	<div type='paragraph' n='70'>It was as if now in my friend’s own eyes Miss Jessel had again appeared. I seemed at any rate, for an instant, to see their evocation of her as distinctly as I had seen her by the pond; and I brought out with decision: <said who='governess' aloud='true' toWhom='mrsgrose'>“It must have been also what <emph rend='italics'>she</emph> wished!”</said>
+</div>
+<div type='paragraph' n='71'>Mrs. Grose’s face signified that it had been indeed, but she said at the same time: <said who='mrsgrose' aloud='true' toWhom='governess'>“Poor woman—she paid for it!”</said>
+</div>
+<div type='paragraph' n='72'><said who='governess' aloud='true' toWhom='mrsgrose'>“Then you do know what she died of?”</said> I asked.
+</div>
+<div type='paragraph' n='73'><said who='mrsgrose' aloud='true' toWhom='governess'>“No—I know nothing. I wanted not to know; I was glad enough I didn’t; and I thanked heaven she was well out of this!”</said>
+</div>
+<div type='paragraph' n='74'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yet you had, then, your idea—”</said>
+</div>
+<div type='paragraph' n='75'><said who='mrsgrose' aloud='true' toWhom='governess'>“Of her real reason for leaving? Oh, yes—as to that. She couldn’t have stayed. Fancy it here—for a governess! And afterward I imagined—and I still imagine. And what I imagine is dreadful.”</said>
+</div>
+<div type='paragraph' n='76'><said who='governess' aloud='true' toWhom='mrsgrose'>“Not so dreadful as what _I_ do,”</said> I replied; on which I must have shown her—as I was indeed but too conscious—a front of miserable defeat. It brought out again all her compassion for me, and at the renewed <seg ana='touch-figurative'>touch of her kindness</seg> my power to resist broke down. I burst, as I had, the other time, made her burst, into tears; <seg ana='touch-physical'>she took me to her motherly breast</seg>, and my lamentation overflowed. <said who='governess' aloud='true' toWhom='mrsgrose'>“I don’t do it!”</said> I sobbed in despair; <said who='governess' aloud='true' toWhom='mrsgrose'>“I don’t save or shield them! It’s far worse than I dreamed—they’re lost!”</said>
+</div>
+</div>
+<div type='chapter' n='8'>
+<div type='paragraph' n='1'>What I had said to Mrs. Grose was true enough: there were in the matter I had put before her depths and possibilities that I lacked resolution to sound; so that when we met once more in the wonder of it we were of a common mind about the duty of resistance to extravagant fancies. We were to keep our heads if we should keep nothing else—difficult indeed as that might be in the face of what, in our prodigious experience, was least to be questioned. Late that night, while the house slept, we had another talk in my room, when she went all the way with me as to its being beyond doubt that I had seen exactly what I had seen. To hold her perfectly in the pinch of that, I found I had only to ask her how, if I had “made it up,” I came to be able to give, of each of the persons appearing to me, a picture disclosing, to the last detail, their special marks—a portrait on the exhibition of which she had instantly recognized and named them. She wished of course—small blame to her!—to sink the whole subject; and I was quick to assure her that my own interest in it had now violently taken the form of a search for the way to escape from it. I encountered her on the ground of a probability that with recurrence—for recurrence we took for granted—I should get used to my danger, distinctly professing that my personal exposure had suddenly become the least of my discomforts. It was my new suspicion that was intolerable; and yet even to this complication the later hours of the day had brought a little ease.
+</div>
+<div type='paragraph' n='2'>On leaving her, after my first outbreak, I had of course returned to my pupils, associating the right remedy for my dismay with that sense of their charm which I had already found to be a thing I could positively cultivate and which had never failed me yet. I had simply, in other words, plunged afresh into Flora’s special society and there become aware—it was almost a luxury!—that she could put her little conscious hand straight upon the spot that ached. She had looked at me in sweet speculation and then had accused me to my face of having “cried.”  had supposed I had brushed away the ugly signs: but I could literally—for the time, at all events—rejoice, under this fathomless charity, that they had not entirely disappeared. To gaze into the depths of blue of the child’s eyes and pronounce their loveliness a trick of premature cunning was to be guilty of a cynicism in preference to which I naturally preferred to abjure my judgment and, so far as might be, my agitation. I couldn’t abjure for merely wanting to, but I could repeat to Mrs. Grose—as I did there, over and over, in the small hours—that with their voices in the air, their pressure on one’s heart, and their fragrant faces against one’s cheek, everything fell to the ground but their incapacity and their beauty. It was a pity that, somehow, to settle this once for all, I had equally to re-enumerate the signs of subtlety that, in the afternoon, by the lake had made a miracle of my show of self-possession. It was a pity to be obliged to reinvestigate the certitude of the moment itself and repeat how it had come to me as a revelation that the inconceivable communion I then surprised was a matter, for either party, of habit. It was a pity that I should have had to quaver out again the reasons for my not having, in my delusion, so much as questioned that the little girl saw our visitant even as I actually saw Mrs. Grose herself, and that she wanted, by just so much as she did thus see, to make me suppose she didn’t, and at the same time, without showing anything, arrive at a guess as to whether I myself did! It was a pity that I needed once more to describe the portentous little activity by which she sought to divert my attention—the perceptible increase of movement, the greater intensity of play, the singing, the gabbling of nonsense, and the invitation to romp.
+</div>
+<div type='paragraph' n='3'> Yet if I had not indulged, to prove there was nothing in it, in this review, I should have missed the two or three dim elements of comfort that still remained to me. I should not for instance have been able to asseverate to my friend that I was certain—which was so much to the good—that <emph rend='italics'>I</emph> at least had not betrayed myself. I should not have been prompted, by stress of need, by desperation of mind—I scarce know what to call it—to invoke such further aid to intelligence as might spring from pushing my colleague fairly to the wall. She had told me, bit by bit, under pressure, a great deal; but a small shifty spot on the wrong side of it all still sometimes brushed my brow like the wing of a bat; and I remember how on this occasion—for the sleeping house and the concentration alike of our danger and our watch seemed to help—I felt the importance of giving the last jerk to the curtain. <said who='governess' aloud='true' toWhom='mrsgrose'>“I don’t believe anything so horrible,”</said> I recollect saying; <said who='governess' aloud='true' toWhom='mrsgrose'>“no, let us put it definitely, my dear, that I don’t. But if I did, you know, there’s a thing I should require now, just without sparing you the least bit more—oh, not a scrap, come!—to get out of you. What was it you had in mind when, in our distress, before Miles came back, over the letter from his school, you said, under my insistence, that you didn’t pretend for him that he had not literally _ever_ been ‘bad’? He has _not_ literally ‘ever,’ in these weeks that I myself have lived with him and so closely watched him; he has been an imperturbable little prodigy of delightful, lovable goodness. Therefore you might perfectly have made the claim for him if you had not, as it happened, seen an exception to take. What was your exception, and to what passage in your personal observation of him did you refer?”</said>
+</div>
+<div type='paragraph' n='4'>It was a dreadfully austere inquiry, but levity was not our note, and, at any rate, before the gray dawn admonished us to separate I had got my answer. What my friend had had in mind proved to be immensely to the purpose. It was neither more nor less than the circumstance that for a period of several months Quint and the boy had been perpetually together. It was in fact the very appropriate truth that she had ventured to criticize the propriety, to hint at the incongruity, of so close an alliance, and even to go so far on the subject as a frank overture to Miss Jessel. Miss Jessel had, with a most strange manner, requested her to mind her business, and the good woman had, on this, directly approached little Miles. What she had said to him, since I pressed, was that _she_ liked to see young gentlemen not forget their station.
+</div>
+<div type='paragraph' n='5'>I <seg ana='touch-figurative'>pressed</seg> again, of course, at this. <said who='governess' aloud='true' toWhom='mrsgrose'>“You reminded him that Quint was only a base menial?”</said>
+</div>
+<div type='paragraph' n='6'><said who='mrsgrose' aloud='true' toWhom='governess'>“As you might say! And it was his answer, for one thing, that was bad.”</said>
+</div>
+<div type='paragraph' n='7'><said who='governess' aloud='true' toWhom='mrsgrose'>“And for another thing?”</said> I waited. <said who='governess' aloud='true' toWhom='mrsgrose'>“He <seg ana='repetition'>repeated</seg> your words to Quint?”</said>
+</div>
+<div type='paragraph' n='8'><said who='mrsgrose' aloud='true' toWhom='governess'>“No, not that. It’s just what he <emph rend='italics'>wouldn’t!</emph>” she could still impress upon me. <said who='mrsgrose' aloud='true' toWhom='governess'>“I was sure, at any rate,”</said> she added, <said who='mrsgrose' aloud='true' toWhom='governess'>“that he didn’t. But he denied certain occasions.”</said>
+</div>
+<div type='paragraph' n='9'><said who='governess' aloud='true' toWhom='mrsgrose'>“What occasions?”</said>
+</div>
+<div type='paragraph' n='10'><said who='mrsgrose' aloud='true' toWhom='governess'>“When they had been about together quite as if Quint were his tutor—and a very grand one—and Miss Jessel only for the little lady. When he had gone off with the fellow, I mean, and spent hours with him.”</said>
+</div>
+<div type='paragraph' n='11'><said who='governess' aloud='true' toWhom='mrsgrose'>“He then prevaricated about it—he said he hadn’t?”</said> Her assent was clear enough to cause me to add in a moment: <said who='governess' aloud='true' toWhom='mrsgrose'>“I <seg ana='vision-figurative'>see</seg>. He lied.”</said>
+</div>
+<div type='paragraph' n='12'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh!”</said> Mrs. Grose mumbled. This was a suggestion that it didn’t matter; which indeed she backed up by a further remark. <said who='mrsgrose' aloud='true' toWhom='governess'>“You see, after all, Miss Jessel didn’t mind. She didn’t forbid him.”</said>
+</div>
+<div type='paragraph' n='13'>I considered. <said who='governess' aloud='true' toWhom='mrsgrose'>“Did he put that to you as a justification?”</said>
+</div>
+<div type='paragraph' n='14'>At this she dropped again. <said who='mrsgrose' aloud='true' toWhom='governess'>“No, he never spoke of it.”</said>
+</div>
+<div type='paragraph' n='14'><said who='governess' aloud='true' toWhom='mrsgrose'>“Never mentioned her in connection with Quint?”</said>
+</div>
+<div type='paragraph' n='15'>She saw, <seg ana='vision-physical'>visibly flushing</seg>, where I was coming out. <said who='mrsgrose' aloud='true' toWhom='governess'>“Well, he didn’tshow anything. He denied,”<said who='mrsgrose' aloud='true' toWhom='governess'> she <seg ana='repetition'>repeated; <said who='mrsgrose' aloud='true' toWhom='governess'>“he denied.”</seg></said>
+</div>
+<div type='paragraph' n='16'>Lord, how I <seg ana='touch-physical'>pressed her</seg> now! <said who='governess' aloud='true' toWhom='mrsgrose'>“So that you could see he knew what was between the two wretches?”</said>
+</div>
+<div type='paragraph' n='17'><said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='repetition'>“I don’t know—I don’t know!”</seg></said> the poor woman groaned.
+</div>
+<div type='paragraph' n='18'><said who='governess' aloud='true' toWhom='mrsgrose'>“You do know, you dear thing,”</said> I replied; <said who='governess' aloud='true' toWhom='mrsgrose'>“only you haven’t my dreadful boldness of mind, and you keep back, out of timidity and modesty and delicacy, even the impression that, in the past, when you had, without my aid, to flounder about in silence, most of all made you miserable. But I shall get it out of you yet! There was something in the boy that suggested to you,” I continued, “that he covered and concealed their relation.”</said>
+</div>
+<div type='paragraph' n='19'><said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, he couldn’t prevent—”</said>
+</div>
+<div type='paragraph' n='20'><said who='governess' aloud='true' toWhom='mrsgrose'>“Your learning the truth? I daresay! But, heavens,”</said> I fell, with vehemence, athinking, <said who='governess' aloud='true' toWhom='mrsgrose'>“what it shows that they must, to that extent, have succeeded in making of him!”</said>
+</div>
+<div type='paragraph' n='21'>“Ah, nothing that’s not nice <emph rend='italics'>now!</emph>” Mrs. Grose lugubriously pleaded.
+</div>
+<div type='paragraph' n='22'><said who='governess' aloud='true' toWhom='mrsgrose'>“I don’t wonder you looked queer,”</said> I persisted, <said who='governess' aloud='true' toWhom='mrsgrose'>“when I mentioned to you the letter from his school!”</said>
+</div>
+<div type='paragraph' n='23'><said who='mrsgrose' aloud='true' toWhom='governess'>“I doubt if I looked as queer as you!”</said> she retorted with homely force.
+</div>
+<div type='paragraph' n='24'><said who='mrsgrose' aloud='true' toWhom='governess'>“And if he was so bad then as that comes to, how is he such an angel now?”</said>
+</div>
+<div type='paragraph' n='25'><said who='governess' aloud='true' toWhom='mrsgrose'>“Yes, indeed—and if he was a fiend at school! How, how, how? Well,”</said> I said in my torment, <said who='governess' aloud='true' toWhom='mrsgrose'>“you must put it to me again, but I shall not be able to tell you for some days. Only, put it to me again!”</said> I cried in a way that made my friend stare. <said who='governess' aloud='true' toWhom='mrsgrose'>“There are directions in which I must not for the present let myself go.”</said> Meanwhile I returned to her first example—the one to which she had just previously referred—of the boy’s happy capacity for an occasional slip. <said who='governess' aloud='true' toWhom='mrsgrose'>“If Quint—on your remonstrance at the time you speak of—was a base menial, one of the things Miles said to you, I find myself guessing, was that you were another.”</said> Again her admission was so adequate that I continued: <said who='governess' aloud='true' toWhom='mrsgrose'>“And you forgave him that?”</said>
+</div>
+<div type='paragraph' n='26'><said who='mrsgrose' aloud='true' toWhom='governess'>“Wouldn’t </emph rend='italics'>you?</emph>”
+</div>
+<div type='paragraph' n='27'><said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, yes!”</said> And we exchanged there, in the stillness, a sound of the oddest amusement. Then I went on: <said who='governess' aloud='true' toWhom='mrsgrose'>“At all events, while he was with the man—”</said>
+</div>
+<div type='paragraph' n='28'><said who='mrsgrose' aloud='true' toWhom='governess'>“Miss Flora was with the woman. It suited them all!”</said>
+</div>
+<div type='paragraph' n='29'>It suited me, too, I felt, only too well; by which I mean that it suited exactly the particularly deadly view I was in the very act of forbidding myself to entertain. But I so far succeeded in checking the expression of this view that I will throw, just here, no further light on it than may be offered by the mention of my final observation to Mrs. Grose. “His having lied and been impudent are, I confess, less engaging specimens than I had hoped to have from you of the outbreak in him of the little natural man. Still,” I mused, “They must do, for they make me feel more than ever that I must watch.”
+</div>
+<div type='paragraph' n='30'>It made me blush, the next minute, to see in my friend’s face how much more unreservedly she had forgiven him than her anecdote struck me as presenting to my own tenderness an occasion for doing. This came out when, at the schoolroom door, she quitted me. “Surely you don’t accuse <emph rend='italics'>him</emph>—”</said>
+</div>
+<div type='paragraph' n='31'><said who='governess' aloud='true' toWhom='mrsgrose'>“Of carrying on an intercourse that he conceals from me? Ah, remember that, until further evidence, I now accuse nobody.”</said> Then, before shutting her out to go, by another passage, to her own place, <said who='governess' aloud='true' toWhom='mrsgrose'>“I must just wait,”</said> I wound up.
+</div>
+</div>
+<div type='chapter' n='9'>
+	<div type='paragraph' n='1'>I waited and waited, and the days, as they elapsed, took something from my consternation. A very few of them, in fact, passing, in constant sight of my pupils, without a fresh incident, sufficed to give to grievous fancies and even to odious memories a kind of brush of the sponge. I have spoken of the surrender to their extraordinary childish grace as a thing I could actively cultivate, and it may be imagined if I neglected now to address myself to this source for whatever it would yield. Stranger than I can express, certainly, was the effort to struggle against my new lights; it would doubtless have been, however, a greater tension still had it not been so frequently successful. I used to wonder how my little charges could help guessing that  thought strange things about them; and the circumstances that these things only made them more interesting was not by itself a direct aid to keeping them in the dark. I trembled lest they should see that they <emph rend='italics'>were</emph> so immensely more interesting. Putting things at the worst, at all events, as in meditation I so often did, any clouding of their innocence could only be—blameless and foredoomed as they were—a reason the more for taking risks. There were moments when, by an irresistible impulse, I found myself catching them up and pressing them to my heart. As soon as
+I had done so I used to say to myself: <said who='governess' aloud='false' toWhom='mrsgrose'>“What will they think of that?
+Doesn’t it betray too much?”</said> It would have been easy to get into a sad, wild tangle about how much I might betray; but the real account, I feel, of the hours of peace that I could still enjoy was that the immediate charm of my companions was a beguilement still effective even under the shadow of the possibility that it was studied. For if it occurred to me that I might occasionally excite suspicion by the little outbreaks of my sharper passion for them, so too I remember wondering if I mightn’t see a queerness in the traceable increase of their own
+demonstrations.
+</div>
+<div type='paragraph' n='2'> They were at this period extravagantly and preternaturally fond of me; which, after all, I could reflect, was no more than a graceful response in children perpetually bowed over and hugged. The homage of which they were so lavish succeeded, in truth, for my nerves, quite as well as if I never appeared to myself, as I may say, literally to catch them at a purpose in it. They had never, I think, wanted to do so many things for their poor protectress; I mean—though they got their lessons better and better, which was naturally what would please her most—in the way of diverting, entertaining, surprising her; reading her passages, telling her stories, acting her charades, pouncing out at her, in disguises, as animals and historical characters, and above all astonishing her by the
+“pieces” they had secretly got by heart and could interminably recite.
+I should never get to the bottom—were I to let myself go even now—of
+the prodigious private commentary, all under still more private
+correction, with which, in these days, I overscored their full hours.
+They had shown me from the first a facility for everything, a general
+faculty which, taking a fresh start, achieved remarkable flights. They
+got their little tasks as if they loved them, and indulged, from the
+mere exuberance of the gift, in the most unimposed little miracles of
+memory. They not only popped out at me as tigers and as Romans, but as
+Shakespeareans, astronomers, and navigators. This was so singularly the
+case that it had presumably much to do with the fact as to which, at
+the present day, I am at a loss for a different explanation: I allude
+to my unnatural composure on the subject of another school for Miles.
+What I remember is that I was content not, for the time, to open the
+question, and that contentment must have sprung from the sense of his
+perpetually striking show of cleverness. He was too clever for a bad
+governess, for a parson’s daughter, to spoil; and the strangest if not
+the brightest thread in the pensive embroidery I just spoke of was the
+impression I might have got, if I had dared to work it out, that hewas
+under some influence operating in his small intellectual life as a
+tremendous incitement.
+</div>
+<div type='paragraph' n='3'>If it was easy to reflect, however, that such a boy could postpone school, it was at least as marked that for such a boy to have been “kicked out” by a schoolmaster was a mystification without end. Let me add that in their company now—and I was careful almost never to be out of it—I could follow no scent very far. We lived in a cloud of music and love and success and private theatricals. The musical sense in each of the children was of the quickest, but the elder in especial had a marvelous knack of catching and repeating. The schoolroom piano broke into all gruesome fancies; and when that failed there were confabulations in corners, with a sequel of one of them going out in the highest spirits in order to “come in” as something new. I had had brothers myself, and it was no revelation to me that little girls could be slavish idolaters of little boys. What surpassed everything was that there was a little boy in the world who could have for the inferior age, sex, and intelligence so fine a consideration. They were extraordinarily at one, and to say that they never either quarreled or complained is to make the note of praise coarse for their quality of sweetness. Sometimes, indeed, when I dropped into coarseness, I perhaps came across traces of little understandings between them by which one of them should keep me occupied while the other slipped away. There is a <emph rend='italics'>naïf</emph> side, I suppose, in all diplomacy; but if my pupils practicedupon me, it was surely with the minimum of grossness. It was all in the other quarter that, after a lull, the grossness broke out.
+</div>
+<div type='paragraph' n='4'>I find that I really hang back; but I must take my plunge. In going on with the record of what was hideous at Bly, I not only challenge the most liberal faith—for which I little care; but—and this is another matter—I renew what I myself suffered, I again push my way through it to the end. There came suddenly an hour after which, as I look back, the affair seems to me to have been all pure suffering; but I have at least reached the heart of it, and the straightest road out is doubtless to advance. One evening—with nothing to lead up or to prepare it—I felt the cold touch of the impression that had breathed on me the night of my arrival and which, much lighter then, as I have mentioned, I should probably have made little of in memory had my subsequent sojourn been less agitated. I had not gone to bed; I sat reading by a couple of candles. There was a roomful of old books at Bly—last-century fiction, some of it, which, to the extent of a distinctly deprecated renown, but never to so much as that of a stray specimen, had reached the sequestered home and appealed to the unavowed curiosity of my youth. I remember that the book I had in my hand was <author>Fielding’s</author> <title><emph rend='italics'>Amelia</emph></title>; also that I was wholly awake. I recall further both a general conviction that it was horribly late and a particular objection to looking at my watch. I figure, finally, that the white curtain draping, 	in the fashion of those days, the head of Flora’s little bed, shrouded, as I had assured myself long before, the perfection of childish rest. I recollect in short that, though I was deeply interested in my author, I found myself, at the turn of a page and with his spell all scattered, looking straight up from him and hard at the door of my room. There was a moment during which I listened, reminded of the faint sense I had had, the first night, of there being something undefinably astir in the house, and noted the soft breath of the open casement just move the half-drawn blind. Then, with all the marks of a deliberation that must have seemed magnificent had there been anyone to admire it, I laid down my book, rose to my feet, and, taking a candle, went straight out of the room and, from the passage, on which my light made little impression, noiselessly closed and locked the door.
+</div>
+<div type='paragraph' n='5'>I can say now neither what determined nor what guided me, but I went straight along the lobby, holding my candle high, till I came within sight of the tall window that presided over the great turn of the staircase. At this point I precipitately found myself aware of three things. They were practically simultaneous, yet they had flashes of succession. My candle, under a bold flourish, went out, and I perceived, by the uncovered window, that the yielding dusk of earliest morning rendered it unnecessary. Without it, the next instant, I saw that there was someone on the stair. I speak of sequences, but I required no lapse of seconds to stiffen myself for a third encounter with Quint. The apparition had reached the landing halfway up and was therefore on the spot nearest the window, where at sight of me, it stopped short and fixed me exactly as it had fixed me from the tower and from the garden. He knew me as well as I knew him; and so, in the cold, faint twilight, with a glimmer in the high glass and another on the polish of the oak stair below, we faced each other in our common intensity. He was absolutely, on this occasion, a living, detestable, dangerous presence. But that was not the wonder of wonders; I reserve this distinction for quite another circumstance: the circumstance that dread had unmistakably quitted me and that there was nothing in me there that didn’t meet and measure him.
+</div>
+<div type='paragraph' n='6'>I had plenty of anguish after that extraordinary moment, but I had, thank God, no terror. And he knew I had not—I found myself at the end of an instant magnificently aware of this. I felt, in a fierce rigor of confidence, that if I stood my ground a minute I should cease—for the time, at least—to have him to reckon with; and during the minute, accordingly, the thing was as human and hideous as a real interview: hideous just because it <emph rend='italics'>was</emph> human, as human as to have met alone, in the small hours, in a sleeping house, some enemy, some adventurer, some criminal. It was the dead silence of our long gaze at such close
+quarters that gave the whole horror, huge as it was, its only note of
+the unnatural. If I had met a murderer in such a place and at such an
+hour, we still at least would have spoken. Something would have passed,
+in life, between us; if nothing had passed, one of us would have moved.
+</div>
+<div type='paragraph' n='7'>The moment was so prolonged that it would have taken but little more to make me doubt if even <emph rend='italics'>I</emph> were in life. I can’t express what followed it save by saying that the silence itself—which was indeed in a manner an attestation of my strength—became the element into which I saw the figure disappear; in which I definitely saw it turn as I might have seen the low wretch to which it had once belonged turn on receipt of an
+order, and pass, with my eyes on the villainous back that no hunch
+could have more disfigured, straight down the staircase and into the
+darkness in which the next bend was lost.
+</div>
+</div>
+<div type='chapter' n='10'>I remained awhile at the top of the stair, but with the effect presently of understanding that when my visitor had gone, he had gone: then I returned to my room. The foremost thing I saw there by the light of the candle I had left burning was that Flora’s little bed was empty; and on this I caught my breath with all the terror that, five minutes before, I had been able to resist. I dashed at the place in which I had left her lying and over which (for the small silk counterpane and the sheets were disarranged) the white curtains had been deceivingly pulled forward; then my step, to my unutterable relief, produced an answering sound: I perceived an agitation of the window blind, and the child, ducking down, emerged rosily from the other side of it. She stood there in so much of her candor and so little of her nightgown, with her pink bare feet and the golden glow of her curls. She looked intensely grave, and I had never had such a sense of losing an advantage acquired (the thrill of which had just been so prodigious) as on my consciousness that she addressed me with a reproach. <said who='governess' aloud='true' toWhom='flora'>“You naughty: where <emph rend='italics'>have</emph> you been?”</emph>—instead of challenging her own irregularity I found myself
+arraigned and explaining. She herself explained, for that matter, with
+the loveliest, eagerest simplicity. She had known suddenly, as she lay
+there, that I was out of the room, and had jumped up to see what had
+become of me. I had dropped, with the joy of her reappearance, back
+into my chair—feeling then, and then only, a little faint; and she had
+pattered straight over to me, thrown herself upon my knee, given
+herself to be held with the flame of the candle full in the wonderful
+little face that was still flushed with sleep. I remember closing my
+eyes an instant, yieldingly, consciously, as before the excess of
+something beautiful that shone out of the blue of her own. <said who='governess' aloud='true' toWhom='flora'>“You were
+looking for me out of the window?”</said> I said. <said who='governess' aloud='true' toWhom='flora'>“You thought I might be
+walking in the grounds?”</said>
+</div>
+<div type='paragraph' n='11'><said who='flora' aloud='true' toWhom='governess'>“Well, you know, I thought someone was”</said>—she never blanched as she smiled out that at me.
+</div>
+<div type='paragraph' n='12'>Oh, how I looked at her now! <said who='governess' aloud='true' toWhom='flora'>“And did you see anyone?”</said>
+</div>
+<div type='paragraph' n='13'><said who='flora' aloud='true' toWhom='governess'>“Ah, <emph rend='italics'>no!</emph>” she returned, almost with the full privilege of childish inconsequence, resentfully, though with a long sweetness in her little drawl of the negative.
+</div>
+<div type='paragraph' n='14'>At that moment, in the state of my nerves, I absolutely believed she lied; and if I once more closed my eyes it was before the dazzle of the three or four possible ways in which I might take this up. One of these, for a moment, tempted me with such singular intensity that, to withstand it, I must have gripped my little girl with a spasm that, wonderfully, she submitted to without a cry or a sign of fright. Why not break out at her on the spot and have it all over?—give it to her straight in her lovely little <seg ana='vision-physical'>lighted</seg> face? <said who='governess' aloud='true' toWhom='flora'>“You see, you see, you <emph rend='italics'>know</emph> that you do and that you already quite suspect I believe it; therefore, why not frankly confess it to me, so that we may at least live with it together and learn perhaps, in the strangeness of our fate, where we are and what it means?” </said> This solicitation dropped, alas, as it came: if I could immediately have succumbed to it I might have spared myself—well, you’ll see what. Instead of succumbing I sprang again to my feet, looked at her bed, and took a helpless middle way.
+</div>
+<div type='paragraph' n='15'><said who='governess' aloud='true' toWhom='flora'>“Why did you pull the curtain over the place to make me think you were still there?”</said>
+</div>
+<div type='paragraph' n='16'>Flora <seg ana='vision-figurative'>luminously considered</seg>; after which, with her little divine smile: <said who='flora' aloud='true' toWhom='governess'>“Because I don’t like to frighten you!”</said>
+</div>
+	<div type='paragraph' n='17'><said who='governess' aloud='true' toWhom='flora'>“But if I had, by your idea, gone out—?”</said>
+</div>
+<div type='paragraph' n='18'>She absolutely declined to be puzzled; she <seg ana='vision-physical'>turned her eyes</seg> to the <seg ana='fire'>flame of the candle</seg> as if the question were as irrelevant, or at any rate as impersonal, as Mrs. Marcet or nine-times-nine. <said who='flora' aloud='true' toWhom='governess'>“Oh, but you know,”</said> she quite adequately answered, <said who='flora' aloud='true' toWhom='governess'>“that you might come back, you dear, and that you <emph rend='italics'>have!</emph>”</said> And after a little, when she had got into bed, I had, for a long time, by almost sitting on her to hold her hand, to provethat I recognized the pertinence of my return. 
+</div>
+<div type='paragraph' n='19'You may imagine the general complexion, from that moment, of my nights. I <seg ana='repetition'>repeatedly</seg> sat up till I didn’t know when; I selected moments when my roommate unmistakably slept, and, stealing out, took noiseless turns in the passage and even pushed as far as to where I had last met Quint.
+</div>
+<div type='paragraph' n='20'>But I never met him there again; and I may as well say at once that I on no other occasion saw him in the house. I just missed, on the staircase, on the other hand, a different adventure. Looking down it from the top I once recognized the presence of a woman seated on one of the lower steps with her back presented to me, her body half-bowed and her head, in an attitude of woe, in her hands. I had been there but an instant, however, when she vanished without looking round at me. I knew, nonetheless, exactly what dreadful face she had to show; and I wondered whether, if instead of being above I had been below, I should have had, for going up, the same nerve I had lately shown Quint. Well, there continued to be plenty of chance for nerve. On the eleventh night after my latest encounter with that gentleman—they were all numbered now—I had an alarm that perilously skirted it and that indeed, from the particular quality of its unexpectedness, proved quite my sharpest shock. It was precisely the first night during this series that, weary with watching, I had felt that I might again without laxity lay myself down at my old hour. I slept immediately and, as I afterward knew, till about one o’clock; but when I woke it was to sit straight up, as completely roused as if a hand had shook me. I had left a light burning, but it was now out, and I felt an instant certainty that Flora had extinguished it. This brought me to my feet and straight, in the darkness, to her bed, which I found she had left. A glance at the window enlightened me further, and the striking of a match completed the picture.
+</div>
+<div type='paragraph' n='21'>The child had again got up—this time blowing out the taper, and had again, for some purpose of observation or response, squeezed in behind the blind and was peering out into the night. That she now saw—as she had not, I had satisfied myself, the previous time—was proved to me by the fact that she was disturbed neither by my reillumination nor by the haste I made to get into slippers and into a wrap. Hidden, protected, absorbed, she evidently rested on the sill—the casement opened forward—and gave herself up. There was a great still moon to help her, and this fact had counted in my quick decision. She was face to face with the apparition we had met at the lake, and could now communicate with it as she had not then been able to do. What I, on my side, had to care for was, without disturbing her, to reach, from the corridor, some other window in the same quarter. I got to the door without her hearing me; I got out of it, closed it, and listened, from the other side, for some sound from her. While I stood in the passage I had my eyes on her brother’s door, which was but ten steps off and which, indescribably, produced in me a renewal of the strange impulse that I lately spoke of as my temptation. What if I should go straight in and march to <emph rend='italics'>his</emph> window?—what if, by risking to his boyish bewilderment a revelation of my motive, I should throw across the rest of the mystery the long halter of my boldness?
+</div>
+	<div type='paragraph' n='22'>This thought held me sufficiently to make me cross to his threshold and pause again. I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch. It was a deep, soundless minute, at the end of which my impulse failed. He was quiet; he might be innocent; the risk was hideous; I turned away. There was a figure in the grounds—a figure prowling for a sight, the visitor with whom Flora was engaged; but it was not the visitor most concerned with my boy. I hesitated afresh, but on other grounds and only for a few seconds; then I had made my choice.
+	</div>
+	<div type='paragraph' n='23'>There were empty rooms at Bly, and it was only a question of choosing the right one. The right one suddenly presented itself to me as the lower one—though high above the gardens—in the solid corner of the house that I have spoken of as the old tower. This was a large, square chamber, arranged with some state as a bedroom, the extravagant size of which made it so inconvenient that it had not for years, though kept by Mrs. Grose in exemplary order, been occupied. I had often admired it and I knew my way about in it; I had only, after just faltering at the first chill gloom of its disuse, to pass across it and unbolt as quietly as I could one of the shutters. Achieving this transit, I uncovered the glass without a sound and, applying my face to the pane, was able, the darkness without being much less than within, to see that I commanded the right direction. Then I saw something more. The moon made the night extraordinarily penetrable and showed me on the lawn a person, diminished by distance, who stood there motionless and as if
+	fascinated, looking up to where I had appeared—looking, that is, not so much straight at me as at something that was apparently above me. There was clearly another person above me—there was a person on the tower; but the presence on the lawn was not in the least what I had conceived and had confidently hurried to meet. The presence on the lawn—I felt sick as I made it out—was poor little Miles himself.
+</div>
+</div>
+<div type='chapter' n='11'>
+<div type='paragraph' n='1'>
+	It was not till late next day that I spoke to Mrs. Grose; the rigor
+	with which I kept my pupils in sight making it often difficult to meet
+	her privately, and the more as we each felt the importance of not
+	provoking—on the part of the servants quite as much as on that of the
+	children—any suspicion of a secret flurry or that of a discussion of
+	mysteries. I drew a great security in this particular from her mere
+	smooth aspect. There was nothing in her fresh face to pass on to others
+	my horrible confidences. She believed me, I was sure, absolutely: if
+	she hadn’t I don’t know what would have become of me, for I couldn’t
+	have borne the business alone. But she was a magnificent monument to
+	the blessing of a want of imagination, and if she could see in our
+	little charges nothing but their beauty and amiability, their happiness
+	and cleverness, she had no direct communication with the sources of my
+	trouble. If they had been at all visibly blighted or battered, she
+	would doubtless have grown, on tracing it back, haggard enough to match
+	them; as matters stood, however, I could feel her, when she surveyed
+	them, with her large white arms folded and the habit of serenity in all
+	her look, thank the Lord’s mercy that if they were ruined the pieces
+	would still serve. Flights of fancy gave place, in her mind, to a
+	steady fireside glow, and I had already begun to perceive how, with the
+	development of the conviction that—as time went on without a public
+	accident—our young things could, after all, look out for themselves,
+	she addressed her greatest solicitude to the sad case presented by
+	their instructress. That, for myself, was a sound simplification: I
+	could engage that, to the world, my face should tell no tales, but it
+	would have been, in the conditions, an immense added strain to find
+	myself anxious about hers.
+	At the hour I now speak of she had joined me, under pressure, on the
+	terrace, where, with the lapse of the season, the afternoon sun was now
+	agreeable; and we sat there together while, before us, at a distance,
+	but within call if we wished, the children strolled to and fro in one
+	of their most manageable moods. They moved slowly, in unison, below us,
+	over the lawn, the boy, as they went, reading aloud from a storybook
+	and passing his arm round his sister to keep her quite in touch. Mrs.
+	Grose watched them with positive placidity; then I caught the
+	suppressed intellectual creak with which she conscientiously turned to
+	take from me a view of the back of the tapestry. I had made her a
+	receptacle of lurid things, but there was an odd recognition of my
+	superiority—my accomplishments and my function—in her patience under my
+	pain. She offered her mind to my disclosures as, had I wished to mix a
+	witch’s broth and proposed it with assurance, she would have held out a
+	large clean saucepan. This had become thoroughly her attitude by the
+	time that, in my recital of the events of the night, I reached the
+	point of what Miles had said to me when, after seeing him, at such a
+	monstrous hour, almost on the very spot where he happened now to be, I
+	had gone down to bring him in; choosing then, at the window, with a
+	concentrated need of not alarming the house, rather that method than a
+	signal more resonant. I had left her meanwhile in little doubt of my
+	small hope of representing with success even to her actual sympathy my
+	sense of the real splendor of the little inspiration with which, after
+	I had got him into the house, the boy met my final articulate
+	challenge. As soon as I appeared in the moonlight on the terrace, he
+	had come to me as straight as possible; on which I had taken his hand
+	without a word and led him, through the dark spaces, up the staircase
+	where Quint had so hungrily hovered for him, along the lobby where I
+	had listened and trembled, and so to his forsaken room.
+	Not a sound, on the way, had passed between us, and I had wondered—oh,
+	_how_ I had wondered!—if he were groping about in his little mind for
+	something plausible and not too grotesque. It would tax his invention,
+	certainly, and I felt, this time, over his real embarrassment, a
+	curious thrill of triumph. It was a sharp trap for the inscrutable! He
+	couldn’t play any longer at innocence; so how the deuce would he get
+	out of it? There beat in me indeed, with the passionate throb of this
+	question an equal dumb appeal as to how the deuce _I_ should. I was
+	confronted at last, as never yet, with all the risk attached even now
+	to sounding my own horrid note. I remember in fact that as we pushed
+	into his little chamber, where the bed had not been slept in at all and
+	the window, uncovered to the moonlight, made the place so clear that
+	there was no need of striking a match—I remember how I suddenly
+	dropped, sank upon the edge of the bed from the force of the idea that
+	he must know how he really, as they say, “had” me. He could do what he
+	liked, with all his cleverness to help him, so long as I should
+	continue to defer to the old tradition of the criminality of those
+	caretakers of the young who minister to superstitions and fears. He
+	“had” me indeed, and in a cleft stick; for who would ever absolve me,
+	who would consent that I should go unhung, if, by the faintest tremor
+	of an overture, I were the first to introduce into our perfect
+	intercourse an element so dire? No, no: it was useless to attempt to
+	convey to Mrs. Grose, just as it is scarcely less so to attempt to
+	suggest here, how, in our short, stiff brush in the dark, he fairly
+	shook me with admiration. I was of course thoroughly kind and merciful;
+	never, never yet had I placed on his little shoulders hands of such
+	tenderness as those with which, while I rested against the bed, I held
+	him there well under fire. I had no alternative but, in form at least,
+	to put it to him.
+	“You must tell me now—and all the truth. What did you go out for? What
+	were you doing there?”
+	I can still see his wonderful smile, the whites of his beautiful eyes,
+	and the uncovering of his little teeth shine to me in the dusk. “If I
+	tell you why, will you understand?” My heart, at this, leaped into my
+	mouth. _Would_ he tell me why? I found no sound on my lips to press it,
+	and I was aware of replying only with a vague, repeated, grimacing nod.
+	He was gentleness itself, and while I wagged my head at him he stood
+	there more than ever a little fairy prince. It was his brightness
+	indeed that gave me a respite. Would it be so great if he were really
+	going to tell me? “Well,” he said at last, “just exactly in order that
+	you should do this.”
+	“Do what?”
+	“Think me—for a change—_bad!_” I shall never forget the sweetness and
+	gaiety with which he brought out the word, nor how, on top of it, he
+	bent forward and kissed me. It was practically the end of everything. I
+	met his kiss and I had to make, while I folded him for a minute in my
+	arms, the most stupendous effort not to cry. He had given exactly the
+	account of himself that permitted least of my going behind it, and it
+	was only with the effect of confirming my acceptance of it that, as I
+	presently glanced about the room, I could say—
+	“Then you didn’t undress at all?”
+	He fairly glittered in the gloom. “Not at all. I sat up and read.”
+	“And when did you go down?”
+	“At midnight. When I’m bad I _am_ bad!”
+	“I see, I see—it’s charming. But how could you be sure I would know
+	it?”
+	“Oh, I arranged that with Flora.” His answers rang out with a
+	readiness! “She was to get up and look out.”
+	“Which is what she did do.” It was I who fell into the trap!
+	“So she disturbed you, and, to see what she was looking at, you also
+	looked—you saw.”
+	“While you,” I concurred, “caught your death in the night air!”
+	He literally bloomed so from this exploit that he could afford
+	radiantly to assent. “How otherwise should I have been bad enough?” he
+	asked. Then, after another embrace, the incident and our interview
+	closed on my recognition of all the reserves of goodness that, for his
+	joke, he had been able to draw upon.
 </div>
           </body>
         </text>
