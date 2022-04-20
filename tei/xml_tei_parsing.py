@@ -4,14 +4,17 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import collections
 
-lww_xml = r"tei\hj_tots_tei.xml"
+tots_xml = r"tei\hj_tots_tei.xml"
 
-tree = lxml.etree.parse(lww_xml)
-print(tree.getroot().find('.//{http://www.tei-c.org/ns/1.0}title').text)
-print(tree.getroot().find('title'))
+tree = lxml.etree.parse(tots_xml)
+#print(tree.getroot().find('.//{http://www.tei-c.org/ns/1.0}title').text)
+#print(tree.getroot().find('title'))
 
 NSMAP = {'tei': 'http://www.tei-c.org/ns/1.0'}
-print(tree.getroot().find('.//tei:title', namespaces=NSMAP).text)
+#print(tree.getroot().find('.//tei:title', namespaces=NSMAP).text)
+for chapter in tree.iterfind('.//tei:div[@type="chapter"]', NSMAP):
+    tag = chapter.findall('.//tei:<seg ana>', NSMAP)
+    print(len(tag))
 
 def character_network(tree):
     G = nx.Graph()
@@ -19,25 +22,27 @@ def character_network(tree):
         speakers = chapter.findall('.//tei:said', NSMAP)
         print(len(speakers))
         for i in range(len(speakers) - 1):
-                try:
-                    speaker_i = speakers[i].attrib['who']
-                    speaker_j = speakers[i + 1].attrib['toWhom']
-                    if G.has_edge(speaker_i, speaker_j):
-                        G[speaker_i][speaker_j]['weight'] += 1
-                    else:
-                        G.add_edge(speaker_i, speaker_j, weight=1)
-                except KeyError:
-                    continue
+            try:
+                speaker_i = speakers[i].attrib['who']
+                speaker_j = speakers[i + 1].attrib['toWhom']
+                if G.has_edge(speaker_i, speaker_j):
+                    G[speaker_i][speaker_j]['weight'] += 1
+                else:
+                    G.add_edge(speaker_i, speaker_j, weight=1)
+            except KeyError:
+                continue
     return G
 
-G = character_network(tree.getroot())
-print(f"Number of nodes = {G.number_of_nodes()}, Number of Edges = {G.number_of_edges()}")
-print(G.edges())
+#G = character_network(tree.getroot())
+#print(f"Number of nodes = {G.number_of_nodes()}, Number of Edges = {G.number_of_edges()}")
+#print(G.edges())
 interactions = collections.Counter()
 for speaker_i, speaker_j, data in G.edges(data=True):
     interaction_count = data['weight']
     interactions[speaker_i] += interaction_count
     interactions[speaker_j] += interaction_count
+
+#print(interactions)
 
 nodesizes = [interactions[speaker] * 5 for speaker in G]
 
