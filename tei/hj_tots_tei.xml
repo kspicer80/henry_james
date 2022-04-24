@@ -843,7 +843,7 @@
 					<said who='mrsgrose' aloud='true' toWhom='governess'>“Yes indeed, miss, thank God!”</said>
 				</div>
 				<div type='paragraph' n='22'>On reflection I accepted this.
-					<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana="interruptions"“You mean that a boy
+					<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana="interruptions">You mean that a boy
 						who never is—?”
 					</seg>
 				</said>
@@ -1167,7 +1167,7 @@
 					<author>Charlotte Bronte</author>
 					<title><emph rend="italics">Jane Eyre</emph></title>
 					an insane, an unmentionable relative kept in unsuspected confinement?
-				</bibl>
+				</bibl></seg>
 				I can’t say how long I turned it over, or how long, in a confusion of curiosity and dread, I remained where I had had my collision; I only
 				recall that when I re-entered the house darkness had quite closed in. Agitation, in the interval,
 				certainly had held me and driven me, for I must, in circling about the place, have walked three
@@ -1256,7 +1256,7 @@
 				room had sufficed; my vision was instantaneous; it was all there.</seg> <seg ana="vision">The person looking straight in was
 				the person who had already appeared to me. He appeared thus again with I won’t say greater
 				distinctness, for that was impossible, but with a nearness that represented a forward stride in our
-				intercourse and made me, as I met him, catch my breath and turn cold.</seg> <seg ana="vision-physical>"He was the same—he was the
+				intercourse and made me, as I met him, catch my breath and turn cold.</seg> <seg ana="vision-physical">He was the same—he was the
 				same, and seen, this time, as he had been seen before, from the waist up, the window, though the
 				dining room was on the ground floor, not going down to the terrace on which he stood.</seg> <seg ana="vision-physical">His face was
 				close to the glass, yet the effect of this better view was, strangely, only to show me how intense
@@ -1282,7 +1282,7 @@
 				assurance I felt that none of them concealed him. He was there or was not there: not there if I
 				didn’t see him. I got hold of this; then, instinctively, instead of returning as I had come, went to
 				the window. It was confusedly present to me that I ought to place myself where he had stood. I did
-				so; <seg ana="vision-physical>"I applied my face to the pane and looked, as he had looked,</seg> into the room. As if, at this
+				so; <seg ana="vision-physical">I applied my face to the pane and looked, as he had looked,</seg> into the room. As if, at this
 				moment, to show me exactly what his range had been, Mrs. Grose, as I had done for himself just
 				before, came in from the hall. <seg ana="vision-figurative">With this I had the full image</seg> of a <seg ana="repetition">repetition of what had already
 				occurred.</seg> <seg ana="vision-physical">She saw me as I had seen my own visitant;</seg> she pulled up short as I had done; I gave her
@@ -1295,7 +1295,7 @@
 		</div>
 		<div type='chapter' n='5'>
 			<div type='paragraph' n='1'>Oh, she let me know as soon as, round the corner of the house, <seg ana="vision-physical">she loomed
-				again into view.</seg
+				again into view.</seg>
 				<said who='mrsgrose' aloud='true' toWhom='governess'><seg ana="interruptions">“What in the name of goodness is the
 					matter—?”</seg>
 				</said>
@@ -1481,7 +1481,7 @@
 				</said>
 			</div>
 			<div type='paragraph' n='59'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition>'“Neither could I!”</seg></said>
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“Neither could I!”</seg></said>
 				I laughed again.
 				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“But I did come.</seg> I have my duty.”</said>
 			</div>
@@ -1641,18 +1641,16 @@
 					</said>
 				</div>
 				<div type='paragraph' n='15'>
-					<said who='governess' aloud='false' toWhom='mrsgrose'>“The circumstances of his death?”</said>
-					I thought with some intensity.
+					<said who='governess' aloud='false' toWhom='mrsgrose'>“The circumstances of his death?”</said>	I thought with some intensity.
 				</div>
 				<div type='paragraph' n='16'>
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“Perhaps not. But Miles would
-						remember—Miles would know.”
+					<said who='mrsgrose' aloud='true' toWhom='governess'>“Perhaps not. But Miles would remember—Miles would know.”
 					</said>
 				</div>
 				<div type='paragraph' n='17'>
 					<said who='mrsgrose' aloud='true' toWhom='governess'>“Ah, don’t try him!”</said> broke from Mrs. Grose.
 				</div>
-				<div type='paragraph' n='18'>I returned her the look she had given me. <said who='governess' aloud='true' toWhom='mrsgrose'>
+				<div type='paragraph' n='18'><seg ana='vision-physical'>I returned her the look she had given me.</seg> <said who='governess' aloud='true' toWhom='mrsgrose'>
 					“Don’t be afraid.”
 				</said> I continued to think.
 					<said who='governess' aloud='true' toWhom='mrsgrose'>“It <emph rend='italics'>is</emph> rather
@@ -1663,8 +1661,7 @@
 					<said who='mrsgrose' aloud='true' toWhom='governess'>“That he has never spoken of him?”</said>
 				</div>
 				<div type='paragraph' n='20'>
-					<said who='governess' aloud='true' toWhom='mrsgrose'>“Never by the least allusion. And you tell
-						me they were ‘great friends’?”
+					<said who='governess' aloud='true' toWhom='mrsgrose'>“Never by the least allusion. And you tell me they were ‘great friends’?”
 					</said>
 				</div>
 				<div type='paragraph' n='21'>
@@ -1676,8 +1673,8 @@
 				</said> She paused a moment; then she added:
 					<said who='mrsgrose' aloud='true' toWhom='governess'>“Quint was much too free.”</said>
 				</div>
-				<div type='paragraph' n='22'>This gave me, straight from my <seg ana='vision'>vision</seg> of his
-					face—<emph rend='italics'>such</emph> a face!—a sudden sickness of disgust.
+				<div type='paragraph' n='22'>This gave me, straight from my <seg ana='vision'>vision of his
+					face—<emph rend='italics'>such</emph> a face!</seg>—a sudden sickness of disgust.
 					<said who='governess' aloud='true' toWhom='mrsgrose'>“Too free with <emph rend='italics'>my
 					</emph> boy?”
 					</said>
@@ -1685,16 +1682,8 @@
 				<div type='paragraph' n='23'>
 					<said who='mrsgrose' aloud='true' toWhom='governess'>“Too free with everyone!”</said>
 				</div>
-				<div type='paragraph' n='24'>I forbore, for the moment, to analyze this description further than by
-					the reflection that a part of it applied to several of the members of the household, of the
-					half-dozen maids and men who were still of our small colony. But there was everything, for our
-					apprehension, in the lucky fact that no discomfortable legend, no perturbation scullions, had
-					ever, within anyone’s memory attached to the kind old place. It had neither bad name nor ill
-					fame, and Mrs. Grose, most apparently, only desired to cling to me and to quake in silence. I
-					even put her, the very last thing of all, to the test. It was when, at midnight, she had her
-					hand on the schoolroom door to take leave.
-					<said who='governess' aloud='true' toWhom='mrsgrose'>“I have it from you then—for it’s of great
-						importance—that he was definitely and admittedlybad?”
+				<div type='paragraph' n='24'>I forbore, for the moment, to analyze this description further than by the reflection that a part of it applied to several of the members of the household, of the half-dozen maids and men who were still of our small colony. But there was everything, for our apprehension, in the lucky fact that no discomfortable legend, no perturbation scullions, had ever, within anyone’s memory attached to the kind old place. It had neither bad name nor ill fame, and Mrs. Grose, most apparently, <seg ana='touch-figurative'>only desired to cling to me</seg> and to quake in silence. I even put her, the very last thing of all, to the test. It was when, at midnight, she had her hand on the schoolroom door to take leave.
+					<said who='governess' aloud='true' toWhom='mrsgrose'>“I have it from you then—for it’s of great importance—that he was definitely and admittedly bad?”
 					</said>
 				</div>
 				<div type='paragraph' n='25'>
@@ -1708,31 +1697,27 @@
 					<said who='governess' aloud='true' toWhom='mrsgrose'>“And you never told him?”</said>
 				</div>
 				<div type='paragraph' n='27'>
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“Well, he didn’t like tale-bearing—he hated
-						complaints. He was terribly short with anything of that kind, and if people were all right
-						to <emph rend='italics'>him</emph>—”
+					<said who='mrsgrose' aloud='true' toWhom='governess'>“Well, he didn’t like tale-bearing—he hated complaints. He was terribly short with anything of that kind, and if people were all right to <emph rend='italics'>him</emph>—”
 					</said>
 				</div>
 				<div type='paragraph' n='28'>
 					<said who='governess' aloud='true' toWhom='mrsgrose'>“He wouldn’t be bothered with more?”</said>
 					This squared well enough with my impressions of him: he was not a trouble-loving gentleman, nor
-					so very particular perhaps about some of the company _he_ kept. All the same, I pressed my
-					interlocutress.
+					so very particular perhaps about some of the company <emph rend='italics'>he</emph> kept. All the same, <seg ana='touch-figurative'>I pressed my
+					interlocutress.</seg>
 					<said who='governess' aloud='true' toWhom='mrsgrose'>“I promise you <emph rend='italics'>I
 					</emph> would have told!”
 					</said>
 				</div>
 				<div type='paragraph' n='29'>She felt my discrimination.
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“I daresay I was wrong. But, really, I was
-						afraid.”
+					<said who='mrsgrose' aloud='true' toWhom='governess'>“I daresay I was wrong. But, really, I was afraid.”
 					</said>
 				</div>
 				<div type='paragraph' n='30'>
-					<said who='governess' aloud='true' toWhom='mrsgrose'>“Afraid of what?”</said>
+					<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“Afraid</seg> of what?”</said>
 				</div>
 				<div type='paragraph' n='31'>
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“Of things that man could do. Quint was so
-						clever—he was so deep.”
+					<said who='mrsgrose' aloud='true' toWhom='governess'>“Of things that man could do. Quint was so clever—he was so deep.”
 					</said>
 				</div>
 				<div type='paragraph' n='32'>I took this in still more than, probably, I showed.
@@ -1741,12 +1726,11 @@
 					</said>
 				</div>
 				<div type='paragraph' n='33'>
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“His effect?”</said>
-					she <seg ana='repetition'>repeated</seg> with a face of anguish and waiting while I faltered.
+					<said who='mrsgrose' aloud='true' toWhom='governess'>“<seg ana='repetition'>His effect?”</seg></said>
+					she <seg ana='repetition'>repeated</seg> <seg ana='vision-physical'>with a face of anguish</seg> and waiting while I faltered.
 				</div>
 				<div type='paragraph' n='34'>
-					<said who='governess' aloud='true' toWhom='mrsgrose'>“On innocent little precious lives. They
-						were in your charge.”
+					<said who='governess' aloud='true' toWhom='mrsgrose'>“On innocent little precious lives. They were in your charge.”
 					</said>
 				</div>
 				<div type='paragraph' n='35'>
@@ -1754,13 +1738,10 @@
 					she roundly and distressfully returned.
 				</div>
 				<div type='paragraph' n='36'>
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“The master believed in him and placed him
-						here because he was supposed not to be well and the country air so good for him. So he had
-						everything to say. Yes”</said>—she let me have it—
-					<said who='mrsgrose' aloud='true' toWhom='governess'>“even about _them_.”</said>
+					<said who='mrsgrose' aloud='true' toWhom='governess'>“The master believed in him and placed him here because he was supposed not to be well and the country air so good for him. So he had everything to say. Yes”</said>—she let me have it—<said who='mrsgrose' aloud='true' toWhom='governess'>“even about <emph rend='italics'>them</emph>.”</said>
 				</div>
 				<div type='paragraph' n='37'>
-					<said who='governess' aloud='true' toWhom='mrsgrose'>“Them—that creature?”</said>
+					<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“Them</seg>—that creature?”</said>
 					I had to smother a kind of howl.
 					<said who='governess' aloud='true' toWhom='mrsgrose'>“And you could bear it!”</said>
 				</div>
@@ -1768,61 +1749,33 @@
 					<said who='mrsgrose' aloud='true' toWhom='governess'>“No. I couldn’t—and I can’t now!”</said>
 					And the poor woman burst into tears.
 				</div>
-				<div type='paragraph' n='39'>A rigid control, from the next day, was, as I have said, to follow
-					them; yet how often and how passionately, for a week, we came back together to the subject! Much
-					as we had discussed it that Sunday night, I was, in the immediate later hours in especial—for it
-					may be imagined whether I slept—still haunted with the shadow of something she had not told me.
-					I myself had kept back nothing, but there was a word Mrs. Grose had kept back. I was sure,
-					moreover, by morning, that this was not from a failure of frankness, but because on every side
-					there were fears. It seems to me indeed, in retrospect, that by the time the morrow’s sun was
-					high I had restlessly read into the fact before usalmost all the meaning they were to receive
-					from subsequent and morecruel occurrences. What they gave me above all was just the
-					sinisterfigure of the living man—the dead one would keep awhile!—and of the months he had
-					continuously passed at Bly, which, added up, made a formidable stretch. The limit of this evil
-					time had arrived only when, on the dawn of a winter’s morning, Peter Quint was found, by a
-					laborer going to early work, stone dead on the road from the village: a catastrophe
-					explained—superficially at least—by a visible wound to his head; such a wound as might have been
-					produced—and as, on the finalevidence, <emph rend='italics'>had</emph> been—by a fatal slip, in
-					the dark and after leaving the public house, on the steepish icy slope, a wrong path altogether,
-					at the bottom of which he lay. The icy slope, the turn mistaken at night and in liquor,
-					accounted for much—practically, in the end and after the inquest and boundless chatter, for
-					everything; but there had been matters in his life—strange passages and perils, secret
-					disorders, vices more than suspected—that would have accounted for a good deal more.
+				<div type='paragraph' n='39'>A rigid control, from the next day, was, as I have said, to follow them; yet how often and how passionately, for a week, we came back together to the subject! Much as we had discussed it that Sunday night, I was, in the immediate later hours in especial—for it may be imagined whether I slept—still haunted with the shadow of something she had not told me. <seg ana='delay-hesitation'>I myself had kept back nothing, but there was a word Mrs. Grose had kept back.</seg> I was sure, moreover, by morning, that this was not from a failure of frankness, but because on every side there were fears. It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly <seg ana='reading-figurative'>read into the fact before us almost all the meaning they were to receive from subsequent and morecruel occurrences.</seg> What they gave me above all was just the sinister figure of the living man—the dead one would keep awhile!—and of the months he had continuously passed at Bly, which, added up, made a formidable stretch. The limit of this evil time had arrived only when, on the dawn of a winter’s morning, Peter Quint was found, by a laborer going to early work, stone dead on the road from the village: a catastrophe explained—superficially at least—by a visible wound to his head; such a wound as might have been produced—and as, on the final evidence, <emph rend='italics'>had</emph> been—by a fatal slip, in the dark and after leaving the public house, on the steepish icy slope, a wrong path altogether, at the bottom of which he lay. The icy slope, the turn mistaken at night and in liquor, accounted for much—practically, in the end and after the inquest and boundless chatter, for everything; but there had been matters in his life—strange passages and perils, secret disorders, vices more than suspected—that would have accounted for a good deal more.
 				</div>
-				<div type='paragraph' n='40'>I scarce know how to put my story into words that shall be a credible
-					picture of my state of mind; but I was in these days literally able to find a joy in the
-					extraordinary flight of heroism the occasion demanded of me. I now saw that I had been asked for
-					a service admirable and difficult; and there would be a greatness in letting it be seen—oh, in
-					the right quarter!—that I could succeed where many another girl might have failed. It was an
-					immense help to me—I confess I rather applaud myself as I look back!—that I saw my service so
-					strongly and so simply. I was there to protect and defend the little creatures in the world the
-					most bereaved and the most lovable, the appeal of whose helplessness had suddenly become only
-					too explicit, a deep, constant ache of one’s own committed heart. We were cut off, really,
-					together; we were united in our danger. They had nothing but me, and I—well, I had <emph
-							rend='italics'>them</emph>. It was in short a magnificent chance. This chance presented
-					itself to me in an image richly material. I was a screen—I was to stand before them. The more I
-					saw, the less they would. I began to watch them in a stifled suspense, a disguised excitement
-					that might well, had it continued too long, have turned to something like madness. What saved
-					me, as I now see, was that it turned to something else altogether. It didn’t last as suspense—it
-					was superseded by horrible proofs. Proofs, I say, yes—from the moment I really took hold.
+				<div type='paragraph' n='40'>I scarce know how to put my story into words that shall be a credible picture of my state of mind; but I was in these days literally able to find a joy in the extraordinary flight of heroism the occasion demanded of me. <seg ana='vision-figurative'>I now saw that I had been asked for a service admirable and difficult; and there would be a greatness in letting it be seen</seg>—oh, in the right quarter!—that I could succeed where many another girl might have failed. It was an immense help to me—I confess I rather applaud myself as I look back!—<seg ana='vision-figurative'>that I saw my service so strongly and so simply.</seg> I was there to protect and defend the little creatures in the world the most bereaved and the most lovable, the appeal of whose helplessness had suddenly become only too explicit, a deep, constant ache of one’s own committed heart. We were cut off, really, together; we were united in our danger. They had nothing but me, and I—well, I had <emph rend='italics'>them</emph>. It was in short a magnificent chance. This chance presented itself to me in an image richly material. I was a screen—I was to stand before them. <seg ana='vision-physical vision-figurative>The more I saw, the less they would.</seg> <seg ana='vision-physical'>I began to watch them in a stifled suspense, a disguised excitement that might well, had it continued too long, have turned to something like madness.</seg> What saved me, <seg ana='vision-figurative'>as I now see,</seg> was that it turned to something else altogether. It didn’t last as suspense—it was superseded by horrible proofs. Proofs, I say, yes—<seg ana='touch-figurative'>from the moment I really took hold.</seg>
 				</div>
-				<div type='paragraph' n='41'>This moment dated from an afternoon hour that I happened to spend the
-					grounds with the younger of my pupils alone. We had left Mi indoors, on the red cushion of a
-					deep window seat; he had wished finish a book, and I had been glad to encourage a purpose so
-					lauda in a young man whose only defect was an occasional excess of restless. His sister, on the
-					contrary, had been alert to come out, and I strolled with her half an hour, seeking the shade,
-					for the sun was still high and the day exceptionally warm. I was aware afresh, with her, as we
-					went, of how, like her brother, she contrived—it was the charming thing in both children—to let
-					me alone without appearing to drop me and to accompany me without appearing to surround. They
-					were never importunate and yet never listless. My attention to them all really went to seeing
-					them amuse themselves immensely without me this was a spectacle they seemed actively to prepare
-					and that engaged me as an active admirer. I walked in a world of their invention—they had no
-					occasion whatever to draw upon mine; so that my time was taken only with being, for them, some
-					remarkable person or thing that the game of the moment required and that was merely, thanks to
-					my superior, myexalted stamp, a happy and highly distinguished sinecure. I forget what I was on
-					the present occasion; I only remember that I was something very important and very quiet and
-					that Flora was playing very hard. We were on the edge of the lake, and, as we had lately begun
-					geography, the lake was the Sea of Azof.
+				<div type='paragraph' n='41'>This moment dated from an afternoon hour that I happened to spend in
+				the grounds with the younger of my pupils alone. We had left Miles
+				indoors, on the red cushion of a deep window seat; <seg ana='reading books'>he had wished to
+				finish a book,</seg> and I had been glad to encourage a purpose so laudable
+				in a young man whose only defect was an occasional excess of the
+				restless. His sister, on the contrary, had been alert to come out, and
+				I strolled with her half an hour, seeking the shade, for the sun was
+				still high and the day exceptionally warm. I was aware afresh, with
+				her, as we went, of how, like her brother, she contrived—it was the
+				charming thing in both children—to let me alone without appearing to
+				drop me and to accompany me without appearing to surround. They were
+				never importunate and yet never listless. My attention to them all
+				really went to seeing them amuse themselves immensely without me: this
+				was a spectacle they seemed actively to prepare and that engaged me as
+				an active admirer. <seg ana='imaginative play'>I walked in a world of their invention—they had no
+				occasion whatever to draw upon mine; so that my time was taken only
+				with being, for them, some remarkable person or thing that the game of
+				the moment required and that was merely, thanks to my superior, my
+				exalted stamp, a happy and highly distinguished sinecure. I forget what
+				I was on the present occasion; I only remember that I was something
+				very important and very quiet and that Flora was playing very hard. We
+				were on the edge of the lake, and, as we had lately begun geography,
+				the lake was the Sea of Azof.</seg>
 				</div>
 				<div type='paragraph' n='42'>Suddenly, in these circumstances, I became aware that, on the other
 					side of the Sea of Azof, we had an interested spectator. The way this knowledge gathered in me
@@ -1835,8 +1788,8 @@
 				<div type='paragraph' n='43'>The old trees, the thick shrubbery, made a great and pleasant shade,
 					but it was all suffused with the brightness of the hot, still hour. There was no ambiguity in
 					anything; none whatever, at least, in the conviction I from one moment to another found myself
-					forming as to what I should see straight before me and across the lake as a consequence of
-					raising my eyes. They were attached at this juncture to the stitching in which I was engaged,
+					forming as to <seg ana='vision-physical'>what I should see straight before me and across the lake as a consequence of
+					raising my eyes.</seg> They were attached at this juncture to the stitching in which I was engaged,
 					and I can feel once more the spasm of my effort not to move them till I should so have steadied
 					myself as to be able to make up my mind what to do. There was an alien object in view—a figure
 					whose right of presence I instantly, passionately questioned. I recollect counting over
@@ -1849,54 +1802,54 @@
 				</div>
 				<div type='paragraph' n='44'>Of the positive identity of the apparition I would assure myself as
 					soon as the small clock of my courage should have ticked out the right second; meanwhile, with
-					an effort that was already sharp enough, I transferred my eyes straight to little Flora, who, at
+					an effort that was already sharp enough, <seg ana='vision-physical'>I transferred my eyes straight to little Flora,</seg> who, at
 					the moment, was about ten yards away. My heart had stood still for an instant with the wonder
-					and terror of the question whether she too would see; and I held my breath while I waited for
+					and terror of the question <seg ana='vision-physical'>whether she too would see;</seg> and I held my breath <seg ana='sound-physical'>while I waited for
 					what a cry from her, what some sudden innocent sign either of interest or of alarm, would tell
-					me. I waited, but nothing came; then, in the first place—and there is something more dire in
+					me.</seg> I waited, but nothing came; then, in the first place—and there is something more dire in
 					this, I feel, than in anything I have to relate—I was determined by a sense that, within a
-					minute, all sounds from her had previously dropped; and, in the second, by the circumstance
+					minute, <seg ana='sound-physical'>all sounds from her had previously dropped;</seg> and, in the second, by the circumstance
 					that, also within the minute, she had, in her play, turned her back to the water.
 				</div>
-				<div type='paragraph' n='45'>This was her attitude when I at last looked at her—looked with the
-					confirmed conviction that we were still, together, under direct personal notice. She had picked
+				<div type='paragraph' n='45'>This was her attitude <seg ana='vision-physical'>when I at last looked at her—looked with the
+					confirmed conviction that we were still, together, under direct personal notice.</seg>< She had picked
 					up a small flat piece of wood, which happened to have in it a little hole that had evidently
 					suggested to her the idea of sticking in another fragment that might figure as a mast and make
-					the thing a boat. This second morsel, as I watched her, she was very markedly and intently
+					the thing a boat. This second morsel, <seg ana='vision-physical'>as I watched her,</seg> she was very markedly and intently
 					attempting to tighten in its place.
 				</div>
 				<div type='paragraph' n='46'>My apprehension of what she was doing sustained me so that after some
-					seconds I felt I was ready for more. Then I again shifted my eyes—I faced what I had to face.
+					seconds I felt I was ready for more. <seg ana='vision-physical'>Then I again shifted my eyes—I faced what I had to face.</seg>
 				</div>
 			</div>
 			<div type='chapter' n='7'>I <seg ana='touch'>got hold of</seg> Mrs. Grose as soon after this as I could;
 				and I can give no intelligible account of how I fought out the interval. Yet I still hear myself cry
-				as I fairly threw myself into her arms:
+				<seg ana='touch-physical'>as I fairly threw myself into her arms:</seg>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“They <emph rend='italics'>know</emph>—it’s too
 					monstrous: they know, they know!”
 				</said>
 			</div>
 			<div type='paragraph' n='8'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“And what on earth—?” I felt her incredulity as
+				<said who='mrsgrose' aloud='true' toWhom='governess'><seg an='interruptions'>“And what on earth—?”</seg> I felt her incredulity as
 					<seg ana='touch'>she held me.</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='9'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Why, all that <emph rend='italics'>we</emph> know—and
-					heaven knows what else besides!”
+				<said who='governess' aloud='true' toWhom='mrsgrose'>“Why, all that <emph rend='italics'>we</emph> <seg ana='repetition'>know—and
+					heaven knows</seg> what else besides!”
 				</said>
 				Then, as <seg ana='touch'>she released me</seg>, I made it out to her, made it out perhaps only now
 				with full coherency even to myself. <said who='governess' aloud='true' toWhom='mrsgrose'>“Two hours
 				ago, in the garden”</said>—I could scarce articulate—
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Flora <emph rend='italics'>saw!</emph>”
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='vision-physical vision-figurative'>“Flora <emph rend='italics'>saw!</emph>”</seg>
 				</said>
 			</div>
-			<div type='paragraph' n='10'>Mrs. Grose took it as she might have taken a blow in the stomach.
+			<div type='paragraph' n='10'>Mrs. Grose took it <seg ana='touch-figurative'>as she might have taken a blow in the stomach.</seg>
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“She has told you?” she panted.</said>
 			</div>
 			<div type='paragraph' n='11'>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“Not a word—that’s the horror. She kept it to
-					herself! The child of eight, <emph rend='italics'>that</emph> child!”
+					herself! <seg ana='repetition'>The child of eight, <emph rend='italics'>that</emph> child!”</seg>
 				</said>
 				Unutterable still, for me, was the stupefaction of it.
 			</div>
@@ -1904,42 +1857,35 @@
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Then how do you know?”</said>
 			</div>
 			<div type='paragraph' n='13'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“I was there—I saw with my eyes: saw that she
-					was perfectly aware.”
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='vision-physical'>“I was there—I saw with my eyes: saw that she was perfectly aware.”</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='14'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“Do you mean aware of <emph rend='italics'>
-					him?</emph>”
+				<said who='mrsgrose' aloud='true' toWhom='governess'>“Do you mean <seg ana='repetition'>aware of</seg> <emph rend='italics'>him?</emph>”
 				</said>
 			</div>
 			<div type='paragraph' n='15'>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“No—of <emph rend='italics'>her</emph>.”
 				</said>
-				I was conscious as I spoke that I looked prodigious things, for I got the slow reflection of them in
-				my companion’s face.
+				I was conscious as I spoke that I <seg ana='vision-figurative'>looked prodigious things,</seg> for I got <seg ana='vision-physical'>the slow reflection of them in my companion’s face.</seg>
 			</div>
 			<div type='paragraph' n='16'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Another person—this time; but a figure of
-					quite as unmistakable horror and evil: a woman in black, pale and dreadful—with such an air
-					also, and such a face!—on the other side of the lake. I was there with the child—quiet for the
-					hour; and in the midst of it she came.”
+				<said who='governess' aloud='true' toWhom='mrsgrose'>“Another person—this time; but a figure of quite as unmistakable horror and evil: a woman in black, pale and dreadful—with such an air also, and such a face!—on the other side of the lake. I was there with the child—quiet for the hour; and in the midst of it she came.”
 				</said>
 			</div>
 			<div type='paragraph' n='17'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“Came how—from where?”</said>
+				<said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='repetition'>“Came</seg> how—from where?”</said>
 			</div>
 			<div type='paragraph' n='18'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“From where they come from! She just appeared
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“From where they come from!</seg> She just appeared
 					and stood there—but not so near.”
 				</said>
 			</div>
 			<div type='paragraph' n='19'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“And without coming nearer?”</said>
+				<said who='mrsgrose' aloud='true' toWhom='governess'>“And without coming <seg ana='repetition'>nearer?”</seg></said>
 			</div>
 			<div type='paragraph' n='20'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, for the effect and the feeling, she might
-					have been as close as you!”
+				<said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, for the effect and the feeling, she might have been as close as you!”
 				</said>
 			</div>
 			<div type='paragraph' n='21'>My friend, with an odd impulse, fell back a step.
@@ -1950,15 +1896,15 @@
 						rend='italics'>you
 				</emph> have.”
 				</said>
-				Then, to show how I had thought it all out:
+				Then, <seg ana='vision-figurative'>to show how I had thought it all out:</seg>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“My predecessor—the one who died.”</said>
 			</div>
 			<div type='paragraph' n='23'>
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Miss Jessel?”</said>
 			</div>
 			<div type='paragraph' n='24'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Miss Jessel. You don’t believe me?”</said>
-				<seg ana='figurative-touch'>I pressed.</seg>
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“Miss Jessel.</seg> You don’t believe me?”</said>
+				<seg ana='touch-figurative'>I pressed.</seg>
 			</div>
 			<div type='paragraph' n='25'>She turned right and left in her distress.
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“How can you be sure?”</said>
@@ -1970,7 +1916,7 @@
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“Then ask Flora—<emph rend='italics'>she’s
 				</emph> sure!”
 				</said>
-				But I had no sooner spoken than I caught myself up.
+				But I had no sooner spoken than <seg ana='touch-physical'>I caught myself up.</seg>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“No, for God’s sake, <emph rend='italics'>
 					don’t!
 				</emph> She’ll say she isn’t—she’ll lie!”
@@ -1989,15 +1935,15 @@
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“It’s only then to spare you.”</said>
 			</div>
 			<div type='paragraph' n='31'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“No, no—there are depths, depths! The more I go
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“No, no</seg>—there are <seg ana='repetition'>depths, depths!</seg> <seg ana='repetition'The more I go
 					over it, <seg ana='vision'>the more I see in it, and the more I see in it,</seg> the more I
 					fear. I don’t know what I <emph rend='italics'>don’t</emph> see—what I <emph rend='italics'>
 						don’t
-					</emph> fear!”
+					</emph> fear!”</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='32'>Mrs. Grose tried to keep up with me.
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“You mean you’re afraid of seeing her again?”
+				<said who='mrsgrose' aloud='true' toWhom='governess'>“You mean you’re afraid of <seg ana='vision-physical'>seeing her again?”</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='33'>
@@ -2010,7 +1956,7 @@
 					</seg>
 				</said>
 			</div>
-			<div type='paragraph' n='34'>But my companion only looked wan.
+			<div type='paragraph' n='34'>But my companion only <seg ana='vision-physical'>looked wan.</seg>
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“I don’t understand you.”</said>
 			</div>
 			<div type='paragraph' n='35'>
@@ -2019,61 +1965,44 @@
 				</said>
 			</div>
 			<div type='paragraph' n='36'>At the image of this possibility Mrs. Grose for a moment collapsed, yet
-				presently to pull herself together again, as if from the positive force of the sense of what, should
-				we yield an inch, there would really be to give way to. <said who='mrsgrose' aloud='true'
-				                                                              toWhom='governess'>“Dear, dear—we must
-					keep our heads! And after all, if she doesn’t mind it—!”
+				presently <seg ana='touch-figurative'>to pull herself together again,</seg> as if from the positive force of the sense of what, should
+				we yield an inch, there would really be to give way to. <said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='repetition'>“Dear, dear</seg>—we must keep our heads! And after all, if she doesn’t mind it—!”
 				</said> She even tried a grim joke.
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Perhaps she likes it!”</said>
 			</div>
 			<div type='paragraph' n='37'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Likes <emph rend='italics'>such</emph> things—a
-					scrap of an infant!”
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“Likes <emph rend='italics'>such</emph> things</seg>—a scrap of an infant!”
 				</said>
 			</div>
 			<div type='paragraph' n='38'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“Isn’t it just a proof of her blessed
-					innocence?”
-				</said>
-				my friend bravely inquired.
+				<said who='mrsgrose' aloud='true' toWhom='governess'>“Isn’t it just a proof of her blessed innocence?” </said> my friend bravely inquired.
 			</div>
 			<div type='paragraph' n='39'>She brought me, for the instant, almost round.
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, we must clutch at <emph rend='italics'>
-					that</emph>—we must cling to it! If it isn’t a proof of what you say, it’s a proof of—God knows
-					what! For the woman’s a horror of horrors.”
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='touch-figurative'>“Oh, we must clutch at <emph rend='italics'> that</emph>—we must cling to it!</seg If it isn’t a proof of what you say, it’s a proof of—God knows what! For the woman’s a horror of horrors.”
 				</said>
 			</div>
-			<div type='paragraph' n='40'>Mrs. Grose, at this, <seg ana='vision'>fixed her eyes</seg> a minute on the
-				ground; then atlast raising them, <said who='mrsgrose' aloud='true' toWhom='governess'>“Tell me how
-					you know,”
-				</said> she said.
+			<div type='paragraph' n='40'>Mrs. Grose, at this, <seg ana='vision'>fixed her eyes</seg> a minute on the ground; then at last raising them, <said who='mrsgrose' aloud='true' toWhom='governess'>“Tell me how you know,” </said> she said.
 			</div>
 			<div type='paragraph' n='41'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Then you admit it’s what she was?”</said>
-				I cried.
+				<said who='governess' aloud='true' toWhom='mrsgrose'>“Then you admit it’s what she was?”</said> I cried.
 			</div>
 			<div type='paragraph' n='42'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“Tell me how you know,”</said>
+				<said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='repetition'>“Tell me how you know,”</seg></said>
 				<seg ana='repetition'>my friend simply repeated.</seg>
 			</div>
 			<div type='paragraph' n='43'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Know? By <seg ana='vision'>seeing</seg> her!
-					By the way she
-					<seg ana='vision'>looked.”</seg>
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='repetition'>“Know?</seg> By <seg ana='vision'>seeing</seg> her!
+					By the way she <seg ana='vision'>looked.”</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='44'>
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“At you, do you mean—so wickedly?”</said>
 			</div>
 			<div type='paragraph' n='45'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“Dear me, no—I could have borne that. She gave
-					me never a glance. She only
-					<seg ana='vision'>fixed the child.”</seg>
+				<said who='governess' aloud='true' toWhom='mrsgrose'>“Dear me, no—I could have borne that. She gave <seg ana='vision-physical'>me never a glance.</seg> She only <seg ana='vision'>fixed the child.”</seg>
 				</said>
 			</div>
-			<div type='paragraph' n='46'>Mrs. Grose tried to see it.
-				<said who='mrsgrose' aloud='true' toWhom='governess'>
-					<seg ana='vision'>“Fixed her?”</seg>
+			<div type='paragraph' n='46'><seg ana='vision-figurative vision-physical'>Mrs. Grose tried to see it.</seg> <said who='mrsgrose' aloud='true' toWhom='governess'> <seg ana='vision'>“Fixed her?”</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='47'>
@@ -2090,24 +2019,22 @@
 				</said>
 			</div>
 			<div type='paragraph' n='50'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“Worse than dislike?”</said>—this left her
+				<said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='repetition'>“Worse</seg> than dislike?”</said>—this left her
 				indeed at a loss.
 			</div>
 			<div type='paragraph' n='51'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“With a determination—indescribable. With a
-					kind of fury of intention.”
+				<said who='governess' aloud='true' toWhom='mrsgrose'>“With a determination—indescribable. <seg ana='repetition'>With a</seg> kind of fury of intention.”
 				</said>
 			</div>
-			<div type='paragraph' n='52'>I made her
-				<seg ana='vision'>turn pale.</seg>
+			<div type='paragraph' n='52'>I made her <seg ana='vision'>turn pale.</seg>
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Intention?”</said>
 			</div>
 			<div type='paragraph' n='53'>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>
 					<seg ana='touch'>“To get hold of her.”</seg>
 				</said>
-				Mrs. Grose—her <seg ana='vision'>eyes</seg> just lingering on mine—gave ashudder and walked to the
-				window; and while she stood there looking out I completed my statement.
+				Mrs. Grose—her <seg ana='vision'>eyes</seg> just lingering on mine—gave a shudder and walked to the
+				window; <seg ana='vision-physical'?and while she stood there looking out</seg> I completed my statement.
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“<emph rend='italics'>That’s</emph> what Flora
 					knows.”
 				</said>
@@ -2119,32 +2046,26 @@
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“In mourning—rather poor, almost shabby.
 					But—yes—with extraordinary beauty.”
 				</said>
-				I now recognized to what I had at last, stroke by stroke, brought the victim of my confidence, for
-				she quite visibly weighed this. <said who='governess' aloud='true' toWhom='mrsgrose'>“Oh,
+				I now recognized to what I had at last, stroke by stroke, brought the victim of my confidence, <seg ana='vision-physical'>for
+				she quite visibly weighed this.</seg> <said who='governess' aloud='true' toWhom='mrsgrose'>“Oh,
 				handsome—very, very,”
 			</said> I insisted;
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“wonderfully handsome. But infamous.”</said>
 			</div>
 			<div type='paragraph' n='56'>She slowly came back to me.
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Miss Jessel—<emph rend='italics'>was</emph> infamous.”
-				</said>
-				She once more took my hand in both her own, holding it as tight as if to fortify me against the
-				increase of alarm I might draw from this disclosure. <said who='mrsgrose' aloud='true'
-				                                                           toWhom='governess'>“They were both
-					infamous,”
-				</said> she finally said.
+			</said><seg ana='touch-physical'>She once more took my hand in both her own, holding it as tight as if to fortify me against the increase of alarm I might draw from this disclosure.</seg> <said who='mrsgrose' aloud='true' toWhom='governess'>“They were both infamous,” </said> she finally said.
 			</div>
 			<div type='paragraph' n='57'>So, for a little, we faced it once more together; and I found absolutely a
-				degree of help in seeing it now so straight. <said who='governess' aloud='true' toWhom='mrsgrose'>“I
+				degree of help <seg ana='vision-figurative'>in seeing it now so straight.</seg> <said who='governess' aloud='true' toWhom='mrsgrose'>“I
 					appreciate,”
 				</said> I said,
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“the great decency of your not having hitherto
 					spoken; but the time has certainly come to give me the whole thing.”
 				</said>
 			</div>
-			<div type='paragraph' n='58'>She appeared to assent to this, but still only in <seg ana='sound'>
-				silence;
-			</seg> seeing which I went on:
+			<div type='paragraph' n='58'>She appeared to assent to this, but still only in <seg ana='sound'>silence;
+			</seg> <seg ana='vision-physical'>seeing which I went on:</seg>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“I must have it now. Of what did she die? Come,
 					there was something between them.”
 				</said>
@@ -2153,7 +2074,7 @@
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“There was everything.”</said>
 			</div>
 			<div type='paragraph' n='60'>
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“In spite of the difference—?”</said>
+				<said who='governess' aloud='true' toWhom='mrsgrose'><seg ana='interrruptions'>“In spite of the difference—?”</seg></said>
 			</div>
 			<div type='paragraph' n='61'>
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Oh, of their rank, their condition”</said>—she
@@ -2171,39 +2092,23 @@
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“And he so dreadfully below,”</said>
 				said Mrs. Grose.
 			</div>
-			<div type='paragraph' n='65'>I felt that I doubtless needn’t <seg ana='touch-figurative'>press too
-				hard,
-			</seg> in such company, on the place of a servant in the scale; but there was nothing to prevent an
-				acceptance of my companion’s own measure of my predecessor’s abasement.
+			<div type='paragraph' n='65'>I felt that I doubtless needn’t <seg ana='touch-figurative'>press too hard,
+			</seg> in such company, on the place of a servant in the scale; but there was nothing to prevent an acceptance of my companion’s own measure of my predecessor’s abasement.
 			</div>
-			<div type='paragraph' n='66'>There was a way to deal with that, and I dealt; the more readily for
-				my <seg ana='vision'>full vision</seg>—on the evidence—of our employer’s late clever, good-looking
-				“own” man; impudent, assured, spoiled, depraved.
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“The fellow was a hound.”</said>
+			<div type='paragraph' n='66'>There was a way to deal with that, and I dealt; the more readily for my <seg ana='vision'>full vision</seg>—on the evidence—of our employer’s late clever, good-looking “own” man; impudent, assured, spoiled, depraved. <said who='mrsgrose' aloud='true' toWhom='governess'>“The fellow was a hound.”</said>
 			</div>
-			<div type='paragraph' n='67'>Mrs. Grose considered as if it were perhaps a little a case for a sense of
-				shades.
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“I’ve never seen one like him. He did what he
-					wished.”
-				</said>
+			<div type='paragraph' n='67'>Mrs. Grose considered as if it were perhaps a little a case for a sense of shades. <said who='mrsgrose' aloud='true' toWhom='governess'>“I’ve never seen one like him. He did what he wished.”</said>
 			</div>
 			<div type='paragraph' n='68'>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“With <emph rend='italics'>her?</emph>”
 				</said>
 			</div>
 			<div type='paragraph' n='69'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“With them all.”</said>
+				<said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='repetition'>“With them</seg> all.”</said>
 			</div>
-			<div type='paragraph' n='70'>It was as if now in my friend’s own eyes Miss Jessel had again appeared. I
-				seemed at any rate, for an instant, to see their evocation of her as distinctly as I had seen her by
-				the pond; and I brought out with decision:
-				<said who='governess' aloud='true' toWhom='mrsgrose'>“It must have been also what <emph
-						rend='italics'>she
-				</emph> wished!”
-				</said>
+			<div type='paragraph' n='70'><seg ana='vision-figurative'>It was as if now in my friend’s own eyes Miss Jessel had again appeared.</seg> I seemed at any rate, for an instant, <seg ana='vision-figurative vision-physical'>to see their evocation of her as distinctly as I had seen her by the pond;</seg> and I brought out with decision: <said who='governess' aloud='true' toWhom='mrsgrose'>“It must have been also what <emph rend='italics'>she </emph> wished!”</said>
 			</div>
-			<div type='paragraph' n='71'>Mrs. Grose’s face signified that it had been indeed, but she said at the
-				same time:
+			<div type='paragraph' n='71'><seg ana='vision-physical vision-figurative'>Mrs. Grose’s face signified</seg> that it had been indeed, but she said at the same time:
 				<said who='mrsgrose' aloud='true' toWhom='governess'>“Poor woman—she paid for it!”</said>
 			</div>
 			<div type='paragraph' n='72'>
@@ -2211,17 +2116,13 @@
 				I asked.
 			</div>
 			<div type='paragraph' n='73'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“No—I know nothing. I wanted not to know; I was
-					glad enough I didn’t; and I thanked heaven she was well out of this!”
-				</said>
+				<said who='mrsgrose' aloud='true' toWhom='governess'>“No—<seg ana='repetition'>I know nothing. I wanted not to know;</seg> I was glad enough I didn’t; and I thanked heaven she was well out of this!”</said>
 			</div>
 			<div type='paragraph' n='74'>
 				<said who='governess' aloud='true' toWhom='mrsgrose'>“Yet you had, then, your idea—”</said>
 			</div>
 			<div type='paragraph' n='75'>
-				<said who='mrsgrose' aloud='true' toWhom='governess'>“Of her real reason for leaving? Oh, yes—as to
-					that. She couldn’t have stayed. Fancy it here—for a governess! And afterward I imagined—and I
-					still imagine. And what I imagine is dreadful.”
+				<said who='mrsgrose' aloud='true' toWhom='governess'><seg ana='interruptions'>“Of her real reason for leaving?</seg> Oh, yes—as to that. She couldn’t have stayed. Fancy it here—for a governess! And afterward <seg ana='repetition'>I imagined—and I still imagine. And what I imagine is dreadful.”</seg>
 				</said>
 			</div>
 			<div type='paragraph' n='76'>
