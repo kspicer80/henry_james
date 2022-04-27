@@ -9,4 +9,5 @@ schema = schema.replace('<?xml version="1.0" encoding="utf-8"?>', '<?xml version
 myxml = etree.parse(StringIO(schema))
 tei_relaxng = etree.RelaxNG(myxml)
 # open a file and parse it
-mytree = etree.parse('/Users/spicy.kev/Documents/github/henry_james/tei/hj_tots_tei.xml')
+filename_path = r'C:\Users\KSpicer\Documents\GitHub\henry_james\tei\hj_tots_tei.xml'
+mytree = etree.parse(filename_path)

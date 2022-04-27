@@ -27,49 +27,50 @@
             </langUsage>
             <particDesc>
                 <listPerson>
-                    <person xml:id='governess'>
+                    <persName xml:id='governess'>
                         <name>The Governess</name>
-                    </person>
-                    <person xml:id='douglas'>
+                    </persName>
+                    <persName xml:id='douglas'>
                         <name>Douglas</name>
-                    </person>
-                    <person xml:id='mrsgrose'>
+                    </persName>
+                    <persName xml:id='mrsgrose'>
                         <name>Mrs. Grose</name>
-                    </person>
-                    <person xml:id='miles'>
+                    </persName>
+                    <persName xml:id='miles'>
                         <name>Miles</name>
-                    </person>
-                    <person xml:id='flora'>
+                    </persName>
+                    <persName xml:id='flora'>
                         <name>Flora</name>
-                    </person>
-                    <person xml:id='mrsgriffin'>
+                    </persName>
+                    <persName xml:id='mrsgriffin'>
                         <name>Mrs. Griffin</name>
-                    </person>
-                    <person xml:id='narrator'>
+                    </persName>
+                    <persName xml:id='narrator'>
                         <name>The Narrator</name>
-                    </person>
-                    <person xml:id='storygroupmember'>
+                    </persName>
+                    <persName xml:id='storygroupmember'>
                         <name>Unnamed Story Listener</name>
-                    </person>
-                    <person xml:id='storygroupmembers'>
+                    </persName>
+                    <persName xml:id='storygroupmembers'>
                         <name>Unnamed Story Listeners</name>
-                    </person>
-                    <person xml:id='mrgriffin'>
+                    </persName>
+                    <persName xml:id='mrgriffin'>
                         <name>Mr. Griffin</name>
-                    </person>
-                    <person xml:id='missjessel'>
+                    </persName>
+                    <persName xml:id='missjessel'>
                         <name>Miss Jessel</name>
-                    </person>
+                    </persName>
                 </listPerson>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type='prologue' n='1'>
-                <div type='paragraph' n='1'><seg ana='touch-figurative'>The story had held us,</seg>
+            <div type='chapter' n='Prologue'>
+                <div type='paragraph' n='1'>
+                    <seg ana='touch-figurative'>The story had held us,</seg>
                     round the <seg ana='fire'>fire,</seg> sufficiently breathless, but except the obvious remark that it
-                    was gruesome, as, on <date when='--12-24'>Christmas Eve</date> in an old house, a strange tale should
+                    was gruesome, as, on <date when='12-24'>Christmas Eve</date> in an old house, a strange tale should
                     essentially be, I remember no comment uttered till somebody happened to say that it was the only
                     case he had met in which such a visitation had fallen on a child. The case, I may mention, was that
                     of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a
@@ -81,7 +82,7 @@
                     that had the interesting consequence to which I call attention. Someone else told a story not
                     particularly effective, which I saw he was not following. This I took for a sign that he had himself
                     something to produce and that we should only have to wait. We waited in fact till <date
-                        when='--12-26'>two nights later</date>; but that before we scattered, he brought out what was in
+                        when='12-26'>two nights later</date>; but that before we scattered, he brought out what was in
                     his mind.
                 </div>
                 <div type='paragraph' n='2'>
@@ -112,7 +113,8 @@
                 </div>
                 <div type='paragraph' n='5'>
                     <said who='narrator' aloud='true' toWhom='douglas mrsgriffin storygroupmember'>“For sheer terror?”
-                    </said> I remember asking.
+                    </said>
+                    I remember asking.
                 </div>
                 <div type='paragraph' n='6'>He seemed to say it was not so simple as that; to be really at a loss how to
                     qualify it. <seg ana='touch-physical'>He passed his hand over his eyes,</seg> made a little wincing
@@ -262,9 +264,11 @@
                 <div type='paragraph' n='25'>
                     <said who='narrator'>“Everybody will stay!”</said>
                 </div>
-                <div type='paragraph' n='26'><said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will”</said>—and
-                    <said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will!”</said> cried the ladies whose departure had been <seg ana='touch-figurative'>fixed.</seg> <seg ana='vision-physical'>Mrs. Griffin, however, expressed the need for a
-                    little more light.</seg>
+                <div type='paragraph' n='26'>“<emph rend='italics'>I</emph> will”—and
+                    <said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will!”
+                    </said>
+                    cried the ladies whose departure had been fixed. Mrs. Griffin, however, expressed the need for a
+                    little more light.
                     <said who='mrsgriffin' aloud='true' toWhom='douglas'>“Who was it she was in love with?”</said>
                 </div>
                 <div type='paragraph' n='27'>
@@ -7831,7 +7835,6 @@
                 </div>
             </div>
           </div>
-        </div>
         </body>
     </text>
 </TEI>
