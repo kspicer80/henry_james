@@ -218,11 +218,10 @@
                 <div type='paragraph' n='17'>
                     <said who='narrator' aloud='true' toWhom='douglas'>“Because the thing had been such a scare?”</said>
                 </div>
-                <div type='paragraph' n='18'>He continued to
-                    <seg ana='vision-physical'>fix me.</seg>
+                <div type='paragraph' n='18'>He continued to <seg ana='vision-physical'>fix me.</seg>
                     <said who='douglas' aloud='true' toWhom='narrator'>“You’ll easily judge,”</said>
                     <seg ana='repetition'>he repeated:</seg>
-                    <said who='douglas' aloud='true' toWhom='narrator'>“<emph rend='italics'>you</emph>will.”
+                    <said who='douglas' aloud='true' toWhom='narrator'>“<emph rend='italics'>you</emph> will.”
                     </said>
                 </div>
                 <div type='paragraph' n='19'>
@@ -7817,7 +7816,7 @@
                     stared, glared
                     again,
                     and seen
-                    but the quiet day.
+                    but <seg ana='sound-physical'>the quiet day.</seg>
                 </seg> With the stroke of the loss I was so proud of <seg ana="sound-physical">he uttered the cry of a
                     creature
                     hurled over an abyss,
@@ -7829,9 +7828,9 @@
                     passion; but at the
                     end of
                     a minute I began to feel <seg ana="touch-physical">what it truly was that I held.</seg> We were
-                    alone with the
+                    alone with <seg ana='sound-physical repetition'>the
                     quiet
-                    day, and his
+                    day,</seg> and his
                     little heart, dispossessed, had stopped.
                 </div>
             </div>
