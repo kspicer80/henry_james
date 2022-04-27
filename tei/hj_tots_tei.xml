@@ -114,286 +114,78 @@
                 </div>
                 <div type='paragraph' n='22'><said who='douglas' aloud='true' toWhom='narrator'><seg ana='delay'>“Probably not till <seg ana='letters'>the second post.”</seg></seg></said>
                 </div>
-                <div type='paragraph' n='23'>
-                    <said who='narrator' aloud='true' toWhom='douglas'>“Well then; after dinner—”</said>
+                <div type='paragraph' n='23'><said who='narrator' aloud='true' toWhom='douglas'><seg ana='interruptions'>“Well then; after dinner—”</seg></said>
                 </div>
-                <div type='paragraph' n='24'>
-                    <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember'>“You’ll all meet me
-                        here?”
-                    </said>
-                    <seg ana='vision-physical'>He looked us round again.</seg>
-                    <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember'>“Isn’t anybody
-                        going?”
-                    </said>
-                    It was almost the tone of hope.
+                <div type='paragraph' n='24'><said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember'>“You’ll all meet me here?”</said> <seg ana='vision-physical'>He looked us round again.</seg> <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember'>“Isn’t anybody going?” </said> It was almost the tone of hope.
                 </div>
-                <div type='paragraph' n='25'>
-                    <said who='narrator'>“Everybody will stay!”</said>
+                <div type='paragraph' n='25'><said who='narrator'>“Everybody will stay!”</said>
                 </div>
-                <div type='paragraph' n='26'><said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will”</said>—and
-                    <said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will!”</said> cried the ladies whose departure had been <seg ana='touch-figurative'>fixed.</seg> <seg ana='vision-physical'>Mrs. Griffin, however, expressed the need for a
-                    little more light.</seg>
-                    <said who='mrsgriffin' aloud='true' toWhom='douglas'>“Who was it she was in love with?”</said>
+                <div type='paragraph' n='26'><said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will”</said>—and <said who='storygroupmembers' aloud='true' toWhom='douglas'>“<emph rend='italics'>I</emph> will!”</said> cried the ladies whose departure had been <seg ana='touch-figurative'>fixed.</seg> <seg ana='vision-physical'>Mrs. Griffin, however, expressed the need for a little more light.</seg> <said who='mrsgriffin' aloud='true' toWhom='douglas'>“Who was it she was in love with?”</said>
                 </div>
-                <div type='paragraph' n='27'>
-                    <said who='narrator' aloud='true' toWhom='mrsgriffin'>“The story will tell,”</said>
-                    I took upon myself to reply.
+                <div type='paragraph' n='27'> <said who='narrator' aloud='true' toWhom='mrsgriffin'>“The story will tell,”</said> I took upon myself to reply.
                 </div>
-                <div type='paragraph' n='28'>
-                    <said who='storygroupmembers' aloud='true' toWhom='douglas narrator'>“Oh, I can’t wait for the
-                        story!”
-                    </said>
+                <div type='paragraph' n='28'><said who='storygroupmembers' aloud='true' toWhom='douglas narrator'><seg ana='delay'>“Oh, I can’t wait for the story!”</seg></said>
                 </div>
-                <div type='paragraph' n='29'>
-                    <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember storygroupmembers'>
-                        <seg ana='repetition'>“The story <emph rend='italics'>won’t</emph> tell,”
-                        </seg>
-                    </said>
-                    said Douglas;
-                    <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember storygroupmembers'>
-                        “not in any literal, vulgar way.”
-                    </said>
+                <div type='paragraph' n='29'><said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember storygroupmembers'><seg ana='repetition'>“The story <emph rend='italics'>won’t<emph> tell,”</seg></said> said Douglas; <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember storygroupmembers'>“not in any literal, vulgar way.”</said>
                 </div>
-                <div type='paragraph' n='30'>
-                    <said who='mrsgriffin' aloud='true' toWhom='douglas'>“More’s the pity, then. That’s the only way I
-                        ever understand.”
-                    </said>
+                <div type='paragraph' n='30'><said who='mrsgriffin' aloud='true' toWhom='douglas'>“More’s the pity, then. That’s the only way I ever understand.”</said>
                 </div>
-                <div type='paragraph' n='31'>
-                    <said who='storygroupmember' aloud='true' toWhom='douglas'>“Won’t <emph rend='italics'>you</emph> tell,
-                        Douglas?”
-                    </said>
-                    somebody else inquired.
+                <div type='paragraph' n='31'><said who='storygroupmember' aloud='true' toWhom='douglas'>“Won’t <emph rend='italics'>you</emph> tell, Douglas?”</said> somebody else inquired.
                 </div>
-                <div type='paragraph' n='32'>He sprang to his feet again.
-                    <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmembers'>
-                        <seg ana='delay'>“Yes—tomorrow.</seg>
-                        Now I must go to bed. Good night.”
-                    </said>
-                    And quickly catching up a candlestick, he left us slightly bewildered. From our end of the great
-                    brown hall we heard his step on the stair; whereupon Mrs. Griffin spoke.
-                    <said who='mrsgriffin' aloud='true' toWhom='narrator storygroupmembers'>“Well, if I don’t know who
-                        she was in love with, I know who <emph rend='italics'>he</emph> was.”
-                    </said>
+                <div type='paragraph' n='32'>He sprang to his feet again. <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmembers'><seg ana='delay'>“Yes—tomorrow.</seg> Now I must go to bed. Good night.”</said> <seg ana='fire touch-physical'>And quickly catching up a candlestick,</seg> he left us slightly bewildered. <seg ana='sound-physical'>From our end of the great brown hall we heard his step on the stair;</seg> whereupon Mrs. Griffin spoke. <said who='mrsgriffin' aloud='true' toWhom='narrator storygroupmembers'><seg ana='repetition'>“Well, if I don’t know who she was in love with, I know who <emph rend='italics'>he</emph> was.”</seg></said>
                 </div>
-                <div type='paragraph' n='33'>
-                    <said who='mrgriffin' aloud='true' toWhom='mrsgriffin'>“She was ten years older,”</said>
-                    said her husband.
+                <div type='paragraph' n='33'><said who='mrgriffin' aloud='true' toWhom='mrsgriffin'>“She was ten years older,”</said> said her husband.
                 </div>
-                <div type='paragraph' n='34'>
-                    <said who='mrsgriffin' aloud='true' toWhom='mrgriffin'>“
-                        <foreign>
-                            <emph rend='italics'>Raison de plus</emph>
-                        </foreign>
-                        —at that age! But it’s rather nice, his long reticence.”
-                    </said>
+                <div type='paragraph' n='34'><said who='mrsgriffin' aloud='true' toWhom='mrgriffin'>“<foreign><emph rend='italics'>Raison de plus</emph></foreign>—at that age! But it’s rather nice, his long reticence.”</said>
                 </div>
-                <div type='paragraph' n='35'>
-                    <said who='mrgriffin' aloud='true' toWhom='mrsgriffin'>“Forty years!”</said>
-                    Griffin put in.
+                <div type='paragraph' n='35'><said who='mrgriffin' aloud='true' toWhom='mrsgriffin'>“Forty years!”</said> Griffin put in.
                 </div>
-                <div type='paragraph' n='35'>
-                    <said who='mrsgriffin' aloud='true' toWhom='mrgriffin'>“With this outbreak at last.”</said>
+                <div type='paragraph' n='35'><said who='mrsgriffin' aloud='true' toWhom='mrgriffin'>“With this outbreak at last.”</said>
                 </div>
-                <div type='paragraph' n='37'>
-                    <said who='narrator' aloud='true' toWhom='mrsgriffin mrgriffin storygroupmembers'>“The outbreak,”
-                    </said>
-                    I returned, <said who='narrator' aloud='true' toWhom='mrsgriffin mrgriffin storygroupmembers'>“will
-                    make a tremendous occasion of Thursday night;”
-                </said> and everyone so agreed with me that, <seg ana='vision-figurative'>in the light of it,</seg> we
-                    lost all attention for everything else. The last story, however incomplete and like the mere opening
-                    of a serial, had been told; we handshook and “candlestuck,” as somebody said, and went to bed. I
-                    knew the next day that <seg ana='letters'>a letter containing the key had, by the first post, gone
-                    off to his London apartments</seg>; but in spite of—or perhaps just on account of—the eventual
-                    diffusion of this knowledge we quite let him alone till after dinner, till such an hour of the
-                    evening, in fact, as might best accord with the kind of emotion on which our hopes were fixed. Then
-                    he became as communicative as we could desire and indeed gave us his best reason for being so. We
-                    had it from him again <seg ana='fire'>before the fire in the hall,</seg> as we had had our mild
-                    wonders of the previous night. <seg ana='reading'>It appeared that the narrative he had promised to
-                    read us really required for a proper intelligence a few words of prologue.
-                </seg> Let me say here distinctly, to have done with it, that this narrative, <seg ana='writing'>from an
-                    exact transcript of my own made much later, is what I shall presently give.
-                </seg> Poor Douglas, before his death—when it was in sight—committed to me the manuscript that reached
-                    him on the third of these days and that, on the same spot, with immense effect, he began to read to
-                    our hushed little circle on the night of the fourth. The departing ladies who had said they would
-                    stay didn’t, of course, thank heaven, stay: they departed, in consequence of arrangements made, in a
-                    rage of curiosity, as they professed, produced by the touches with which he had already worked us
-                    up. But that only made <seg ana='sound-physical'>his little final auditory</seg> more compact and
-                    select, kept it, round the hearth, subject to a common thrill.
+                <div type='paragraph' n='37'><said who='narrator' aloud='true' toWhom='mrsgriffin mrgriffin storygroupmembers'>“The outbreak,”</said> I returned, <said who='narrator' aloud='true' toWhom='mrsgriffin mrgriffin storygroupmembers'>“will make a tremendous occasion of Thursday night;”</said> and everyone so agreed with me that, <seg ana='vision-figurative'>in the light of it,</seg> we lost all attention for everything else. The last story, however incomplete and like the mere opening of a serial, had been told; <seg ana='touch-figurative'>we handshook</seg> and <seg ana='fire-figurative'>“candlestuck,”</seg> as somebody said, and went to bed. I knew the next day that <seg ana='letters'>a letter containing the key had, by the first post, gone off to his London apartments</seg>; <seg ana='delay'>but in spite of—or perhaps just on account of—the eventual diffusion of this knowledge we quite let him alone till after dinner, till such an hour of the evening,</seg> in fact, <seg ana='touch-figurative'>as might best accord with the kind of emotion on which our hopes were fixed.</seg> Then he became as communicative as we could desire and indeed gave us his best reason for being so. We had it from him again <seg ana='fire'>before the fire in the hall,</seg> as we had had our mild wonders of the previous night. <seg ana='reading'>It appeared that the narrative he had promised to read us really required for a proper intelligence a few words of prologue.</seg> Let me say here distinctly, to have done with it, that this narrative, <seg ana='writing'>from an exact transcript of my own made much later, is what I shall presently give.</seg> Poor Douglas, before his death—when it was in sight—<seg ana='writing'>committed to me the manuscript</seg> <seg ana='delay'>that reached him on the third of these days</seg> and that, on the same spot, with immense effect, <seg ana='reading'>he began to read to our hushed little circle on the night of the fourth.</seg> <seg ana='repetition'>The departing ladies who had said they would stay didn’t, of course, thank heaven, stay:</seg> they departed, in consequence of arrangements made, in a rage of curiosity, as they professed, produced by the touches with which he had already worked us up. But that only made <seg ana='sound-physical'>his little final auditory</seg> more compact and select, kept it, <seg ana='fire'>round the hearth,</seg> subject to a common thrill.
                 </div>
-                <div type='paragraph' n='38'>The first of these touches conveyed that the written statement took up the
-                    tale at a point after it had, in a manner, begun. The fact to be in possession of was therefore that
-                    his old friend, the youngest of several daughters of a poor country parson, had, at the age of
-                    twenty, on taking service for the first time in the schoolroom, come up to London, in trepidation,
-                    to answer in person an advertisement that had already placed her in brief correspondence with the
-                    advertiser. This person proved, on her presenting herself, for judgment, at a house in Harley
-                    Street, that impressed her as vast and imposing—this prospective patron proved a gentleman, a
-                    bachelor in the prime of life, such a figure as had never risen, save in a dream <seg
-                            ana='book reading'>or an old novel,
-                    </seg> before a fluttered, anxious girl out of a Hampshire vicarage. One could easily fix his type;
-                    it never, happily, dies out. He was handsome and bold and pleasant, off-hand and gay and kind. He
-                    struck her, inevitably, as gallant and splendid, but what took her most of all and gave her the
-                    courage she afterward showed was that he put the whole thing to her as a kind of favor, an
-                    obligation he should gratefully incur. She conceived him as rich, but as fearfully extravagant—saw
-                    him all in a glow of high fashion, of good looks, of expensive habits, of charming ways with women.
-                    He had for his own town residence a big house filled with the spoils of travel and the trophies of
-                    the chase; but it was to his country home, an old family place in Essex, that he wished her
-                    immediately to proceed.
+                <div type='paragraph' n='38'>The first of these touches conveyed that the written statement took up the tale at a point after it had, in a manner, begun. The fact to be in possession of was therefore that his old friend, the youngest of several daughters of a poor country parson, had, at the age of twenty, on taking service for the first time in the schoolroom, come up to London, in trepidation, to answer in person an advertisement that had already placed her in brief correspondence with the advertiser. This person proved, on her presenting herself, for judgment, at a house in Harley Street, that impressed her as vast and imposing—this prospective patron proved a gentleman, a bachelor in the prime of life, such a figure as had never risen, save in a dream <seg ana='book reading'>or an old novel,</seg> before a fluttered, anxious girl out of a Hampshire vicarage. One could easily fix his type; it never, happily, dies out. He was handsome and bold and pleasant, off-hand and gay and kind. He struck her, inevitably, as gallant and splendid, but what took her most of all and gave her the courage she afterward showed was that he put the whole thing to her as a kind of favor, an obligation he should gratefully incur. She conceived him as rich, but as fearfully extravagant—saw him all in a glow of high fashion, of good looks, of expensive habits, of charming ways with women. He had for his own town residence a big house filled with the spoils of travel and the trophies of the chase; but it was to his country home, an old family place in Essex, that he wished her immediately to proceed.
                 </div>
-                <div type='paragraph' n='39'>He had been left, by the death of their parents in India, guardian to a
-                    small nephew and a small niece, children of a younger, a military brother, whom he had lost two
-                    years before. These children were, by the strangest of chances for a man in his position—a lone man
-                    without the right sort of experience or a grain of patience—very heavily on his hands. It had all
-                    been a great worry and, on his own part doubtless, a series of blunders, but he immensely pitied the
-                    poor chicks and had done all he could; had in particular sent them down to his other house, the
-                    proper place for them being of course the country, and kept them there, from the first, with the
-                    best people he could find to look after them, parting even with his own servants to wait on them and
-                    going down himself, whenever he might, to see how they were doing. The awkward thing was that they
-                    had practically no other relations and that his own affairs took up all his time. He had put them in
-                    possession of Bly, which was healthy and secure, and had placed at the head of their little
-                    establishment—but below stairs only—an excellent woman, Mrs. Grose, whom he was sure his visitor
-                    would like and who had formerly been maid to his mother. She was now housekeeper and was also acting
-                    for the time as superintendent to the little girl, of whom, without children of her own, she was, by
-                    good luck, extremely fond. There were plenty of people to help, but of course the young lady who
-                    should go down as governess would be in supreme authority. She would also have, in holidays, to look
-                    after the small boy, who had been for a term at school—young as he was to be sent, but what else
-                    could be done?—and who, as the holidays were about to begin, would be back from one day to the
-                    other. There had been for the two children at first a young lady whom they had had the misfortune to
-                    lose. She had done for them quite beautifully—she was a most respectable person—till her death, the
-                    great awkwardness of which had, precisely, left no alternative but the school for little Miles. Mrs.
-                    Grose, since then, in the way of manners and things, had done as she could for Flora; and there
-                    were, further, a cook, a housemaid, a dairywoman, an old pony, an old groom, and an old gardener,
-                    all likewise thoroughly respectable.
+                <div type='paragraph' n='39'>He had been left, by the death of their parents in India, guardian to a small nephew and a small niece, children of a younger, a military brother, whom he had lost two years before. These children were, by the strangest of chances for a man in his position—a lone man without the right sort of experience or a grain of patience—<seg ana='touch-figurative'>very heavily on his hands.</seg> It had all been a great worry and, on his own part doubtless, a series of blunders, but he immensely pitied the poor chicks and had done all he could; had in particular sent them down to his other house, the proper place for them being of course the country, and kept them there, from the first, with the best people he could find to look after them, parting even with his own servants to wait on them and going down himself, whenever he might, <seg ana='vision-physical'>to see how they were doing.</seg> The awkward thing was that they had practically no other relations and that his own affairs took up all his time. He had put them in possession of Bly, which was healthy and secure, and had placed at the head of their little establishment—but below stairs only—an excellent woman, Mrs. Grose, whom he was sure his visitor would like and who had formerly been maid to his mother. She was now housekeeper and was also acting for the time as superintendent to the little girl, of whom, without children of her own, she was, by good luck, extremely fond. There were plenty of people to help, but of course the young lady who should go down as governess would be in supreme authority. She would also have, in holidays, to look after the small boy, who had been for a term at school—young as he was to be sent, but what else could be done?—and who, as the holidays were about to begin, would be back from one day to the other. There had been for the two children at first a young lady whom they had had the misfortune to lose. She had done for them quite beautifully—she was a most respectable person—till her death, the great awkwardness of which had, precisely, left no alternative but the school for little Miles. Mrs. Grose, since then, in the way of manners and things, had done as she could for Flora; and there were, further, a cook, a housemaid, a dairywoman, an old pony, an old groom, and an old gardener, all likewise thoroughly respectable.
                 </div>
                 <div type='paragraph' n='40'>So far had Douglas presented his picture when someone put a question.</div>
-                <div type='paragraph' n='41'>
-                    <said who='storygroupmember' aloud='true' toWhom='douglas'>“And what did the former governess die
-                        of?—of so much respectability?”
-                    </said>
+                <div type='paragraph' n='41'><said who='storygroupmember' aloud='true' toWhom='douglas'>“And what did the former governess die of?—of so much respectability?”</said>
                 </div>
-                <div type='paragraph' n='42'>Our friend’s answer was prompt.
-                    <said who='douglas' aloud='true' toWhom='storygroupmembers'>“That will come out. I don’t
-                        anticipate.”
-                    </said>
+                <div type='paragraph' n='42'>Our friend’s answer was prompt. <said who='douglas' aloud='true' toWhom='storygroupmembers'>“That will come out. I don’t anticipate.”</said>
                 </div>
-                <div type='paragraph' n='43'>
-                    <said who='storygroupmember' aloud='true' toWhom='douglas'>'“Excuse me—I thought that was just what
-                        you <emph rend='italics'>are</emph> doing.”
-                    </said>
+                <div type='paragraph' n='43'><said who='storygroupmember' aloud='true' toWhom='douglas'>'“Excuse me—I thought that was just what you <emph rend='italics'>are</emph> doing.”</said>
                 </div>
-                <div type='paragraph' n='44'>
-                    <said who='narrator' aloud='true' toWhom='storygroupmembers'>“In her successor’s place,”</said>I
-                    suggested,
-                    <said who='narrator' aloud='true' toWhom='storygroupmembers'><seg ana='interrruptions'>“I should have wished to learn if the
-                        office brought with it—”</seg>
-                    </said>
+                <div type='paragraph' n='44'><said who='narrator' aloud='true' toWhom='storygroupmembers'>“In her successor’s place,”</said>I suggested, <said who='narrator' aloud='true' toWhom='storygroupmembers'><seg ana='interrruptions'>“I should have wished to learn if the office brought with it—”</seg></said>
                 </div>
-                <div type='paragraph' n='45'>
-                    <said who='douglas' aloud='true' toWhom='storygroupmembers'>“Necessary danger to life?”</said>
-                    Douglas completed my thought.
-                    <said who='douglas' aloud='true' toWhom='storygroupmembers'>“She did wish to learn, and she did
-                        learn. You shall hear tomorrow what she learned. Meanwhile, of course, the prospect struck her
-                        as slightly grim. She was young, untried, nervous: it was a <seg ana='vision-figurative'>vision
-                            of serious duties and little company, of really great loneliness.
-                        </seg> She hesitated—took a couple of days to consult and consider. But the salary offered much
-                        exceeded her modest measure, and on a second interview she faced the music, she engaged.”
-                    </said>
-                    And Douglas, with this, made a pause that, for the benefit of the company, moved me to throw in—
+                <div type='paragraph' n='45'><said who='douglas' aloud='true' toWhom='storygroupmembers'>“Necessary danger to life?”</said> Douglas completed my thought. <said who='douglas' aloud='true' toWhom='storygroupmembers'>“She did wish to learn, and she did learn. You shall hear tomorrow what she learned. Meanwhile, of course, the prospect struck her as slightly grim. She was young, untried, nervous: it was a <seg ana='vision-figurative'>vision of serious duties and little company, of really great loneliness.</seg> She hesitated—took a couple of days to consult and consider. But the salary offered much exceeded her modest measure, and on a second interview she faced the music, she engaged.”</said> <seg ana='delay'>And Douglas, with this, made a pause that, for the benefit of the company, moved me to throw in—</seg>
                 </div>
-                <div type='paragraph' n='46'>
-                    <said who='narrator' aloud='true' toWhom='storygroupmembers'>“The moral of which was of course the
-                        seduction exercised by the splendid young man. She succumbed to it.”
-                    </said>
+                <div type='paragraph' n='46'><said who='narrator' aloud='true' toWhom='storygroupmembers'>“The moral of which was of course the seduction exercised by the splendid young man. She succumbed to it.”</said>
                 </div>
-                <div type='paragraph' n='47'>He got up and, as he had done the night before, <seg ana='fire'>went to the
-                    fire,
-                </seg> gave a stir to a log with his foot, then stood a moment with his back to us.
+                <div type='paragraph' n='47'>He got up and, as he had done the night before, <seg ana='fire'>went to the fire,</seg> gave a stir to a log with his foot, then stood a moment with his back to us.
                 </div>
-                <div type='paragraph' n='48'>
-                    <said who='douglas' aloud='true' toWhom='storygroupmembers'>
-                        <seg ana='vision-physical'>“She saw him only twice.”</seg>
-                    </said>
+                <div type='paragraph' n='48'><said who='douglas' aloud='true' toWhom='storygroupmembers'><seg ana='vision-physical'>“She saw him only twice.”</seg></said>
                 </div>
-                <div type='paragraph' n='49'>
-                    <said who='?' aloud='true' toWhom='storygroupmembers'>“Yes, but that’s just the beauty of her
-                        passion.”
-                    </said>
+                <div type='paragraph' n='49'><said who='?' aloud='true' toWhom='storygroupmembers'>“Yes, but that’s just the beauty of her passion.”</said>
                 </div>
-                <div type='paragraph' n='50'>A little to my surprise, on this, Douglas turned round to me.
-                    <said who='douglas' aloud='true' toWhom='narrator'>“It <emph rend='italics'>was</emph> the beauty of
-                        it. There were others,”
-                    </said>
-                    he went on,
-                    <said who='douglas' aloud='true' toWhom='narrator'>“who hadn’t succumbed. He told her frankly all
-                        his difficulty—that for several applicants the conditions had been prohibitive. They were,
-                        somehow, simply afraid. It sounded dull—it sounded strange; and all the more so because of his
-                        main condition.”
-                    </said>
+                <div type='paragraph' n='50'>A little to my surprise, on this, Douglas turned round to me. <said who='douglas' aloud='true' toWhom='narrator'>“It <emph rend='italics'>was</emph> the beauty of it. There were others,”</said> he went on, <said who='douglas' aloud='true' toWhom='narrator'>“who hadn’t succumbed. He told her frankly all his difficulty—that for several applicants the conditions had been prohibitive. They were, somehow, simply afraid. It sounded dull—it sounded strange; and all the more so because of his main condition.”</said>
                 </div>
-                <div type='paragraph' n='51'>
-                    <said who='?' aloud='true' toWhom='storygroupmembers'><seg ana='interruptions'>“Which was—?”</seg></said>
+                <div type='paragraph' n='51'><said who='?' aloud='true' toWhom='storygroupmembers'><seg ana='interruptions'>“Which was—?”</seg></said>
                 </div>
-                <div type='paragraph' n='52'>
-                    <said who='douglas' aloud='true' toWhom='storygroupmembers'>“That she should never trouble him—but
-                        never, never: neither appeal nor complain <seg ana='writing'>nor write about anything;</seg> only
-                        meet all questions herself, receive all moneys from his solicitor, take the whole thing over and
-                        let him alone. She promised to do this, and she mentioned to me that when, for a moment,
-                        disburdened, delighted, <seg ana='touch-physical'>he held her hand,</seg> thanking her for the
-                        sacrifice, she already felt rewarded.”
-                    </said>
+                <div type='paragraph' n='52'><said who='douglas' aloud='true' toWhom='storygroupmembers'><seg ana='repetition'>“That she should never trouble him—but never, never:</seg> neither appeal nor complain <seg ana='writing'>nor write about anything;</seg> only meet all questions herself, receive all moneys from his solicitor, take the whole thing over and let him alone. She promised to do this, and she mentioned to me that when, for a moment, disburdened, delighted, <seg ana='touch-physical'>he held her hand,</seg> thanking her for the sacrifice, she already felt rewarded.”</said>
                 </div>
-                <div type='paragraph' n='53'>
-                    <said who='storygroupmember' aloud='true' toWhom='douglas'>“But was that all her reward?”</said>
-                    one of the ladies asked.
+                <div type='paragraph' n='53'><said who='storygroupmember' aloud='true' toWhom='douglas'>“But was that all her reward?”</said> one of the ladies asked.
                 </div>
-                <div type='paragraph' n='54'>
-                    <said who='douglas' aloud='true' toWhom='storygroupmembers'>
-                        <seg ana='vision-physical'>“She never saw him again.”</seg>
-                    </said>
+                <div type='paragraph' n='54'><said who='douglas' aloud='true' toWhom='storygroupmembers'><seg ana='vision-physical'>“She never saw him again.”</seg></said>
                 </div>
-                <div type='paragraph' n='55'>
-                    <said who='storygroupmember' aloud='true' toWhom='douglas mrsgriffin mrgriffin storygroupmembers'>
-                        “Oh!”
-                    </said>
-                    said the lady; which, as our friend immediately left us again, was the only other word of importance
-                    contributed to the subject till, the next night, <seg ana='fire'>by the corner of the hearth,</seg> in
-                    the best chair, he opened the faded red cover of a thin old-fashioned gilt-edged album. The whole
-                    thing took indeed more nights than one, but on the first occasion the same lady put another
-                    question.
-                    <said who='storygroupmember' aloud='true' toWhom='douglas mrsgriffin mrgriffin storygroupmembers'>
-                        “What is your title?”
-                    </said>
+                <div type='paragraph' n='55'><said who='storygroupmember' aloud='true' toWhom='douglas mrsgriffin mrgriffin storygroupmembers'>“Oh!”</said> said the lady; <seg ana='delay'>which, as our friend immediately left us again, was the only other word of importance contributed to the subject till, the next night,</seg> <seg ana='fire'>by the corner of the hearth,</seg> in the best chair, he opened the faded red cover of a thin old-fashioned gilt-edged album. The whole thing took indeed more nights than one, but on the first occasion the same lady put another question. <said who='storygroupmember' aloud='true' toWhom='douglas mrsgriffin mrgriffin storygroupmembers'> “What is your title?” </said>
                 </div>
-                <div type='paragraph' n='56'>
-                    <said who='narrator' aloud='true' toWhom='storygroupmember'>“I haven’t one.”</said>
+                <div type='paragraph' n='56'><said who='narrator' aloud='true' toWhom='storygroupmember'>“I haven’t one.”</said>
                 </div>
-                <div type='paragraph' n='57'>
-                    <said who='narrator' aloud='true' toWhom='storygroupmember'>“Oh, <emph rend='italics'>I</emph> have!”
-                    </said>
-                    I said. But Douglas, without heeding me, <seg ana='reading'>had begun to read</seg> with a fine
-                    clearness that was like a rendering to the ear of the beauty of his author’s hand.
+                <div type='paragraph' n='57'><said who='narrator' aloud='true' toWhom='storygroupmember'>“Oh, <emph rend='italics'>I</emph> have!”</said> I said. But Douglas, without heeding me, <seg ana='reading'>had begun to read</seg> <seg ana='sound-physical'>with a fine clearness that was like a rendering to the ear</seg> <seg ana='vision-physical'>of the beauty of his author’s hand.</seg>
                 </div>
             </div>
             <div type='chapter' n='1'>
-                <div type='paragraph' n='1'>I remember the whole beginning as a succession of flights and drops, a
-                    little seesaw of the right throbs and the wrong. After rising, in town, to meet his appeal, I had at
-                    all events a couple of very bad days—found myself doubtful again, felt indeed sure I had made a
-                    mistake. In this state of mind I spent the long hours of bumping, swinging coach that carried me to
-                    the stopping place at which I was to be met by a vehicle from the house. This convenience, I was
-                    told, had been ordered, and I found, toward the close of the June afternoon, a commodious fly in
-                    waiting for me. Driving at that hour, on a lovely day, through a country to which the summer
-                    sweetness seemed to offer me a friendly welcome, my fortitude mounted afresh and, as we turned into
-                    the avenue, encountered a reprieve that was probably but a proof of the point to which it had sunk.
-                    I suppose I had expected, or had dreaded, something so melancholy that what greeted me was a good
-                    surprise. I remember as a most pleasant impression the broad, clear front, its open windows and
-                    fresh curtains and the pair of maids looking out; I remember the lawn and the bright flowers and the
-                    crunch of my wheels on the gravel and the clustered treetops over which the rooks circled and cawed
-                    in the golden sky. The scene had a greatness that made it a different affair from my own scant home,
-                    and there immediately appeared at the door, with a little girl in her hand, a civil person who
-                    dropped me as decent a curtsy as if I had been the mistress or a distinguished visitor. I had
-                    received in Harley Street a narrower notion of the place, and that, as I recalled it, made me think
-                    the proprietor still more of a gentleman, suggested that what I was to enjoy might be something
-                    beyond his promise.
+                <div type='paragraph' n='1'>I remember the whole beginning as a succession of flights and drops, a little seesaw of the right throbs and the wrong. After rising, in town, to meet his appeal, I had at all events a couple of very bad days—found myself doubtful again, felt indeed sure I had made a mistake. In this state of mind I spent the long hours of bumping, swinging coach that carried me to the stopping place at which I was to be met by a vehicle from the house. This convenience, I was told, had been ordered, and I found, <seg ana='weather'>toward the close of the June afternoon, a commodious fly in waiting for me. Driving at that hour, on a lovely day, through a country to which the summer sweetness</seg> seemed to offer me a friendly welcome, my fortitude mounted afresh and, as we turned into the avenue, encountered a reprieve that was probably but a proof of the point to which it had sunk. I suppose I had expected, or had dreaded, something so melancholy that what greeted me was a good surprise. I remember as a most pleasant impression the broad, clear front, its open windows and fresh curtains and the pair of maids looking out; I remember the lawn and the bright flowers and the crunch of my wheels on the gravel and the clustered treetops over which the rooks circled and cawed in the <seg ana='colors=gold'>golden sky.</seg> The scene had a greatness that made it a different affair from my own scant home, and there immediately appeared at the door, with a little girl in her hand, a civil person who dropped me as decent a curtsy as if I had been the mistress or a distinguished visitor. I had received in Harley Street a narrower notion of the place, and that, as I recalled it, made me think the proprietor still more of a gentleman, suggested that what I was to enjoy might be something beyond his promise.
                 </div>
                 <div type='paragraph' n='2'>I had no drop again till the next day, for I was carried triumphantly
                     through the following hours by my introduction to the younger of my pupils. The little girl who
