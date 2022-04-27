@@ -67,30 +67,9 @@
     <text>
         <body>
             <div type='prologue' n='1'>
-                <div type='paragraph' n='1'><seg ana='touch-figurative'>The story had held us,</seg>
-                    round the <seg ana='fire'>fire,</seg> sufficiently breathless, but except the obvious remark that it
-                    was gruesome, as, on <date when='--12-24'>Christmas Eve</date> in an old house, a strange tale should
-                    essentially be, I remember no comment uttered till somebody happened to say that it was the only
-                    case he had met in which such a visitation had fallen on a child. The case, I may mention, was that
-                    of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a
-                    dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror
-                    of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also,
-                    herself, before she had succeeded in doing so, the same sight that had <seg
-                        ana='touch-figurative touch-literal'>shaken him.
-                </seg> It was this observation that drew from Douglas—not immediately, but later in the evening—a reply
-                    that had the interesting consequence to which I call attention. Someone else told a story not
-                    particularly effective, which I saw he was not following. This I took for a sign that he had himself
-                    something to produce and that we should only have to wait. We waited in fact till <date
-                        when='--12-26'>two nights later</date>; but that before we scattered, he brought out what was in
-                    his mind.
+                <div type='paragraph' n='1'><seg ana='touch-figurative'>The story had held us,</seg> round the <seg ana='fire'>fire,</seg> sufficiently breathless, but except the obvious remark that it was gruesome, as, on <date when='--12-24'>Christmas Eve</date> in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to say that it was the only case he had met in which such a visitation had fallen on a child. <seg ana='repetition'>The case,</seg> I may mention, was that of an apparition in just such an old house as had gathered us for the occasion—an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had <seg ana='touch-figurative touch-literal'>shaken him.</seg> It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention. Someone else told a story not particularly effective, <seg ana="vision-physical">which I saw he was not following.</seg> This I took for a sign that he had himself something to produce and that we should only have to wait. We waited in fact till <date when='--12-26'>two nights later</date>; but that before we scattered, he brought out what was in his mind.
                 </div>
-                <div type='paragraph' n='2'>
-                    <said who='Douglas' aloud='true' toWhom='narrator mrsgriffin'>“I quite agree—in regard to Griffin’s
-                        ghost, or whatever it was—that its appearing first to the little boy, at so tender an age, adds
-                        a particular <seg ana='touch-figurative'>touch.</seg> But it’s not the first occurrence of its
-                        charming kind that I know to have involved a child. If the child gives the effect another turn
-                        of the screw, what do you say to <emph rend='italics'>two</emph> children—?""
-                    </said>
+                <div type='paragraph' n='2'><said who='Douglas' aloud='true' toWhom='narrator mrsgriffin'>“I quite agree—in regard to Griffin’s ghost, or whatever it was—that its appearing first to the little boy, at so tender an age, adds a particular <seg ana='touch-figurative'>touch.</seg> But it’s not the first occurrence of its charming kind that I know to have involved a child. If the child gives the effect another turn of the screw, what do you say to <emph rend='italics'>two</emph> children—?"</said>
                 </div>
                 <div type='paragraph' n='3'>
                     <said who='storygroup' aloud='true' toWhom='narrator mrsgriffin douglas'>“We say, of course,”</said>
@@ -401,8 +380,8 @@
                 <div type='paragraph' n='44'>
                     <said who='narrator' aloud='true' toWhom='storygroupmembers'>“In her successor’s place,”</said>I
                     suggested,
-                    <said who='narrator' aloud='true' toWhom='storygroupmembers'>“I should have wished to learn if the
-                        office brought with it—”
+                    <said who='narrator' aloud='true' toWhom='storygroupmembers'><seg ana='interrruptions'>“I should have wished to learn if the
+                        office brought with it—”</seg>
                     </said>
                 </div>
                 <div type='paragraph' n='45'>
@@ -448,7 +427,7 @@
                     </said>
                 </div>
                 <div type='paragraph' n='51'>
-                    <said who='?' aloud='true' toWhom='storygroupmembers'>“Which was—?”</said>
+                    <said who='?' aloud='true' toWhom='storygroupmembers'><seg ana='interruptions'>“Which was—?”</seg></said>
                 </div>
                 <div type='paragraph' n='52'>
                     <said who='douglas' aloud='true' toWhom='storygroupmembers'>“That she should never trouble him—but
