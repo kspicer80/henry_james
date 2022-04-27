@@ -11,3 +11,4 @@ tei_relaxng = etree.RelaxNG(myxml)
 # open a file and parse it
 filename_path = r'C:\Users\KSpicer\Documents\GitHub\henry_james\tei\hj_tots_tei.xml'
 mytree = etree.parse(filename_path)
+ 

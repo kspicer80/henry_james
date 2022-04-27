@@ -139,24 +139,9 @@
                 </div>
                 <div type='paragraph' n='10'>
                     <seg ana='fire'>He turned round to the fire,</seg>
-                    gave a kick to a log, watched it an instant. Then as he faced us again: <said who='douglas'
-                                                                                                  aloud='true'
-                                                                                                  toWhom='narrator mrsgriffin storygroupmember'>
-                    “I can’t begin. I shall have to send to town.”
-                </said> There was a unanimous groan at this, and much reproach; after which, in his preoccupied way, he
-                    explained.
-                    <said who='douglas' aloud='true' toWhom='narrator'>
-                        <seg ana='writing'>“The story’s written.</seg>
-                        It’s in a locked drawer—it has not been out for years. <seg ana='writing'>I could write to my
-                        man
-                    </seg> and enclose the key; he could send down the packet as he finds it.”
-                    </said>
-                    It was to me in particular that he appeared to propound this—appeared almost to appeal for aid not
-                    to hesitate. He had broken a thickness of ice, the formation of many a winter; had had his reasons
-                    for a long silence. <seg ana='delay'>The others resented postponement,</seg> but it was just his
-                    scruples that charmed me. <seg ana='writing'>I adjured him to write by the first post</seg> and to
-                    agree with us for an early <seg ana='sound-figurative sound-literal'>hearing;</seg> then I asked him
-                    if the experience in question had been his own. To this his answer was prompt.
+                    gave a kick to a log, watched it an instant. <seg ana='vision-physical'>Then as he faced us again:</seg> <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember'>
+                    <seg ana='delay'>“I can’t begin. I shall have to send to town.”</seg>
+                </said> <seg ana='sound-physical'>There was a unanimous groan at this,</seg> and much reproach; after which, in his preoccupied way, he explained. <said who='douglas' aloud='true' toWhom='narrator'> <seg ana='writing'>“The story’s written.</seg> It’s in a locked drawer—it has not been out for years. <seg ana='writing'>I could write to my man </seg> and enclose the key; he could send down the packet as he finds it.” </said> It was to me in particular that he appeared to propound this—<seg ana='delay'>appeared almost to appeal for aid not to hesitate.</seg> He had broken a thickness of ice, the formation of many a winter; had had his reasons for a long silence. <seg ana='delay'>The others resented postponement,</seg> but it was just his scruples that charmed me. <seg ana='writing'>I adjured him to write by the first post</seg> and to agree with us for an early <seg ana='sound-figurative sound-literal'>hearing;</seg> then I asked him if the experience in question had been his own. To this his answer was prompt.
                 </div>
                 <div type='paragraph' n='11'>
                     <said who='douglas' aloud='true' toWhom='narrator mrsgriffin storygroupmember'>“Oh, thank God,
