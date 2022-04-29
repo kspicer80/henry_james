@@ -4284,11 +4284,11 @@
                     <said who='mrsgrose' aloud='true' toWhom='governess'>“A friend—<emph rend='italics'>you?</emph>”
                   </said></p>
                 </div>
-                <div type='paragraph' n='5'>
+                <div type='paragraph' n='5'><p>
                     <said who='governess' aloud='true' toWhom='mrsgrose'>“Oh, yes, I have a couple!”</said>
                     I laughed.
                     <said who='governess' aloud='true' toWhom='mrsgrose'>“But did the children give you a reason?”
-                    </said>
+                    </said></p>
                 </div>
                 <div type='paragraph' n='6'>
                     <said who='mrsgrose' aloud='true' toWhom='governess'>“For not alluding to your leaving us?
@@ -4297,14 +4297,13 @@
                         </seg>
                     </said>
                 </div>
-                <div type='paragraph' n='7'>My face had made her rueful. <said who='governess' aloud='true'
-                                                                               toWhom='mrsgrose'>
+                <div type='paragraph' n='7'><p>My face had made her rueful. <said who='governess' aloud='true' toWhom='mrsgrose'>
                     “No, I
                     like it worse!”
                 </said> But after an instant I added:
                     <said who='governess' aloud='true' toWhom='mrsgrose'>“Did they say why I should
                         <seg ana="repetition">like it better?”</seg>
-                    </said>
+                    </said></p>
                 </div>
                 <div type='paragraph' n='8'>
                     <said who='mrsgrose' aloud='true' toWhom='governess'>“No; Master Miles only said, <quote>‘We
