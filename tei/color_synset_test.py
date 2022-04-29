@@ -3,21 +3,10 @@ import re
 import nltk
 from nltk import word_tokenize
 from nltk.corpus import wordnet as wn
+from nltk.corpus import RegexpTokenizer
 import numpy as np
-import pandas as pd
+from collections import Counter
 
-#word = 'I'
-#syn = wn.synsets(word)
-#target_synsets = wn.synsets(word)
-#hypernyms = syn.hypernym_paths()[0]
-
-#print(syn[0].name())
-#print(syn.name())
-#print(syn.definition())
-#print(syn.examples())
-#print("The hypernyms of color are:" + str(syn.hypernyms()))
-#print("The hyponyms of the hypernyms are:" + str(syn.hypernyms()[0].hyponyms()))
-#print("The root of the hypernyms is:" + str(syn.root_hypernyms()))
 
 def convert_tag(tag):
     tag_dict = {'N': 'n', 'J': 'a', 'R': 'r', 'V': 'v'}
@@ -36,9 +25,28 @@ def doc_to_synsets(doc):
     final = [val[0] for val in sets if len(val) > 0]
     return final
 
-#print(target_synsets)
+with open(r'tei\list_of_colors.txt') as f:
+	color_word_list = f.read().splitlines()
 
-test_string = "I hate to go to the store. Black, white, red, and blue are all of my favorite colors. I love them!"
+def get_color_words(text):
+    captured_color_words = []
+    text = text.lower()
+    tokens = word_tokenize(text)
+    print(tokens)
+    for token in tokens:
+        if token in color_word_list:
+            captured_color_words.append(token)
+    return(captured_color_words)
 
-test = doc_to_synsets(test_string)
-print(test)
+# Short/Quick Tests:
+#test_string ='I hate to go to the store. Black, white, red, and blue are all of my favorite colors. I love them!'
+
+#color_words_in_test_string = get_color_words(test_string)
+#print(color_words_in_test_string)
+
+with open(r'C:\Users\KSpicer\Documents\GitHub\henry_james\209-0.txt', encoding='utf-8') as f:
+    data = f.read()
+
+found_color_words = get_color_words(data)
+print(Counter(found_color_words))
+print(len(found_color_words))

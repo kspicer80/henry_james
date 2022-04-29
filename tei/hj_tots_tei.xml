@@ -338,11 +338,11 @@
                                 >“Yes—tomorrow.</seg> Now I must go to bed. Good night.”</said>
                         <seg ana="fire touch-physical">And quickly catching up a candlestick,</seg>
                         he left us slightly bewildered. <seg ana="sound-physical">From our end of
-                            the great brown hall we heard his step on the stair;</seg> whereupon
-                        Mrs. Griffin spoke. <said who="mrsgriffin" aloud="true"
-                            toWhom="narrator storygroupmembers"><seg ana="repetition">“Well, if I
-                                don’t know who she was in love with, I know who <emph rend="italics"
-                                    >he</emph> was.”</seg></said>
+                            the great <seg ana="colors-brown">brown</seg> hall we heard his step on
+                            the stair;</seg> whereupon Mrs. Griffin spoke. <said who="mrsgriffin"
+                            aloud="true" toWhom="narrator storygroupmembers"><seg ana="repetition"
+                                >“Well, if I don’t know who she was in love with, I know who <emph
+                                    rend="italics">he</emph> was.”</seg></said>
                     </p>
                 </div>
                 <div type="paragraph" n="33">
@@ -566,9 +566,10 @@
                             again, was the only other word of importance contributed to the subject
                             till, the next night,</seg>
                         <seg ana="fire">by the corner of the hearth,</seg> in the best chair, he
-                        opened the faded red cover of a thin old-fashioned gilt-edged album. The
-                        whole thing took indeed more nights than one, but on the first occasion the
-                        same lady put another question. <said who="storygroupmember" aloud="true"
+                        opened the faded <seg ana="colors-red">red</seg> cover of a thin
+                        old-fashioned gilt-edged album. The whole thing took indeed more nights than
+                        one, but on the first occasion the same lady put another question. <said
+                            who="storygroupmember" aloud="true"
                             toWhom="douglas mrsgriffin mrgriffin storygroupmembers"> “What is your
                             title?” </said>
                     </p>
@@ -607,12 +608,12 @@
                         broad, clear front, its open windows and fresh curtains and the pair of
                         maids looking out; I remember the lawn and the bright flowers and the crunch
                         of my wheels on the gravel and the clustered treetops over which the rooks
-                        circled and cawed in the <seg ana="colors=gold">golden sky.</seg> The scene
-                        had a greatness that made it a different affair from my own scant home, and
-                        there immediately appeared at the door, with a little girl in her hand, a
-                        civil person who dropped me as decent a curtsy as if I had been the mistress
-                        or a distinguished visitor. I had received in Harley Street a narrower
-                        notion of the place, and that, as I recalled it, made me think the
+                        circled and cawed in the <seg ana="colors-golden">golden</seg> sky. The
+                        scene had a greatness that made it a different affair from my own scant
+                        home, and there immediately appeared at the door, with a little girl in her
+                        hand, a civil person who dropped me as decent a curtsy as if I had been the
+                        mistress or a distinguished visitor. I had received in Harley Street a
+                        narrower notion of the place, and that, as I recalled it, made me think the
                         proprietor still more of a gentleman, suggested that what I was to enjoy
                         might be something beyond his promise. </p>
                 </div>
@@ -782,16 +783,17 @@
                         led me on. I have not seen Bly since the day I left it, <seg
                             ana="vision-physical">and I daresay that to my older and more informed
                             eyes </seg> it would now appear sufficiently contracted. But as my
-                        little conductress, with her hair of gold and her frock of blue, danced
-                        before me round corners and pattered down passages, <seg
-                            ana="reading romance books">I had the view of a castle of romance
-                            inhabited by a rosy sprite, such a place as would somehow, for diversion
-                            of the young idea, take all color out of storybooks and fairytales.
-                            Wasn’t it just a storybook over which I had fallen adoze and a dream?
-                        </seg> No; it was a big, ugly, antique, but convenient house, embodying a
-                        few features of a building still older, half-replaced and half-utilized, in
-                        which I had the fancy of our being almost as lost as a handful of passengers
-                        in a great drifting ship. Well, I was, strangely, at the helm! </p>
+                        little conductress, with her hair of <seg ana="colors-gold">gold</seg> and
+                        her frock of <seg ana="colors-blue">blue</seg>, danced before me round
+                        corners and pattered down passages, <seg ana="reading romance books">I had
+                            the view of a castle of romance inhabited by a rosy sprite, such a place
+                            as would somehow, for diversion of the young idea, take all color out of
+                            storybooks and fairytales. Wasn’t it just a storybook over which I had
+                            fallen adoze and a dream? </seg> No; it was a big, ugly, antique, but
+                        convenient house, embodying a few features of a building still older,
+                        half-replaced and half-utilized, in which I had the fancy of our being
+                        almost as lost as a handful of passengers in a great drifting ship. Well, I
+                        was, strangely, at the helm! </p>
                 </div>
             </div>
             <div type="chapter" n="2">
@@ -942,16 +944,16 @@
                 </div>
                 <div type="paragraph" n="18">
                     <p>I turned and <seg ana="vision">saw that Flora, whom, ten minutes before, I
-                            had established in the schoolroom with a sheet of white paper, a pencil,
-                            and a copy of nice “round O’s,” now presented herself to view at the
-                            open door. </seg> She expressed in her little way an extraordinary
-                        detachment from disagreeable duties, looking to me, however, with a great
-                        childish light that seemed to offer it as a mere result of the affection she
-                        had conceived for my person, which had rendered necessary that she should
-                        follow me. I needed nothing more than this to feel the full force of Mrs.
-                        Grose’s comparison, and, <seg ana="touch-physical">catching my pupil in my
-                            arms, covered her with kisses in which there was a sob of atonement.
-                        </seg>
+                            had established in the schoolroom with a sheet of <seg
+                                ana="colors-white">white</seg> paper, a pencil, and a copy of nice
+                            “round O’s,” now presented herself to view at the open door. </seg> She
+                        expressed in her little way an extraordinary detachment from disagreeable
+                        duties, looking to me, however, with a great childish light that seemed to
+                        offer it as a mere result of the affection she had conceived for my person,
+                        which had rendered necessary that she should follow me. I needed nothing
+                        more than this to feel the full force of Mrs. Grose’s comparison, and, <seg
+                            ana="touch-physical">catching my pupil in my arms, covered her with
+                            kisses in which there was a sob of atonement. </seg>
                     </p>
                 </div>
                 <div type="paragraph" n="19">
@@ -1389,11 +1391,12 @@
                         moment returns. It was as if, while I took in—what I did take in—all the
                         rest of the scene had been stricken with death. <seg ana="sound-physical">I
                             can hear again, as I write, the intense hush in which the sounds of
-                            evening dropped. The rooks stopped cawing in the golden sky, and the
-                            friendly hour lost, for the minute, all its voice. </seg> But there was
-                        no other change in nature, unless indeed it were a change that I saw with a
-                        stranger sharpness. The gold was still in the sky, the clearness in the air,
-                        and the man who looked at me over the battlements was <seg
+                            evening dropped. The rooks stopped cawing in the <seg
+                                ana="colors-golden">golden</seg> sky, and the friendly hour lost,
+                            for the minute, all its voice. </seg> But there was no other change in
+                        nature, unless indeed it were a change that I saw with a stranger sharpness.
+                        The <seg ana="colors-gold">gold</seg> was still in the sky, the clearness in
+                        the air, and the man who looked at me over the battlements was <seg
                             ana="vision-figurative">as definite as a picture in a frame. </seg>
                         That’s how I thought, with extraordinary quickness, of each person that he
                         might have been and that he was not. We were confronted across our distance
@@ -1460,14 +1463,15 @@
                         been—was the part I became, in the hall, aware of in meeting Mrs. Grose.
                             <seg ana="vision-physical">This picture comes back to me </seg> in the
                         general train—the impression, as I received it on my return, of the wide
-                        white panelled space, bright in the lamplight and with its portraits and red
-                        carpet, and of the good surprised look of my friend, which immediately told
-                        me she had missed me. It came to me straightway, <seg ana="touch-figurative"
-                            >under her contact,</seg> that, with plain heartiness, mere relieved
-                        anxiety at my appearance, she knew nothing whatever that could bear upon the
-                        incident I had there ready for her. <seg ana="vision-figurative">I had not
-                            suspected in advance that <seg ana="touch-figurative">her comfortable
-                                face would pull me up, </seg>
+                            <seg ana="colors-white">white</seg> panelled space, bright in the
+                        lamplight and with its portraits and <seg ana="colors-red">red</seg> carpet,
+                        and of the good surprised look of my friend, which immediately told me she
+                        had missed me. It came to me straightway, <seg ana="touch-figurative">under
+                            her contact,</seg> that, with plain heartiness, mere relieved anxiety at
+                        my appearance, she knew nothing whatever that could bear upon the incident I
+                        had there ready for her. <seg ana="vision-figurative">I had not suspected in
+                            advance that <seg ana="touch-figurative">her comfortable face would pull
+                                me up, </seg>
                         </seg> and I somehow measured the importance of what I had seen by my thus
                         finding myself <seg ana="delay">hesitate to mention it</seg>. Scarce
                         anything in the whole history seems to me so odd as this fact that my real
@@ -1524,12 +1528,12 @@
                         promptly given me, I have noted, to face that mystery without a pang.
                         Perhaps even it would be nearer the truth to say that—without a word—he
                         himself had cleared it up. He had made the whole charge absurd. My
-                        conclusion bloomed there with the real rose flush of his innocence: he was
-                        only too fine and fair for the little horrid, unclean school-world, and he
-                        had paid a price for it. I reflected acutely that the sense of such
-                        differences, such superiorities of quality, always, on the part of the
-                        majority—which could include even stupid, sordid headmasters—turn infallibly
-                        to the vindictive. </p>
+                        conclusion bloomed there with the real <seg ana="colors-rose">rose</seg>
+                        flush of his innocence: he was only too fine and fair for the little horrid,
+                        unclean school-world, and he had paid a price for it. I reflected acutely
+                        that the sense of such differences, such superiorities of quality, always,
+                        on the part of the majority—which could include even stupid, sordid
+                        headmasters—turn infallibly to the vindictive. </p>
                 </div>
                 <div type="paragraph" n="4">
                     <p>Both the children had a gentleness (it was their only fault, and it never
@@ -1621,13 +1625,14 @@
                             ana="repetition">repetition of what had already occurred. </seg>
                         <seg ana="vision-physical">She saw me as I had seen my own visitant;</seg>
                         she pulled up short as I had done; I gave her something of the shock that I
-                        had received. She turned white, and this made me ask myself if I had
-                        blanched as much. <seg ana="vision-physical">She stared,</seg> in short, and
-                        retreated on just <emph rend="italics">my </emph> lines, and I knew she had
-                        then passed out and come round to me and that I should presently meet her. I
-                        remained where I was, and while I waited I thought of more things than one.
-                        But there’s only one I take space to mention. I wondered why <emph
-                            rend="italics">she</emph> should be scared. </p>
+                        had received. She turned <seg ana="colors-white">white</seg>, and this made
+                        me ask myself if I had blanched as much. <seg ana="vision-physical">She
+                            stared,</seg> in short, and retreated on just <emph rend="italics">my
+                        </emph> lines, and I knew she had then passed out and come round to me and
+                        that I should presently meet her. I remained where I was, and while I waited
+                        I thought of more things than one. But there’s only one I take space to
+                        mention. I wondered why <emph rend="italics">she</emph> should be scared.
+                    </p>
                 </div>
             </div>
             <div type="chapter" n="5">
@@ -1653,8 +1658,8 @@
                 <div type="paragraph" n="4">
                     <p>
                         <said who="mrsgrose" aloud="true" toWhom="governess">
-                            <seg ana="vision-physical">“You’re as white as a sheet. You look
-                                awful.”</seg>
+                            <seg ana="vision-physical">“You’re as <seg ana="colors-white"
+                                    >white</seg> as a sheet. You look awful.”</seg>
                         </said>
                     </p>
                 </div>
@@ -2060,14 +2065,17 @@
                         <seg ana="vision-physical">Then seeing in her face that she already, in
                             this, with a deeper dismay, found a touch of picture, I quickly added
                             stroke to stroke</seg>. <said who="governess" aloud="true"
-                            toWhom="mrsgrose">“He has red hair, very red, close-curling, and a pale
-                            face, long in shape, with straight, good features and little, rather
-                            queer whiskers that are as red as his hair. His eyebrows are, somehow,
-                            darker; they look particularly arched and as if they might move a good
-                            deal. His eyes are sharp, strange—awfully; but I only know clearly that
-                            they’re rather small and very fixed. His mouth’s wide, and his lips are
-                            thin, and except for his little whiskers he’s quite clean-shaven. He
-                            gives me a sort of sense of looking like an actor.” </said>
+                            toWhom="mrsgrose"><seg ana="repetition">“He has <seg ana="colors-red"
+                                    >red</seg> hair, very <seg ana="colors-red">red</seg>,
+                                close-curling, and a pale face, long in shape, with straight, good
+                                features and little, rather queer whiskers that are as <seg
+                                    ana="colors-red">red</seg> as his hair.</seg> His eyebrows are,
+                            somehow, darker; they look particularly arched and as if they might move
+                            a good deal. His eyes are sharp, strange—awfully; but I only know
+                            clearly that they’re rather small and very fixed. His mouth’s wide, and
+                            his lips are thin, and except for his little whiskers he’s quite
+                            clean-shaven. He gives me a sort of sense of looking like an actor.”
+                        </said>
                     </p>
                 </div>
                 <div type="paragraph" n="64">
@@ -2591,28 +2599,29 @@
                     <div type="paragraph" n="41">
                         <p>This moment dated from an afternoon hour that I happened to spend in the
                             grounds with the younger of my pupils alone. We had left Miles indoors,
-                            on the red cushion of a deep window seat; <seg ana="reading books">he
-                                had wished to finish a book, </seg> and I had been glad to encourage
-                            a purpose so laudable in a young man whose only defect was an occasional
-                            excess of the restless. His sister, on the contrary, had been alert to
-                            come out, and I strolled with her half an hour, seeking the shade, for
-                            the sun was still high and the day exceptionally warm. I was aware
-                            afresh, with her, as we went, of how, like her brother, she contrived—it
-                            was the charming thing in both children—to let me alone without
-                            appearing to drop me and to accompany me without appearing to surround.
-                            They were never importunate and yet never listless. My attention to them
-                            all really went to seeing them amuse themselves immensely without me:
-                            this was a spectacle they seemed actively to prepare and that engaged me
-                            as an active admirer. <seg ana="imaginative play">I walked in a world of
-                                their invention—they had no occasion whatever to draw upon mine; so
-                                that my time was taken only with being, for them, some remarkable
-                                person or thing that the game of the moment required and that was
-                                merely, thanks to my superior, my exalted stamp, a happy and highly
-                                distinguished sinecure. I forget what I was on the present occasion;
-                                I only remember that I was something very important and very quiet
-                                and that Flora was playing very hard. We were on the edge of the
-                                lake, and, as we had lately begun geography, the lake was the Sea of
-                                Azof. </seg>
+                            on the <seg ana="colors-red">red</seg> cushion of a deep window seat;
+                                <seg ana="reading books">he had wished to finish a book, </seg> and
+                            I had been glad to encourage a purpose so laudable in a young man whose
+                            only defect was an occasional excess of the restless. His sister, on the
+                            contrary, had been alert to come out, and I strolled with her half an
+                            hour, seeking the shade, for the sun was still high and the day
+                            exceptionally warm. I was aware afresh, with her, as we went, of how,
+                            like her brother, she contrived—it was the charming thing in both
+                            children—to let me alone without appearing to drop me and to accompany
+                            me without appearing to surround. They were never importunate and yet
+                            never listless. My attention to them all really went to seeing them
+                            amuse themselves immensely without me: this was a spectacle they seemed
+                            actively to prepare and that engaged me as an active admirer. <seg
+                                ana="imaginative play">I walked in a world of their invention—they
+                                had no occasion whatever to draw upon mine; so that my time was
+                                taken only with being, for them, some remarkable person or thing
+                                that the game of the moment required and that was merely, thanks to
+                                my superior, my exalted stamp, a happy and highly distinguished
+                                sinecure. I forget what I was on the present occasion; I only
+                                remember that I was something very important and very quiet and that
+                                Flora was playing very hard. We were on the edge of the lake, and,
+                                as we had lately begun geography, the lake was the Sea of Azof.
+                            </seg>
                         </p>
                     </div>
                     <div type="paragraph" n="42">
@@ -2762,9 +2771,10 @@
                         <p>
                             <said who="governess" aloud="true" toWhom="mrsgrose">“Another
                                 person—this time; but a figure of quite as unmistakable horror and
-                                evil: a woman in black, pale and dreadful—with such an air also, and
-                                such a face!—on the other side of the lake. I was there with the
-                                child—quiet for the hour; and in the midst of it she came.” </said>
+                                evil: a woman in <seg ana="colors-black">black</seg>, pale and
+                                dreadful—with such an air also, and such a face!—on the other side
+                                of the lake. I was there with the child—quiet for the hour; and in
+                                the midst of it she came.” </said>
                         </p>
                     </div>
                     <div type="paragraph" n="11">
@@ -3037,7 +3047,8 @@
                     </div>
                     <div type="paragraph" n="48">
                         <p>After a little she turned round. <said who="mrsgrose" aloud="true"
-                                toWhom="governess">“The person was in black, you say?”</said>
+                                toWhom="governess">“The person was in <seg ana="colors">black</seg>,
+                                you say?”</said>
                         </p>
                     </div>
                     <div type="paragraph" n="49">
@@ -3255,30 +3266,31 @@
                             supposed I had brushed away the ugly signs: but I could literally—for
                             the time, at all events—rejoice, under this fathomless charity, that
                             they had not entirely disappeared. <seg ana="vision-physical">To gaze
-                                into the depths of blue of the child’s eyes </seg> and pronounce
-                            their loveliness a trick of premature cunning was to be guilty of a
-                            cynicism in preference to which I naturally preferred to abjure my
-                            judgment and, so far as might be, my agitation. I couldn’t abjure for
-                            merely wanting to, but I could repeat to Mrs. Grose—as I did there, over
-                            and over, in the small hours—that with their voices in the air, their
-                            pressure on one’s heart, and their fragrant faces against one’s cheek,
-                            everything fell to the ground but their incapacity and their beauty. It
-                            was a pity that, somehow, to settle this once for all, I had equally to
-                            re-enumerate the signs of subtlety that, in the afternoon, by the lake
-                            had made a miracle of my show of self-possession. It was a pity to be
-                            obliged to reinvestigate the certitude of the moment itself and repeat
-                            how it had come to me as a revelation that the inconceivable communion I
-                            then surprised was a matter, for either party, of habit. It was a pity
-                            that I should have had to quaver out again the reasons for my not
-                            having, in my delusion, so much as questioned that the little girl <seg
-                                ana="vision-physical">saw our visitant even as I actually saw Mrs.
-                                Grose herself, and that she wanted, by just so much as she did thus
-                                see, to make me suppose she didn’t, and at the same time, without
-                                showing anything, arrive at a guess as to whether I myself did!
-                            </seg> It was a pity that I needed once more to describe the portentous
-                            little activity by which she sought to divert my attention—the
-                            perceptible increase of movement, the greater intensity of play, the
-                            singing, the gabbling of nonsense, and the invitation to romp. </p>
+                                into the depths of <seg ana="colors-blue">blue</seg> of the child’s
+                                eyes </seg> and pronounce their loveliness a trick of premature
+                            cunning was to be guilty of a cynicism in preference to which I
+                            naturally preferred to abjure my judgment and, so far as might be, my
+                            agitation. I couldn’t abjure for merely wanting to, but I could repeat
+                            to Mrs. Grose—as I did there, over and over, in the small hours—that
+                            with their voices in the air, their pressure on one’s heart, and their
+                            fragrant faces against one’s cheek, everything fell to the ground but
+                            their incapacity and their beauty. It was a pity that, somehow, to
+                            settle this once for all, I had equally to re-enumerate the signs of
+                            subtlety that, in the afternoon, by the lake had made a miracle of my
+                            show of self-possession. It was a pity to be obliged to reinvestigate
+                            the certitude of the moment itself and repeat how it had come to me as a
+                            revelation that the inconceivable communion I then surprised was a
+                            matter, for either party, of habit. It was a pity that I should have had
+                            to quaver out again the reasons for my not having, in my delusion, so
+                            much as questioned that the little girl <seg ana="vision-physical">saw
+                                our visitant even as I actually saw Mrs. Grose herself, and that she
+                                wanted, by just so much as she did thus see, to make me suppose she
+                                didn’t, and at the same time, without showing anything, arrive at a
+                                guess as to whether I myself did! </seg> It was a pity that I needed
+                            once more to describe the portentous little activity by which she sought
+                            to divert my attention—the perceptible increase of movement, the greater
+                            intensity of play, the singing, the gabbling of nonsense, and the
+                            invitation to romp. </p>
                     </div>
                     <div type="paragraph" n="3">
                         <p> Yet if I had not indulged, to prove there was nothing in it, in this
@@ -3699,21 +3711,21 @@
                             </bibl> ; also that I was wholly awake. I recall further both a general
                             conviction that it was horribly late <seg ana="vision-physical">and a
                                 particular objection to looking at my watch. </seg> I figure,
-                            finally, that the white curtain draping, in the fashion of those days,
-                            the head of Flora’s little bed, shrouded, as I had assured myself long
-                            before, the perfection of childish rest. I recollect in short that,
-                            though I was deeply interested in my author, I found myself, at the turn
-                            of a page and with his spell all scattered, <seg ana="vision">looking
-                                straight up from him and hard at the door of my room. </seg> There
-                            was a moment during which I listened, reminded of the faint sense I had
-                            had, the first night, of there being something undefinably astir in the
-                            house, and noted the soft breath of the open casement just move the
-                            half-drawn blind. Then, with all the marks of a deliberation that must
-                            have seemed magnificent had there been anyone to admire it, <seg
-                                ana="reading romance books">I laid down my book,</seg> rose to my
-                            feet, and, taking a candle, went straight out of the room and, from the
-                            passage, on which my light made little impression, noiselessly closed
-                            and locked the door.</p>
+                            finally, that the <seg ana="colors-white">white</seg> curtain draping,
+                            in the fashion of those days, the head of Flora’s little bed, shrouded,
+                            as I had assured myself long before, the perfection of childish rest. I
+                            recollect in short that, though I was deeply interested in my author, I
+                            found myself, at the turn of a page and with his spell all scattered,
+                                <seg ana="vision">looking straight up from him and hard at the door
+                                of my room. </seg> There was a moment during which I listened,
+                            reminded of the faint sense I had had, the first night, of there being
+                            something undefinably astir in the house, and noted the soft breath of
+                            the open casement just move the half-drawn blind. Then, with all the
+                            marks of a deliberation that must have seemed magnificent had there been
+                            anyone to admire it, <seg ana="reading romance books">I laid down my
+                                book,</seg> rose to my feet, and, taking a candle, went straight out
+                            of the room and, from the passage, on which my light made little
+                            impression, noiselessly closed and locked the door.</p>
                     </div>
                     <div type="paragraph" n="5">
                         <p>I can say now neither what determined nor what guided me, but I went
@@ -3781,16 +3793,16 @@
                                 little bed was empty; </seg> and on this I caught my breath with all
                             the terror that, five minutes before, I had been able to resist. I
                             dashed at the place in which I had left her lying and over which (for
-                            the small silk counterpane and the sheets were disarranged) the white
-                            curtains had been deceivingly pulled forward; then my step, to my
-                            unutterable relief, <seg ana="sound-physical">produced an answering
-                                sound:</seg>
+                            the small silk counterpane and the sheets were disarranged) the <seg
+                                ana="colors-white">white</seg> curtains had been deceivingly pulled
+                            forward; then my step, to my unutterable relief, <seg
+                                ana="sound-physical">produced an answering sound:</seg>
                             <seg ana="vision-physical">I perceived an agitation of the window
                                 blind,</seg> and the child, ducking down, emerged rosily from the
                             other side of it. She stood there in so much of her candor and so little
-                            of her nightgown, with her <seg ana="colors-pink">pink bare feet</seg>
-                            and the <seg ana="colors-gold">golden glow of her curls. </seg>
-                            <seg ana="vision-physical">She looked intensely grave,</seg> and I had
+                            of her nightgown, with her <seg ana="colors-pink">pink</seg> bare feet
+                            and the <seg ana="colors-golden">golden</seg> glow of her curls. <seg
+                                ana="vision-physical">She looked intensely grave,</seg> and I had
                             never had such a sense of losing an advantage acquired (the thrill of
                             which had just been so prodigious) as on my consciousness that she
                             addressed me with a reproach. <said who="governess" aloud="true"
@@ -3807,8 +3819,7 @@
                                 wonderful little face that was still flushed with sleep. </seg>
                             <seg ana="vision-physical">I remember closing my eyes an instant,
                                 yieldingly, consciously, as before the excess of something beautiful
-                                that shone out of <seg ana="colors-blue">the blue of her own.</seg>
-                            </seg>
+                                that shone out of the <seg ana="colors-blue">blue</seg> of her own. </seg>
                             <said who="governess" aloud="true" toWhom="flora">
                                 <seg ana="vision-physical">“You were looking for me out of the
                                     window?”</seg>
@@ -4011,8 +4022,8 @@
                                 blighted or battered, </seg> she would doubtless have grown, on
                             tracing it back, haggard enough to match them; as matters stood,
                             however, I could feel her, <seg ana="vision-physical">when she surveyed
-                                them,</seg> with her large white arms folded <seg
-                                ana="vision-physical">and the habit of serenity in all her
+                                them,</seg> with her large <seg ana="colors-white">white</seg> arms
+                            folded <seg ana="vision-physical">and the habit of serenity in all her
                                 look,</seg> thank the Lord’s mercy that if they were ruined the
                             pieces would still serve. Flights of fancy gave place, in her mind, <seg
                                 ana="fire">to a steady fireside glow,</seg> and I had already begun
@@ -4103,14 +4114,15 @@
                     </div>
                     <div type="paragraph" n="5">
                         <p>
-                            <seg ana="vision-physical">I can still see his wonderful smile, the
-                                whites of his beautiful eyes, </seg> and the uncovering of his
-                            little teeth shine to me in the dusk. <said who="miles" aloud="true"
-                                toWhom="governess">“If I tell you why, will you understand?” </said>
-                            My heart, at this, leaped into my mouth. <emph rend="italics"
-                                >Would</emph> he tell me why? <seg ana="sound-physical">I found no
-                                sound on my lips to press it,and I was aware of replying only with a
-                                vague, repeated, grimacing nod. </seg></p>
+                            <seg ana="vision-physical">I can still see his wonderful smile, the <seg
+                                    ana="colors-white">whites</seg> of his beautiful eyes, </seg>
+                            and the uncovering of his little teeth shine to me in the dusk. <said
+                                who="miles" aloud="true" toWhom="governess">“If I tell you why, will
+                                you understand?” </said> My heart, at this, leaped into my mouth.
+                                <emph rend="italics">Would</emph> he tell me why? <seg
+                                ana="sound-physical">I found no sound on my lips to press it,and I
+                                was aware of replying only with a vague, repeated, grimacing nod.
+                            </seg></p>
                     </div>
                     <div type="paragraph" n="6">
                         <p>He was gentleness itself, and while I wagged my head at him he stood
@@ -5087,17 +5099,17 @@
                             and, within a dozen feet of me, stood there as my vile predecessor.
                             Dishonored and tragic, she was all before me; <seg
                                 ana="vision-physical touch-figurative">but even as I fixed and, for
-                                memory, secured it, the awful image passed away. </seg>
-                            <seg ana="colors-black">Dark as midnight in her black dress,</seg> her
-                            haggard beauty and her unutterable woe, <seg ana="vision-physical">she
-                                had looked at me </seg> long enough to appear to say that her right
-                            to sit at my table was as good as mine to sit at hers. While these
-                            instants lasted, indeed, I had the extraordinary chill of feeling that
-                            it was I who was the intruder. It was as a wild protest against it that,
-                            actually addressing her—<said who="governess" aloud="true"
-                                toWhom="missjessel">“You terrible, miserable woman!”</said>— <seg
-                                ana="sound-physical">I heard myself break into a sound that, by the
-                                open door, rang through the long passage and the empty house. </seg>
+                                memory, secured it, the awful image passed away. </seg> Dark as
+                            midnight in her <seg ana="colors-black">black</seg> dress, her haggard
+                            beauty and her unutterable woe, <seg ana="vision-physical">she had
+                                looked at me </seg> long enough to appear to say that her right to
+                            sit at my table was as good as mine to sit at hers. While these instants
+                            lasted, indeed, I had the extraordinary chill of feeling that it was I
+                            who was the intruder. It was as a wild protest against it that, actually
+                            addressing her—<said who="governess" aloud="true" toWhom="missjessel"
+                                >“You terrible, miserable woman!”</said>— <seg ana="sound-physical"
+                                >I heard myself break into a sound that, by the open door, rang
+                                through the long passage and the empty house. </seg>
                             <seg ana="vision-physical">She looked at me</seg>
                             <seg ana="sound-figurative">as if she heard me,</seg> but I had
                             recovered myself and cleared the air. There was nothing in the room the
@@ -5549,14 +5561,14 @@
                                 trouble you, this question, when you never told me so, never spoke
                                 of it at all?” </said>
                             <seg ana="vision-physical">His clear, listening face, framed in its
-                                smooth whiteness, made him for the minute as appealing as some
-                                wistful patient in a children’s hospital; </seg> and I would have
-                            given, as the resemblance came to me, all I possessed on earth really to
-                            be the nurse or the sister of charity who might have helped to cure him.
-                            Well, even as it was, I perhaps might help! <said who="governess"
-                                aloud="true" toWhom="miles">“Do you know you’ve never said a word to
-                                me about your school—I mean the old one; never mentioned it in any
-                                way?” </said></p>
+                                smooth <seg ana="colors-white">whiteness</seg>, made him for the
+                                minute as appealing as some wistful patient in a children’s
+                                hospital; </seg> and I would have given, as the resemblance came to
+                            me, all I possessed on earth really to be the nurse or the sister of
+                            charity who might have helped to cure him. Well, even as it was, I
+                            perhaps might help! <said who="governess" aloud="true" toWhom="miles"
+                                >“Do you know you’ve never said a word to me about your school—I
+                                mean the old one; never mentioned it in any way?” </said></p>
                     </div>
                     <div type="paragraph" n="17">
                         <p>He seemed to wonder; he smiled with the same loveliness. But he clearly
@@ -6336,9 +6348,9 @@
                                 was therefore shaken, </seg> on the spot, <seg ana="vision-physical"
                                 >by my first glimpse </seg> of the particular one for which I had
                             not allowed. <seg ana="vision-physical">To see her, without a convulsion
-                                of her small pink face, </seg> not even feign to glance in the
-                            direction of the prodigy I announced, but only, instead of that, turn at
-                                <emph rend="italics">me</emph>
+                                of her small <seg ana="colors-pink">pink</seg> face, </seg> not even
+                            feign to glance in the direction of the prodigy I announced, but only,
+                            instead of that, turn at <emph rend="italics">me</emph>
                             <seg ana="vision-physical">an expression of hard, still gravity, an
                                 expression absolutely new and unprecedented and that appeared to
                                 read and accuse and judge me </seg> —this was a stroke that somehow
@@ -7612,7 +7624,7 @@
                                 view like a sentinel before a prison. The next thing I saw was that,
                                 from outside, he had reached the window, and then I knew that, close
                                 to the glass and glaring in through it, he offered once more to the
-                                room his white face of damnation. </seg>
+                                room his <seg ana="colors-white">white</seg> face of damnation. </seg>
                             <seg ana="vision-physical">It represents but grossly what took place
                                 within me at the sight to say </seg> that on the second my decision
                             was made; yet I believe that no woman so overwhelmed ever in so short a
@@ -7629,7 +7641,8 @@
                             <seg ana="touch-physical">in the tremor of my hands, at arm’s
                                 length</seg>—had a perfect dew of sweat on a lovely childish
                             forehead. <seg ana="vision-physical">The face that was close to mine was
-                                as white as the face against the glass, </seg>
+                                as <seg ana="colors-white">white</seg> as the face against the
+                                glass, </seg>
                             <seg ana="sound-physical">and out of it presently came a sound, not low
                                 nor weak,</seg> but as if from much further away, <seg
                                 ana="smell-figurative">
@@ -7807,8 +7820,8 @@
                             <seg ana="sound-physical">and drew his breath, two or three times over,
                                 as if with difficulty. </seg> He might have been standing at the
                             bottom of the sea <seg ana="vision-physical">and raising his eyes</seg>
-                            to some <seg ana="colors-green">faint green twilight.</seg>
-                            <said who="miles" aloud="true" toWhom="governess">“Well—I said
+                            to some faint <seg ana="colors-green">green</seg> twilight. <said
+                                who="miles" aloud="true" toWhom="governess">“Well—I said
                                 things.”</said></p>
                     </div>
                     <div type="paragraph" n="23">
@@ -7831,7 +7844,8 @@
                                 </seg>
                                 <seg ana="vision-figurative">shown so little to explain it</seg> as
                                 this little person! <seg ana="vision-physical">He appeared to weigh
-                                    my question, but in a manner quite detached and almost helpless. </seg>
+                                    my question, but in a manner quite detached and almost
+                                    helpless.</seg>
                                 <said who="miles" aloud="true" toWhom="governess">“Well, I suppose I
                                     oughtn’t.”</said></p>
                         </div>
