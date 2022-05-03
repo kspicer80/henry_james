@@ -4,8 +4,9 @@ from spacy import displacy
 nlp = spacy.load('en_core_web_lg')
 
 
-file_path = r'.\209-0.txt'
-with open(file_path, encoding='utf-8') as f:
+windows_file_path = r'.\209-0.txt'
+mac_file_path = '../209-0.txt'
+with open(mac_file_path, encoding='utf-8') as f:
     data = f.read()
 doc = nlp(data)
 #print(doc[0:100])
@@ -16,7 +17,7 @@ doc = nlp(data)
             #print(ent.text + '  -  ' + str(ent.start_char) + '  -  '  + #str(ent.end_char) + '  -  ' + str(spacy.explain(ent.label_)))
     #else:
         #print('No named entities found.')
-        
+
 #doc = nlp('Apple is looking at buying U.K. from Chicago and New York startup for $1 billion in assets.')
 #print(show_ents(doc1))
 
@@ -40,6 +41,5 @@ doc = nlp(data)
 #
 #for key, val in ents.items():
     #print(val, key, sep="\t")
-    
-options = {'ents': ['DATE', 'TIME']}
+
 displacy.serve(doc, style='ent', options=options)
