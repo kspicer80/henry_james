@@ -160,7 +160,7 @@
                         much reproach; after which, in his preoccupied way, he explained. <said
                             who="douglas" aloud="true" toWhom="narrator">
                             <seg ana="writing">“The story’s written.</seg> It’s in a locked
-                            drawer—it has not been out for years. <seg ana="writing">I could write
+                            drawer—it has not been out for <date>years</date. <seg ana="writing">I could write
                                 to my man </seg> and enclose the key; he could send down the packet
                             as he finds it.” </said> It was to me in particular that he appeared to
                         propound this—<seg ana="delay">appeared almost to appeal for aid not to
@@ -213,7 +213,7 @@
                         <seg ana="delay">He hung fire again.</seg>
                         <said who="douglas" aloud="true"
                             toWhom="narrator mrsgriffin storygroupmember">“A woman’s. She has been
-                            dead these twenty years. <seg ana="writing letters">She sent me the
+                            dead these <time>twenty years.</time> <seg ana="writing letters">She sent me the
                                 pages in question before she died.”</seg></said> They were all <seg
                             ana="sound-physical">listening</seg> now, and of course there was
                         somebody to be arch, or at any rate to draw the inference. But if he put the
