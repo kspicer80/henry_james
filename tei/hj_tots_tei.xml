@@ -2743,12 +2743,12 @@
                                 remember that I was something very important and very quiet and that
                                     <persName ref="flora">Flora</persName> was playing very hard. We
                                 were on the edge of the lake, and, as we had lately begun geography,
-                                the lake was the Sea of Azof. </seg>
+                                the lake was the <geogName type='sea'>Sea of Azof.</geogName></seg>
                         </p>
                     </div>
                     <div type="paragraph" n="42">
                         <p>Suddenly, in these circumstances, I became aware that, on the other side
-                            of the Sea of Azof, we had an interested spectator. The way this
+                            of the <geogName type='sea'>Sea of Azof</geogName>, we had an interested spectator. The way this
                             knowledge gathered in me was the strangest thing in the world—the
                             strangest, that is, except the very much stranger in which it quickly
                             merged itself. I had sat down with a piece of work—for I was something
@@ -7125,7 +7125,7 @@
                                 itself;</seg>
                             <seg ana="touch-physical">she put out her hand to me as a pledge. </seg>
                             <said who="mrsgrose" aloud="true" toWhom="governess">
-                                <seg ana="repetition">“I’ll go—I’ll go. I’ll go</seg> this morning.”
+                                <seg ana="repetition">“I’ll go—I’ll go. I’ll go</seg> <time>this morning</time>.”
                             </said></p>
                     </div>
                     <div type="paragraph" n="39">
@@ -7161,7 +7161,7 @@
                             <seg ana="vision-physical">The look she gave me with it made me jump at
                                 possibilities.</seg>
                             <said who="governess" aloud="true" toWhom="mrsgrose">“You mean that,
-                                since yesterday, <seg ana="vision-physical">you <emph rend="italics"
+                                since <date>yesterday</date>, <seg ana="vision-physical">you <emph rend="italics"
                                         >have</emph> seen—?” </seg>
                             </said></p>
                     </div>
@@ -7277,7 +7277,7 @@
                     <div type="paragraph" n="60">
                         <p>
                             <said who="governess" aloud="true" toWhom="mrsgrose">“Then, in spite of
-                                yesterday, you <emph rend="italics">believe</emph>—” </said></p>
+                                <date>yesterday</date>, you <emph rend="italics">believe</emph>—” </said></p>
                     </div>
                     <div type="paragraph" n="61">
                         <p>
@@ -7328,9 +7328,9 @@
                         <p>
                             <seg ana="fire-figurative delay">She hung fire,</seg> but she overcame
                             her reluctance. <said who="mrsgrose" aloud="true" toWhom="governess">
-                                <seg ana="vision-physical">“I mean that I saw yesterday, </seg> when
+                                <seg ana="vision-physical">“I mean that I saw <date>yesterday</date>, </seg> when
                                 I came back with Miss <persName ref="flora">Flora</persName>, that
-                                it wasn’t where you had put it. Later in the evening I had the
+                                it wasn’t where you had put it. <time>Later in the evening</time> I had the
                                 chance to question Luke, and he declared that he had neither noticed
                                 nor touched it.” </said>
                             <seg ana="sound-figurative">We could only exchange, on this, one of our
@@ -7391,7 +7391,7 @@
                                 <seg ana="vision-physical">so I showed them off as I might. </seg>
                             <said who="governess" aloud="true" toWhom="mrsgrose">“I hope then it was
                                 to more purpose than in this case! The note, at any rate, that I put
-                                on the table yesterday,” </said> I pursued, <said who="governess"
+                                on the table <date>yesterday</date>,” </said> I pursued, <said who="governess"
                                 aloud="true" toWhom="mrsgrose">“will have given him so scant an
                                 advantage—for it contained only the bare demand for an
                                 interview—that he is already much ashamed of having gone so far for
@@ -7428,13 +7428,13 @@
                                 ana="touch-figuraive">that the great pinch </seg> really came. If I
                             had counted on what it would give me to find myself alone with <persName
                                 ref="miles">Miles</persName>, <seg ana="vision-physical">I speedily
-                                perceived, at least, that it would give me a measure. </seg> No hour
+                                perceived, at least, that it would give me a measure. </seg> No <time>hour</time>
                             of my stay in fact was so assailed with apprehensions as that of my
                             coming down to learn that the carriage containing <persName
                                 ref="mrsgrose">Mrs. Grose</persName> and my younger pupil had
                             already rolled out of the gates. Now I <emph rend="italics"> was</emph>,
                             I said to myself, face to face with the elements, and for much of the
-                            rest of the day, while I fought my weakness, I could consider that I had
+                            rest of <date>the day</date>, while I fought my weakness, I could consider that I had
                             been supremely rash. It was a tighter place still than I had yet turned
                             round in; all the more that, for the first time, <seg
                                 ana="vision-physical">I could see in the aspect of others a confused
@@ -7451,7 +7451,7 @@
                             bear up at all, I became, that morning, very grand and very dry. I
                             welcomed the consciousness that I was charged with much to do, and I
                             caused it to be known as well that, left thus to myself, I was quite
-                            remarkably firm. I wandered with that manner, for the next hour or two,
+                            remarkably firm. I wandered with that manner, for <time>the next hour</time> or two,
                             all over the place and <seg ana="vision-physical"> looked, </seg> I have
                             no doubt, as if I were ready for any onset. So, for the benefit of whom
                             it might concern, I paraded with a sick heart.</p>
@@ -7461,8 +7461,8 @@
                                 <persName ref="miles">Miles</persName> himself. My perambulations
                             had given me, meanwhile, <seg ana="vision-physical">no glimpse of him,
                             </seg> but they had tended to make more public the change taking place
-                            in our relation as a consequence of his having at the piano, the day
-                            before, kept me, in <persName ref="flora">Flora</persName>’s interest,
+                            in our relation as a consequence of his having at the piano, <date>the day
+                            before</date>, kept me, in <persName ref="flora">Flora</persName>’s interest,
                             so beguiled and befooled. The stamp of publicity had of course been
                             fully given by her confinement and departure, and the change itself was
                             now ushered in by our nonobservance of the regular custom of the
@@ -7485,7 +7485,7 @@
                             capacity. He had at any rate his freedom now; <seg
                                 ana="physical-figurative">I was never to touch it again;</seg>
                             <seg ana="vision-figurative">as I had amply shown,</seg> moreover, when,
-                            on his joining me in the schoolroom the previous night, I had uttered,
+                            on his joining me in the schoolroom the <date>previous <time>night</time></date>, I had uttered,
                             on the subject of the interval just concluded, neither challenge nor
                             hint. I had too much, from this moment, my other ideas. Yet when he at
                             last arrived, the difficulty of applying them, the accumulations of my
@@ -7499,7 +7499,7 @@
                             meals with the boy should be served, as we called it, downstairs; so
                             that I had been awaiting him in the ponderous pomp of the room outside
                             of the window of which I had had from <persName ref="mrsgrose">Mrs.
-                                Grose</persName>, that first scared Sunday, <seg
+                                Grose</persName>, that first scared <date>Sunday</date>, <seg
                                 ana="vision-physical">my flash of something it would scarce have
                                 done to call light. </seg> Here at present I felt afresh—for I had
                             felt it <seg ana="repetition">again and again</seg>seg>—how my
@@ -7604,9 +7604,9 @@
                                 <seg ana="repetition">“I see, I see”</seg>
                             </said>—<persName ref="miles">Miles</persName>, for that matter, was
                             grand, too. He settled to his repast with the charming little “table
-                            manner” that, from the day of his arrival, had relieved me of all
+                            manner” that, from <date>the day</date> of his arrival, had relieved me of all
                             grossness of admonition. Whatever he had been driven from school for, it
-                            was not for ugly feeding. He was irreproachable, as always, today; but
+                            was not for ugly feeding. He was irreproachable, as always, <date>today</date>; but
                             he was unmistakably more conscious. He was discernibly trying to take
                             for granted more things than he found, without assistance, quite easy;
                                 <seg ana="sound-physical">and he dropped into peaceful
@@ -7673,14 +7673,14 @@
                                 reached it with his vague, restless, cogitating step. </seg> He
                             remained there awhile, with his forehead against the glass, in
                             contemplation of the stupid shrubs I knew and the dull things of
-                            November. I had always my hypocrisy of “work,” behind which, now, I
+                            <date when='--11'>November</date>. I had always my hypocrisy of “work,” behind which, now, I
                             gained the sofa. Steadying myself with it there as I had repeatedly done
                             at those moments of torment that I have described as the moments of my
                             knowing the children to be given to something from which I was barred, I
                             sufficiently obeyed my habit of being prepared for the worst. But an
                             extraordinary impression dropped on me as I extracted a meaning from the
                             boy’s embarrassed back—none other than the impression that I was not
-                            barred now. This inference grew in a few minutes to sharp intensity and
+                            barred now. This inference grew in a <time>few minutes</time> to sharp intensity and
                             seemed bound up with the direct perception that it was positively <emph
                                 rend="italics">he </emph> who was. <seg ana="vision-figurative">The
                                 frames and squares of the great window were a kind of image, </seg>
@@ -7692,7 +7692,7 @@
                             the whole business that he had known such a lapse? <seg ana="repetition"
                                 >The first, the very first:</seg> I found it a splendid portent.
                                 <seg ana="vision-physical">It made him anxious, though he watched
-                                himself; </seg> he had been anxious all day and, <seg
+                                himself; </seg> he had been anxious <date>all day</date> and, <seg
                                 ana="taste-figurative">even while in his usual sweet little manner
                             </seg> he sat at table, had needed all his small strange genius <seg
                                 ana="reading">to give it a gloss.</seg> When he at last turned round
@@ -7708,7 +7708,7 @@
                             </said>
                             <said who="governess" aloud="true" toWhom="miles">
                                 <seg ana="vision-physical">“You would certainly seem to have seen,
-                                    these twenty-four hours, a good deal more of it than for some
+                                    these <time>twenty-four hours</time>, a good deal more of it than for some
                                     time before. </seg> I hope,” </said> I went on bravely, <said
                                 who="governess" aloud="true" toWhom="miles">“that you’ve been
                                 enjoying yourself.”</said></p>
@@ -7915,14 +7915,14 @@
                             <said who="governess" aloud="true" toWhom="miles">“Yes, a mere fraction
                                 of the whole. Tell me”</said>—oh, my work preoccupied me, and I was
                             offhand!— <said who="governess" aloud="true" toWhom="miles">“if,
-                                yesterday afternoon, from the table in the hall, <seg ana="letters"
+                                <date>yesterday</date> <time>afternoon</time>, from the table in the hall, <seg ana="letters"
                                     >you took, you know, my letter.”</seg>
                             </said></p>
                     </div>
                 </div>
                 <div type="chapter" n="24">
                     <div type="paragraph" n="1">
-                        <p>My sense of how he received this suffered for a minute from something
+                        <p>My sense of how he received this suffered for <time>a minute</time> from something
                             that I can describe only <seg ana="touch-figurative">as a fierce split
                                 of my attention—a stroke that at first, as I sprang straight up,
                                 reduced me to the mere blind movement of getting hold of him,
@@ -8207,7 +8207,7 @@
                                     <quote>Those he liked?</quote>
                                 </seg>
                                 <seg ana="vision-figurative">I seemed to float not into clearness,
-                                    but into a darker obscure, </seg> and within a minute there had
+                                    but into a darker obscure, </seg> and within <time>a minute</time> there had
                                 come to me out of my very pity the appalling alarm of his being
                                 perhaps innocent. It was for the instant confounding and bottomless,
                                 for if he <emph rend="italics">were </emph> innocent, what then on
@@ -8396,7 +8396,7 @@
                                     grasp</seg> with which I recovered him might have been that of
                                     <seg ana="touch-physical">catching him in his fall. </seg>
                                 <seg ana="touch-physical">I caught him, yes, I held him</seg>—it may
-                                be imagined with what a passion; but at the end of a minute I began
+                                be imagined with what a passion; but at the end of <time>a minute</time> I began
                                 to feel <seg ana="touch-physical">what it truly was that I
                                     held.</seg> We were alone with <seg
                                     ana="sound-physical repetition">the quiet day,</seg> and his
