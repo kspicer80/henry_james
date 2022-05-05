@@ -14,6 +14,7 @@ def show_ents(doc):
     if doc.ents:
         for ent in doc.ents:
             print(ent.text + '  -  ' + str(ent.start_char) + '  -  ' + str(ent.end_char) + '  -  ' + ent.label_ + '  -  ' + str(spacy.explain*(ent.label_)))
+            
 #doc = nlp('Apple is looking at buying U.K. from Chicago and New York startup for $1 billion in assets.')
 #print(show_ents(doc1))
 
