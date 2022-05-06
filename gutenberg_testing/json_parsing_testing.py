@@ -27,7 +27,7 @@ with open(r'C:\Users\KSpicer\Documents\GitHub\henry_james\gutenberg_testing\henr
 for item in data['results']:
     id = item['id']
     title = item['title']
-    print(id, title)
+    print(id)
     
 #new_string = json.dumps(data, indent=2)
 #print(new_string)

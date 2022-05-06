@@ -75,29 +75,6 @@ from collections import Counter
 ngrams_freq = Counter(ngrams)
 print(ngrams_freq)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #from booknlp.booknlp import BookNLP
 #
 #model_params = {
