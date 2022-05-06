@@ -24,10 +24,13 @@ with open(r'C:\Users\KSpicer\Documents\GitHub\henry_james\gutenberg_testing\henr
 #
 #print(len(data['results']))
 
+id_and_title_dict = {}
 for item in data['results']:
-    id = item['id']
-    title = item['title']
-    print(id)
+    id_and_title_dict[item['id']] = item['title']
+    #id = item['id']
+    #title = item['title']
+    #print(id, title)
+print(id_and_title_dict)
     
 #new_string = json.dumps(data, indent=2)
 #print(new_string)

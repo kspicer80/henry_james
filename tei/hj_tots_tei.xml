@@ -19,6 +19,11 @@
                 <p>From the Project Gutenberg's version of the text.</p>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <quotation marks="all"/>
+            </editorialDecl>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
                 <language ident="eng">English</language>
@@ -98,7 +103,7 @@
                             particular <seg ana="touch-figurative">touch.</seg> But it’s not the
                             first occurrence of its charming kind that I know to have involved a
                             child. If the child gives the effect another turn of the screw, what do
-                            you say to <emph rend="italics">two</emph> children—?"</said></p>
+                            you say to <emph rend="italics">two</emph> children—?”</said></p>
                 </div>
                 <div type="paragraph" n="3">
                     <p><said who="storygroup" aloud="true" toWhom="narrator mrsgriffin douglas">“We
@@ -107,7 +112,7 @@
                             turns! Also that we want to hear about them.”</said></p>
                 </div>
                 <div type="paragraph" n="4">
-                    <p>I can see <persName ref="douglas">Douglas</persName>> there <seg ana="fire"
+                    <p>I can see <persName ref="douglas">Douglas</persName> there <seg ana="fire"
                             >before the fire,</seg> to which he had got up to present his back,
                         looking down at his interlocutor with his hands in his pockets. <said
                             who="douglas" aloud="true" toWhom="storygroupmembers">“Nobody but me,
