@@ -26,40 +26,40 @@
             <particDesc>
                 <listPerson>
                     <person xml:id="governess">
-                        <name>The Governess</name>
+                        <persName>The Governess</persName>
                     </person>
                     <person xml:id="douglas">
-                        <name>Douglas</name>
+                        <persName>Douglas</persName>
                     </person>
                     <person xml:id="mrsgrose">
-                        <name><persName ref="mrsgrose">Mrs. Grose</persName></name>
+                        <persName ref="mrsgrose">Mrs. Grose</persName>
                     </person>
                     <person xml:id="miles">
-                        <name>Miles</name>
+                        <persName>Miles</persName>
                     </person>
                     <person xml:id="flora">
-                        <name>Flora</name>
+                        <persName>Flora</persName>
                     </person>
                     <person xml:id="mrsgriffin">
-                        <name>Mrs. Griffin</name>
+                        <persName>Mrs. Griffin</persName>
                     </person>
                     <person xml:id="narrator">
-                        <name>The Narrator</name>
+                        <persName>The Narrator</persName>
                     </person>
                     <person xml:id="storygroupmember">
-                        <name>Unnamed Story Listener</name>
+                        <persName>Unnamed Story Listener</persName>
                     </person>
                     <person xml:id="storygroupmembers">
-                        <name>Unnamed Story Listeners</name>
+                        <persName>Unnamed Story Listeners</persName>
                     </person>
                     <person xml:id="mrgriffin">
-                        <name>Mr. Griffin</name>
+                        <persName>Mr. Griffin</persName>
                     </person>
                     <person xml:id="missjessel">
-                        <name>Miss Jessel</name>
+                        <persName>Miss Jessel</persName>
                     </person>
                     <person xml:id="peterquint">
-                        <name>Peter Quint</name>
+                        <persName>Peter Quint</persName>
                     </person>
                 </listPerson>
             </particDesc>
@@ -220,8 +220,9 @@
                         any rate to draw the inference. But if he put the inference by without a
                         smile it was also without irritation. <said who="douglas" aloud="true"
                             toWhom="narrator mrsgriffin storygroupmember">“She was a most charming
-                            person, but she was ten years older than I. She was my sister’s
-                            governess,”</said> he quietly said.<said who="douglas" aloud="true"
+                            person, but she was ten years older than I. She was my sister’s <rs
+                                ref="governess" type="person">"governess</rs>,”</said> he quietly
+                            said.<said who="douglas" aloud="true"
                             toWhom="narrator mrsgriffin storygroupmember">“She was the most
                             agreeable woman I’ve ever known in her position; she would have been
                             worthy of any whatever. It was long ago, and this episode was long
@@ -491,19 +492,20 @@
                         housekeeper and was also acting for the time as superintendent to the little
                         girl, of whom, without children of her own, she was, by good luck, extremely
                         fond. There were plenty of people to help, but of course the young lady who
-                        should go down as governess would be in supreme authority. She would also
-                        have, in <date>holidays</date>, to look after the small boy, who had been
-                        for a term at school—young as he was to be sent, but what else could be
-                        done?—and who, as the holidays were about to begin, would be back from one
-                        day to the other. There had been for the two children at first a young lady
-                        whom they had had the misfortune to lose. She had done for them quite
-                        beautifully—she was a most respectable person—till her death, the great
-                        awkwardness of which had, precisely, left no alternative but the school for
-                        little <persName ref="miles">Miles</persName>. <persName ref="mrsgrose">Mrs.
-                            Grose</persName>, since then, in the way of manners and things, had done
-                        as she could for <persName ref="flora">Flora</persName>; and there were,
-                        further, a cook, a housemaid, a dairywoman, an old pony, an old groom, and
-                        an old gardener, all likewise thoroughly respectable. </p>
+                        should go down as <rs ref="governess" type="person">governess</rs> would be
+                        in supreme authority. She would also have, in <date>holidays</date>, to look
+                        after the small boy, who had been for a term at school—young as he was to be
+                        sent, but what else could be done?—and who, as the holidays were about to
+                        begin, would be back from one day to the other. There had been for the two
+                        children at first a young lady whom they had had the misfortune to lose. She
+                        had done for them quite beautifully—she was a most respectable person—till
+                        her death, the great awkwardness of which had, precisely, left no
+                        alternative but the school for little <persName ref="miles"
+                        >Miles</persName>. <persName ref="mrsgrose">Mrs. Grose</persName>, since
+                        then, in the way of manners and things, had done as she could for <persName
+                            ref="flora">Flora</persName>; and there were, further, a cook, a
+                        housemaid, a dairywoman, an old pony, an old groom, and an old gardener, all
+                        likewise thoroughly respectable. </p>
                 </div>
                 <div type="paragraph" n="40">
                     <p>So far had <persName ref="douglas">Douglas</persName> presented his picture
@@ -511,7 +513,8 @@
                 </div>
                 <div type="paragraph" n="41">
                     <p><said who="storygroupmember" aloud="true" toWhom="douglas">“And what did the
-                            former governess die of?—of so much respectability?”</said>
+                            former <rs ref="governess" type="person">governess</rs> die of?—of so
+                            much respectability?”</said>
                     </p>
                 </div>
                 <div type="paragraph" n="42">
@@ -1132,9 +1135,10 @@
                 </div>
                 <div type="paragraph" n="31">
                     <p>
-                        <said who="mrsgrose" aloud="true" toWhom="governess">“The last governess?
-                            She was also young and pretty—almost as young and almost as pretty,
-                            miss, even as you.” </said>
+                        <said who="mrsgrose" aloud="true" toWhom="governess">“The last <rs
+                                ref="missjessel" type="person">governess</rs>? She was also young
+                            and pretty—almost as young and almost as pretty, miss, even as you.”
+                        </said>
                     </p>
                 </div>
                 <div type="paragraph" n="32">
@@ -1645,19 +1649,19 @@
                         of course, that we studied only fiction and verse; I mean I can express no
                         otherwise the sort of interest my companions inspired. How can I describe
                         that except by saying that instead of growing used to them—and it’s a marvel
-                        for a governess: I call the sisterhood to witness!—I made constant fresh
-                        discoveries. There was one direction, assuredly, in which these discoveries
-                        stopped: deep obscurity continued to cover the region of the boy’s conduct
-                        at school. It had been promptly given me, I have noted, to face that mystery
-                        without a pang. Perhaps even it would be nearer the truth to say
-                        that—without a word—he himself had cleared it up. He had made the whole
-                        charge absurd. My conclusion bloomed there with the real <seg
-                            ana="colors-rose">rose</seg> flush of his innocence: he was only too
-                        fine and fair for the little horrid, unclean school-world, and he had paid a
-                        price for it. I reflected acutely that the sense of such differences, such
-                        superiorities of quality, always, on the part of the majority—which could
-                        include even stupid, sordid headmasters—turn infallibly to the vindictive.
-                    </p>
+                        for a <rs ref="governess" type="person">governess</rs>: I call the
+                        sisterhood to witness!—I made constant fresh discoveries. There was one
+                        direction, assuredly, in which these discoveries stopped: deep obscurity
+                        continued to cover the region of the boy’s conduct at school. It had been
+                        promptly given me, I have noted, to face that mystery without a pang.
+                        Perhaps even it would be nearer the truth to say that—without a word—he
+                        himself had cleared it up. He had made the whole charge absurd. My
+                        conclusion bloomed there with the real <seg ana="colors-rose">rose</seg>
+                        flush of his innocence: he was only too fine and fair for the little horrid,
+                        unclean school-world, and he had paid a price for it. I reflected acutely
+                        that the sense of such differences, such superiorities of quality, always,
+                        on the part of the majority—which could include even stupid, sordid
+                        headmasters—turn infallibly to the vindictive. </p>
                 </div>
                 <div type="paragraph" n="4">
                     <p>Both the children had a gentleness (it was their only fault, and it never
@@ -2377,12 +2381,13 @@
                         everything out. The result of our having everything out was simply to reduce
                         our situation to the last rigor of its elements. <seg ana="vision-physical"
                             >She herself had seen nothing, not the shadow of a shadow, and nobody in
-                            the house but the governess was in the governess’s plight; </seg> yet
-                        she accepted without directly impugning my sanity the truth as I gave it to
-                        her, and ended by showing me, on this ground, an awestricken tenderness, an
-                        expression of the sense of my more than questionable privilege, of which the
-                        very breath has remained with me as that of the sweetest of human charities.
-                    </p>
+                            the house but the <rs ref="governess" type="person">governess</rs> was
+                            in the <rs ref="governess" type="person">governess’s</rs> plight; </seg>
+                        yet she accepted without directly impugning my sanity the truth as I gave it
+                        to her, and ended by showing me, on this ground, an awestricken tenderness,
+                        an expression of the sense of my more than questionable privilege, of which
+                        the very breath has remained with me as that of the sweetest of human
+                        charities. </p>
                 </div>
                 <div type="paragraph" n="2">
                     <p>What was settled between us, accordingly, that night, was that we thought we
@@ -3369,9 +3374,10 @@
                         <p>
                             <said who="mrsgrose" aloud="true" toWhom="governess">
                                 <seg ana="interruptions">“Of her real reason for leaving?</seg> Oh,
-                                yes—as to that. She couldn’t have stayed. Fancy it here—for a
-                                governess! And afterward <seg ana="repetition">I imagined—and I
-                                    still imagine. And what I imagine is dreadful.”</seg>
+                                yes—as to that. She couldn’t have stayed. Fancy it here—for a <rs
+                                    ref="missjessel" type="person">governess</rs>! And afterward
+                                    <seg ana="repetition">I imagined—and I still imagine. And what I
+                                    imagine is dreadful.”</seg>
                             </said>
                         </p>
                     </div>
@@ -3835,12 +3841,12 @@
                             another school for <persName ref="miles">Miles</persName>. What I
                             remember is that I was content not, for the time, to open the question,
                             and that contentment must have sprung from the sense of his perpetually
-                            striking show of cleverness. He was too clever for a bad governess, for
-                            a parson’s daughter, to spoil; and the strangest if not the brightest
-                            thread in the pensive embroidery I just spoke of was the impression I
-                            might have got, if I had dared to work it out, that hew asunder some
-                            influence operating in his small intellectual life as a tremendous
-                            incitement.</p>
+                            striking show of cleverness. He was too clever for a bad <rs
+                                ref="governess" type="person">governess</rs>, for a parson’s
+                            daughter, to spoil; and the strangest if not the brightest thread in the
+                            pensive embroidery I just spoke of was the impression I might have got,
+                            if I had dared to work it out, that hew asunder some influence operating
+                            in his small intellectual life as a tremendous incitement.</p>
                     </div>
                     <div type="paragraph" n="3">
                         <p>If it was easy to reflect, however, that such a boy could postpone
@@ -4631,8 +4637,9 @@
                     <div type="paragraph" n="22">
                         <p>
                             <said who="governess" aloud="true" toWhom="mrsgrose">“And if I am
-                                myself, you mean? That’s charming news to be sent him by a governess
-                                whose prime undertaking was to give him no worry.” </said></p>
+                                myself, you mean? That’s charming news to be sent him by a <rs
+                                    ref="governess" type="person">governess</rs> whose prime
+                                undertaking was to give him no worry.” </said></p>
                     </div>
                     <div type="paragraph" n="23">
                         <p><persName ref="mrsgrose">Mrs. Grose</persName> considered, following the
@@ -4950,8 +4957,8 @@
                                 enough,</seg>
                             <seg ana="sound-physical">particularly as uttered in the sweet, high,
                                 casual pipe with which, at all interlocutors, but above all at his
-                                eternal governess, he threw off intonations as if he were tossing
-                                roses. </seg>
+                                eternal <rs ref="governess" type="person">governess</rs>, he threw
+                                off intonations as if he were tossing roses. </seg>
                             <seg ana="touch-figurative">There was something in them that always made
                                 one “catch,” and I caught, </seg> at any rate, now so effectually
                             that I stopped as short as if one of the trees of the park had fallen
@@ -6882,16 +6889,18 @@
                             worse news. <persName ref="flora">Flora</persName> was so markedly
                             feverish that an illness was perhaps at hand; she had passed a
                                 <time>night</time> of extreme unrest, a night agitated above all by
-                            fears that had for their subject not in the least her former, but wholly
-                            her present, governess. It was not against the possible re-entrance of
-                                <persName ref="missjessel">Miss Jessel</persName> on the scene that
-                            she protested—it was conspicuously and passionately against mine. I was
-                            promptly on my feet of course, and with an immense deal to ask; the more
-                            that my friend had discernibly now girded her loins to meet me once
-                            more. This I felt as soon as I had put to her the question of her sense
-                            of the child’s sincerity as against my own. <said who="governess"
-                                aloud="true" toWhom="mrsgrose">“She persists in denying to you that
-                                she saw, or has ever seen, anything?” </said></p>
+                            fears that had for their subject not in the least her <rs
+                                ref="missjessel" type="person">former</rs>, but wholly her present,
+                                <rs ref="governess" type="person">governess</rs>. It was not against
+                            the possible re-entrance of <persName ref="missjessel">Miss
+                                Jessel</persName> on the scene that she protested—it was
+                            conspicuously and passionately against mine. I was promptly on my feet
+                            of course, and with an immense deal to ask; the more that my friend had
+                            discernibly now girded her loins to meet me once more. This I felt as
+                            soon as I had put to her the question of her sense of the child’s
+                            sincerity as against my own. <said who="governess" aloud="true"
+                                toWhom="mrsgrose">“She persists in denying to you that she saw, or
+                                has ever seen, anything?” </said></p>
                     </div>
                     <div type="paragraph" n="2">
                         <p>My visitor’s trouble, truly, was great. <said who="mrsgrose" aloud="true"
