@@ -29,8 +29,5 @@ for item in data['results']:
     title = item['title']
     print(id, title)
     
-
-
-
 #new_string = json.dumps(data, indent=2)
 #print(new_string)
