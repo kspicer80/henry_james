@@ -13,9 +13,10 @@ print(directory.is_dir())
 target_words = ['prodigious', 'prodigiously', 'prodigiousness', 'portentous', 'portentously']
 
 dict_counts = {}
+text_word_counts = {}
 
 files = Path(directory).glob('*.txt')
-files = sorted(files, reverse=True)
+files = sorted(files)
 #print(files)
 for file in files:
     filename = file.stem
@@ -25,7 +26,8 @@ for file in files:
         nlp.max_length = len(file) + 100
         nlp_contents = nlp(file)
         words = [token.text for token in nlp_contents if not token.is_stop and not token.is_punct]
-        in_target = [token for token in words if token in target_words]
-        dict_counts[filename] = Counter(in_target)
+        text_word_counts[filename] = len(words)
+        #in_target = [token for token in words if token in target_words]
+        #dict_counts[filename] = Counter(in_target)
 
-print(dict_counts)
+print(text_word_counts)
