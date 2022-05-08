@@ -537,7 +537,7 @@
                 <div type="paragraph" n="44">
                     <p><said who="narrator" aloud="true" toWhom="storygroupmembers">“In her
                             successor’s place,”</said>I suggested, <said who="narrator" aloud="true"
-                            toWhom="storygroupmembers"><seg ana="interrruptions">“I should have
+                            toWhom="storygroupmembers"><seg ana="interruptions">“I should have
                                 wished to learn if the office brought with it—”</seg></said>
                     </p>
                 </div>
@@ -3276,7 +3276,7 @@
                     <div type="paragraph" n="54">
                         <p>
                             <said who="governess" aloud="true" toWhom="mrsgrose">
-                                <seg ana="interrruptions">“In spite of the difference—?”</seg>
+                                <seg ana="interruptions">“In spite of the difference—?”</seg>
                             </said>
                         </p>
                     </div>
@@ -3506,7 +3506,7 @@
                                     ana="vision-physical">so closely watched him;</seg> he has been
                                 an imperturbable little prodigy of delightful, lovable goodness.
                                 Therefore you might perfectly have made the claim for him if you had
-                                not, as it happened, <seg ana="vision-figuerative">seen an exception
+                                not, as it happened, <seg ana="vision-figurative">seen an exception
                                     to take. </seg> What was your exception, and to what passage in
                                     <seg ana="vision-physical vision-figurative">your personal
                                     observation of him did you refer?” </seg>
@@ -4287,7 +4287,7 @@
                             small hope of representing with success even to her actual sympathy my
                             sense of the real splendor of the little inspiration with which, after I
                             had got him into the house, the boy met my final articulate challenge.
-                                <seg ana="vision-physial">As soon as I appeared in the moonlight on
+                                <seg ana="vision-physical">As soon as I appeared in the moonlight on
                                 the terrace, he had come to me as straight as possible; </seg>
                             <seg ana="touch-physical">on which I had taken his hand without a word
                                 and led him, through the dark spaces, up the staircase where
@@ -6838,7 +6838,7 @@
                                 of grief. </seg> I must have lain there long and cried and sobbed,
                             for when I raised my head <date>the day</date> was almost done.<seg
                                 ana="vision-physical">I got up and looked a moment, through the
-                                twilight, </seg> at the <seg ana="colors=gray">gray pool</seg> and
+                                twilight, </seg> at the <seg ana="colors-gray">gray pool</seg> and
                             its blank, haunted edge, and then I took, back to the house, my dreary
                             and difficult course. When I reached the gate in the fence the boat, to
                             my surprise, was gone, so that I had a fresh reflection to make on
@@ -7214,7 +7214,7 @@
                             <seg ana="touch-figurative">She held me</seg>
                             <seg ana="vision-physical">a moment with heavy eyes,</seg> then brought
                             out the rest. <said who="mrsgrose" aloud="true" toWhom="governess">
-                                <seg ana="interrruptions">“Your idea’s the right one. I myself,
+                                <seg ana="interruptions">“Your idea’s the right one. I myself,
                                     miss—”</seg>
                             </said></p>
                     </div>
@@ -7498,7 +7498,7 @@
                 <div type="chapter" n="22">
                     <div type="paragraph" n="1">
                         <p>Yet it was when she had got off—and I missed her on the spot—<seg
-                                ana="touch-figuraive">that the great pinch </seg> really came. If I
+                                ana="touch-figurative">that the great pinch </seg> really came. If I
                             had counted on what it would give me to find myself alone with <persName
                                 ref="miles">Miles</persName>, <seg ana="vision-physical">I speedily
                                 perceived, at least, that it would give me a measure. </seg> No
@@ -7519,7 +7519,7 @@
                             effect of which on my nerves was an aggravation <seg
                                 ana="vision-physical">until I saw the necessity of making it a
                                 positive aid.</seg>
-                            <seg ana="touch-figuraive">It was precisely, in short, by just clutching
+                            <seg ana="touch-figurative">It was precisely, in short, by just clutching
                                 the helm that I avoided total wreck; </seg> and I dare say that, to
                             bear up at all, I became, that morning, very grand and very dry. I
                             welcomed the consciousness that I was charged with much to do, and I
@@ -8021,7 +8021,7 @@
                                 <seg ana="repetition">seeing and facing what I saw and faced, </seg>
                             </seg> to keep the boy himself unaware. The inspiration—I can call it by
                             no other name—was that I felt how voluntarily, how transcendently, I
-                                <emph rend="italics">might</emph>. <seg ana="touch-figuratie">It was
+                                <emph rend="italics">might</emph>. <seg ana="touch-figurative">It was
                                 like fighting with a demon for a human soul, </seg> and when I had
                             fairly so appraised it <seg ana="vision-figurative">I saw how the human
                                 soul</seg>seg>— <seg ana="touch-figurative">held out,</seg>
