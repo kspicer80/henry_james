@@ -21,3 +21,7 @@ said[who*='miles'] {
 said[who*='flora'] {
 	color: green;
 }
+
+persName[ref*='douglas'] {
+	color: pink;
+}

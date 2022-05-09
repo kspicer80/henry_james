@@ -5,7 +5,7 @@
 <xsl:template match="/">
 	<html>
 		<head>
-			<link rel="stylesheet" href="garden-party.css" />
+			<link rel="stylesheet" href="hj_tots.css" />
 			<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic' rel='stylesheet' type='text/css'/>
 		</head>
 		<body>
