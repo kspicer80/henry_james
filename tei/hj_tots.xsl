@@ -19,13 +19,7 @@
 	<div id="textBody">
 		<title>Henry James's <italic>The Turn of the Screw</italic></title>
 			<xsl:apply-templates/>
-
 	</div> <!--End of Container-->
-</xsl:template>
-
-<!-- Text/Commentary Pairs -->
-<xsl:template match="ab">
-	<tr class="interp"><xsl:apply-templates/></tr>
 </xsl:template>
 
 <!-- Metadata -->
@@ -37,8 +31,8 @@
 
 <!-- Text Segments -->
 <xsl:template match="seg">
-	<td class="lexeme">
-		<xsl:attribute name="id">
+	<td class="ana">
+		<xsl:attribute name="touch-figurative">
 			<xsl:value-of select="@n"/>
 		</xsl:attribute>
 		<xsl:if test="@type = 'startPara' ">
