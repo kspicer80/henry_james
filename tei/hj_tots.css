@@ -1,17 +1,23 @@
-p {}
-
-.governess { 
-	 color: red;
-} 
-
-.miles {
-    color: blue;
+said[who*='douglas'] {
+	color: pink;
 }
 
-.mrsgrose {
-    color: green;
+said[who*='narrator'] {
+	color: blue;
 }
 
-.douglas {
-    color: orange;
+said[who*='governess'] {
+	color: orange;
+}
+
+said[who*='mrgross'] {
+	color: red;
+}
+
+said[who*='miles'] {
+	color: green;
+}
+
+said[who*='flora'] {
+	color: green;
 }
