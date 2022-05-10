@@ -1,132 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-
-<!-- The Entire HTML Web Page -->
-<xsl:template match="/">
-	<html>
-		<head>
-			<link rel="stylesheet" href="hj_tots.css" />
-			<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic' rel='stylesheet' type='text/css'/>
-		</head>
-		<body>
-			<xsl:apply-templates/>
-		</body>
-	</html>
-</xsl:template>
-
-<xsl:template match="rdg">
-	<font color="blue">
- 	<xsl:apply-templates/></font>
-</xsl:template>
-
-<xsl:template match="said">
-  <p>
-    <xsl:if test="speaker='douglas'">
-      <xsl:attribute name="class">douglas</xsl:attribute>
-    </xsl:if>
-  </p>
-</xsl:template>
-
-<!--The Entire Set of Text/Commentary Pairs -->
-<xsl:template match="TEI/text/body">
-	<div id="textBody">
-		<title>Henry James's <italic>The Turn of the Screw</italic></title>
-			<xsl:apply-templates/>
-	</div> <!--End of Container-->
-</xsl:template>
-
-<!-- Metadata -->
-<xsl:template match="TEI/teiHeader">
-	<div class="metadata">
-		<xsl:apply-templates/>
-	</div> <!--end of sourceDesc-->
-</xsl:template>
-
-<!-- Text Segments -->
-<xsl:template match="seg">
-	<td class="ana">
-		<xsl:attribute name="touch-figurative">
-			<xsl:value-of select="@n"/>
-		</xsl:attribute>
-		<xsl:if test="@type = 'startPara' ">
-			<span class="pilcrow">¶</span>
-		</xsl:if>
-		<xsl:apply-templates select="@n | node()"/>
-	</td>
-</xsl:template>
-
-<!-- Lexia IDs -->
-<xsl:template match="@n">
-	<sup class="lexeme-id">
-		<xsl:value-of select="."/>
-	</sup>
-</xsl:template>
-
-<!-- Commentary -->
-<xsl:template match="interp">
-	<td class="interp">
-		<xsl:apply-templates/>
-	</td>
-</xsl:template>
-
-<!-- Tags -->
-<xsl:template match="interp/desc">
-	<xsl:for-each select=".">
-		<span>
-			<xsl:attribute name="class">tag
-				<xsl:value-of select="."/>
-			</xsl:attribute>
-			<xsl:value-of select="."/>
-		</span>
-	</xsl:for-each>
-</xsl:template>
-
-<!-- Handle links -->
-<xsl:template match="ptr">
-	<a>
-		<xsl:attribute name="href">
-			<xsl:value-of select="@target"/>
-		</xsl:attribute>
-		<xsl:apply-templates/>
-	</a>
-</xsl:template>
-
-<!-- Title -->
-<xsl:template match="head[@type='title']">
-	<h1><xsl:apply-templates/></h1>
-</xsl:template>
-
-<!-- Byline -->
-<xsl:template match="head[@type='byline']">
-	<h2><xsl:apply-templates/></h2>
-</xsl:template>
-
-<!-- Verse Stanzas -->
-<xsl:template match="lg">
-	<p class="song">
-		<xsl:apply-templates/>
-	</p>
-</xsl:template>
-
-<!-- Verse Lines -->
-<xsl:template match="l">
-	<xsl:apply-templates/><br/>
-</xsl:template>
-
-<!-- Emphasized Text (Italics) -->
-<xsl:template match="emph">
-	<span class="emph"><xsl:apply-templates/></span>
-</xsl:template>
-
-<xsl:template match="foreign">
-	<span class="emph"><xsl:apply-templates/></span>
-</xsl:template>
-
-<!-- This inserts a placeholder which sed will swap out with the contents of header.html. -->
-<xsl:template match="div[@type='header']">
-	<div class="header-area">
-		INSERTHEADERHERE
-	</div>
-</xsl:template>
-
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+	xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+	exclude-result-prefixes="xs math"
+	version="3.0">    
+	<xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" 
+		include-content-type="no" indent="yes"/>
+	<xsl:template match="/">
+		<html>
+			<head>
+				<title><italic>The Turn of the Screw</italic></title>
+			</head>
+			<body>
+				<xsl:apply-templates select="//TEI"/>
+			</body>
+		</html>
+	</xsl:template>
+	<xsl:template match="//TEI//text//body//div//said[@who='douglas']">
+			<font color='pink'>
+				<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='narrator']">
+		<font color='BlueViolet'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='mrsgrose']">
+		<font color='FireBrick'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='miles']">
+		<font color='pink'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='flora']">
+		<font color='green'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='governess']">
+		<font color='Indigo'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='mrsgriffin']">
+		<font color='Orange'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='storygroupmember']">
+		<font color='SaddleBrown'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='storygroupmembers']">
+		<font color='SlateBlue'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
+	
+	<xsl:template match="//TEI//text//body//div//said[@who='mrgriffin']">
+		<font color='Yellow'>
+			<xsl:apply-templates/></font>
+	</xsl:template>
 </xsl:stylesheet>
