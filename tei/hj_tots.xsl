@@ -32,7 +32,7 @@
 	</xsl:template>
 
 	<xsl:template match="//TEI//text//body//div//said[@who='mrsgrose']">
-		<font color='FireBrick'>
+		<font color='Periwinkle'>
 			<xsl:apply-templates/></font>
 	</xsl:template>
 
@@ -68,6 +68,19 @@
 
 	<xsl:template match="//TEI//text//body//div//said[@who='mrgriffin']">
 		<font color='Yellow'>
-			<xsl:apply-templates/></font>
+			<xsl:apply-templates/>
+		</font>
+	</xsl:template>
+
+	<xsl:template match="//TEI//text//body//div//p//seg[@ana='touch-figurative']">
+		<font color='SlateBlue'>
+			<xsl:apply-templates/>
+		</font>
+	</xsl:template>
+
+	<xsl:template match="//TEI//text//body//div//p//seg[@ana='fire']">
+		<font color='red'>
+			<xsl:apply-templates/>
+		</font>
 	</xsl:template>
 </xsl:stylesheet>
