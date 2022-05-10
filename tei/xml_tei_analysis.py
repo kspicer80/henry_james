@@ -27,7 +27,10 @@ def get_tags(tags):
     return tag_list
 
 all_tags = get_tags(all_seg_tags)
-print(*all_tags, sep='\n')
+unique_seg_tags = list({v['ana']:v for v in all_tags}.values())
+#print(*all_tags, sep='\n')
+print(*unique_seg_tags, sep='\n')
+
 
 #counts = collections.Counter(x['ana'] for x in all_tags)
 #print(counts)
