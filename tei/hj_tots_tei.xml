@@ -332,7 +332,7 @@
                             toWhom="narrator mrsgriffin storygroupmember storygroupmembers"><seg
                                 ana="repetition">“The story <emph rend="italics">won’t</emph>
                                 tell,”</seg></said> said <persName ref="douglas"
-                        >Douglas</persName>>; <said who="douglas" aloud="true"
+                        >Douglas</persName>; <said who="douglas" aloud="true"
                             toWhom="narrator mrsgriffin storygroupmember storygroupmembers">“not in
                             any literal, vulgar way.”</said>
                     </p>

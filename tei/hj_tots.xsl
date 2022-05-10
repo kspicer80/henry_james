@@ -1,6 +1,5 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xmlns:math="http://www.w3.org/2005/xpath-functions/math"
 	xpath-default-namespace="http://www.tei-c.org/ns/1.0"
 	xmlns="http://www.w3.org/1999/xhtml"
 	version="3.0">
@@ -72,15 +71,16 @@
 		</font>
 	</xsl:template>
 
-	<xsl:template match="//TEI//text//body//div//p//seg[@ana='touch-figurative']">
+	<xsl:template match="//TEI//text//body//div//seg[@ana='touch-figurative']">
 		<font color='SlateBlue'>
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
 
-	<xsl:template match="//TEI//text//body//div//p//seg[@ana='fire']">
+	<xsl:template match="//TEI//text//body//div//seg[@ana='fire']">
 		<font color='red'>
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
+
 </xsl:stylesheet>
