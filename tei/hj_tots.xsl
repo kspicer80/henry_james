@@ -3,20 +3,24 @@
 	xmlns:math="http://www.w3.org/2005/xpath-functions/math"
 	xpath-default-namespace="http://www.tei-c.org/ns/1.0"
 	xmlns="http://www.w3.org/1999/xhtml"
-	exclude-result-prefixes="xs math"
 	version="3.0">    
+
 	<xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" 
 		include-content-type="no" indent="yes"/>
-	<xsl:template match="/">
+	
+		<!-- The Entire HTML Web Page --> 
+	<xsl:template match="/"> 
 		<html>
 			<head>
 				<title><italic>The Turn of the Screw</italic></title>
+				<author>Henry James</author>
 			</head>
 			<body>
-				<xsl:apply-templates select="//TEI"/>
+				<xsl:apply-templates/>
 			</body>
 		</html>
-	</xsl:template>
+	</xsl:template> 
+
 	<xsl:template match="//TEI//text//body//div//said[@who='douglas']">
 			<font color='pink'>
 				<xsl:apply-templates/></font>
