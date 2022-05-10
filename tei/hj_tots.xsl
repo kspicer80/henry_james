@@ -14,6 +14,19 @@
 	</html>
 </xsl:template>
 
+<xsl:template match="rdg">
+	<font color="blue">
+ 	<xsl:apply-templates/></font>
+</xsl:template>
+
+<xsl:template match="said">
+  <p>
+    <xsl:if test="speaker='douglas'">
+      <xsl:attribute name="class">douglas</xsl:attribute>
+    </xsl:if>
+  </p>
+</xsl:template>
+
 <!--The Entire Set of Text/Commentary Pairs -->
 <xsl:template match="TEI/text/body">
 	<div id="textBody">

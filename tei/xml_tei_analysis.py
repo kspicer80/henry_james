@@ -27,12 +27,12 @@ def get_tags(tags):
     return tag_list
 
 all_tags = get_tags(all_seg_tags)
-#print(all_tags)
+print(*all_tags, sep='\n')
 
-counts = collections.Counter(x['ana'] for x in all_tags)
-print(counts)
+#counts = collections.Counter(x['ana'] for x in all_tags)
+#print(counts)
 
-print(json.dumps(counts, indent=4))
+#print(json.dumps(counts, indent=4))
 
 #with open('ana_seg_tags.json', 'w') as outfile:
     #json.dump(counts, outfile)
