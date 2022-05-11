@@ -345,7 +345,7 @@
                 <div type="paragraph" n="31">
                     <p><said who="storygroupmember" aloud="true" toWhom="douglas">“Won’t <emph
                                 rend="italics">you</emph> tell, <persName ref="douglas"
-                                >Douglas</persName>>?”</said> somebody else inquired. </p>
+                                >Douglas</persName>?”</said> somebody else inquired. </p>
                 </div>
                 <div type="paragraph" n="32">
                     <p>He sprang to his feet again. <said who="douglas" aloud="true"
@@ -3548,7 +3548,7 @@
                     <div type="paragraph" n="7">
                         <p>
                             <said who="governess" aloud="true" toWhom="mrsgrose">“And for another
-                                    <seg ana="reptition">thing?”</seg>
+                                    <seg ana="repetition">thing?”</seg>
                             </said> I waited. <said who="governess" aloud="true" toWhom="mrsgrose"
                                 >“He <seg ana="repetition">repeated</seg> your words to <persName
                                     ref="peterquint">Quint</persName>?” </said>
@@ -3686,7 +3686,7 @@
                     <div type="paragraph" n="24">
                         <p>
                             <said who="mrsgrose" aloud="true" toWhom="governess">
-                                <seg ana="vision=-physical">“I doubt if I looked as queer as
+                                <seg ana="vision-physical">“I doubt if I looked as queer as
                                     you!”</seg>
                             </said> she retorted with homely force. </p>
                     </div>
@@ -7822,7 +7822,7 @@
                         <p>
                             <said who="governess" aloud="true" toWhom="miles">“Having to do with
                                 you?”</said> I asked. <said who="governess" aloud="true"
-                                toWhom="miles">“My dear child, how can I help <seg ana="reptition"
+                                toWhom="miles">“My dear child, how can I help <seg ana="repetition"
                                     >minding?</seg> Though I’ve renounced all claim to your
                                 company—you’re so beyond me—I at least greatly enjoy it. What else
                                 should I stay on for?” </said>
