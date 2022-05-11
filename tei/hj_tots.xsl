@@ -12,7 +12,6 @@
 		<html>
 			<head>
 				<title><italic>The Turn of the Screw</italic></title>
-				<author>Henry James</author>
 			</head>
 			<body>
 				<xsl:apply-templates/>
@@ -24,63 +23,4 @@
 			<font color='pink'>
 				<xsl:apply-templates/></font>
 	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='narrator']">
-		<font color='BlueViolet'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='mrsgrose']">
-		<font color='Periwinkle'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='miles']">
-		<font color='pink'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='flora']">
-		<font color='green'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='governess']">
-		<font color='Indigo'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='mrsgriffin']">
-		<font color='Orange'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='storygroupmember']">
-		<font color='SaddleBrown'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='storygroupmembers']">
-		<font color='SlateBlue'>
-			<xsl:apply-templates/></font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//said[@who='mrgriffin']">
-		<font color='Yellow'>
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//seg[@ana='touch-figurative']">
-		<font color='SlateBlue'>
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//seg[@ana='fire']">
-		<font color='red'>
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-
 </xsl:stylesheet>
