@@ -1,27 +1,27 @@
 .douglas {
-	color: pink;
+    color: pink;
 }
 
-said[who*='narrator'] {
-	color: blue;
+said[who *= 'narrator'] {
+    color: blue;
 }
 
-said[who*='governess'] {
-	color: orange;
+said[who *= 'governess'] {
+    color: orange;
 }
 
-said[who*='mrgross'] {
-	color: red;
+said[who *= 'mrgross'] {
+    color: red;
 }
 
-said[who*='miles'] {
-	color: green;
+said[who *= 'miles'] {
+    color: green;
 }
 
-said[who*='flora'] {
-	color: green;
+said[who *= 'flora'] {
+    color: green;
 }
 
-persName[ref*='douglas'] {
-	color: pink;
+persName[ref *= 'douglas'] {
+    color: pink;
 }

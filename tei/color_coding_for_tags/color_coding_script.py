@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 import random
 
-data_file = Path('color_code_data.json')
+data_file = Path('tei\color_coding_for_tags\color_code_data.json')
 print
 with open(data_file) as read_file:
     data = json.load(read_file)
@@ -93,6 +93,4 @@ zipped_dict = dict(zipped_list)
 
 # So much better—obviously—then typing them all out individually ...
 for key, value in zipped_dict.items():
-    print(f"<xsl:template match=\"//TEI//text//body//div//seg[@ana=\'{key}\'\"><font color=\'{value}\'><xsl:apply-templates/></font></xsl:template>")
-
-
+    print(f"<xsl:template match=\"//TEI//text//body//div//seg[@ana=\'{key}\']\"><font color=\'{value}\'><xsl:apply-templates/></font></xsl:template>")

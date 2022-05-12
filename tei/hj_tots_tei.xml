@@ -72,7 +72,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="prologue" n="1">
+            <div type="chapter" n="0">
                 <div type="paragraph" n="1">
                     <p><seg ana="touch-figurative">The story had held us,</seg> round the <seg
                             ana="fire">fire,</seg> sufficiently breathless, but except the obvious
@@ -331,8 +331,8 @@
                     <p><said who="douglas" aloud="true"
                             toWhom="narrator mrsgriffin storygroupmember storygroupmembers"><seg
                                 ana="repetition">“The story <emph rend="italics">won’t</emph>
-                                tell,”</seg></said> said <persName ref="douglas"
-                        >Douglas</persName>; <said who="douglas" aloud="true"
+                                tell,”</seg></said> said <persName ref="douglas">Douglas</persName>;
+                            <said who="douglas" aloud="true"
                             toWhom="narrator mrsgriffin storygroupmember storygroupmembers">“not in
                             any literal, vulgar way.”</said>
                     </p>
@@ -367,9 +367,10 @@
                                 years older</date>,”</said> said her husband. </p>
                 </div>
                 <div type="paragraph" n="34">
-                    <p><said who="mrsgriffin" aloud="true" toWhom="mrgriffin">“<foreign xml:lang='fr'><emph
-                                    rend="italics">Raison de plus</emph></foreign>—at that age! But
-                            it’s rather nice, his long reticence.”</said>
+                    <p><said who="mrsgriffin" aloud="true" toWhom="mrgriffin">“<foreign
+                                xml:lang="fr"><emph rend="italics">Raison de
+                            plus</emph></foreign>—at that age! But it’s rather nice, his long
+                            reticence.”</said>
                     </p>
                 </div>
                 <div type="paragraph" n="35">
@@ -1524,7 +1525,7 @@
                         with a stranger sharpness. The <seg ana="colors-gold">gold</seg> was still
                         in the sky, the clearness in the air, and the man who looked at me over the
                         battlements was <seg ana="vision-figurative">as definite as a picture in a
-                        frame. </seg> That’s how I thought, with extraordinary quickness, of
+                            frame. </seg> That’s how I thought, with extraordinary quickness, of
                         each person that he might have been and that he was not. We were confronted
                         across our distance quite long enough for me to ask myself with intensity
                         who then he was and to feel, as an effect of my inability to say, a wonder
@@ -2506,6 +2507,7 @@
                         <said who="governess" aloud="true" toWhom="mrsgrose">“The time they were
                             with him, and his name, his presence, his history, in any way.”
                         </said></p>
+                </div>
                     <div type="paragraph" n="14">
                         <p>
                             <said who="mrsgrose" aloud="true" toWhom="governess">“Oh, the little
@@ -4758,7 +4760,7 @@
                             take anything like our ease—a state of affairs that led them sometimes
                             without the least pertinence to break out into sociable reminders. I was
                             invited—with no visible connection—to repeat afresh Goody Gosling’s
-                            celebrated <foreign xml:lang='fr'>
+                            celebrated <foreign xml:lang="fr">
                                 <emph rend="italics">mot</emph>
                             </foreign> or to confirm the details already supplied as to the
                             cleverness of the vicarage pony.</p>
@@ -7519,12 +7521,12 @@
                             effect of which on my nerves was an aggravation <seg
                                 ana="vision-physical">until I saw the necessity of making it a
                                 positive aid.</seg>
-                            <seg ana="touch-figurative">It was precisely, in short, by just clutching
-                                the helm that I avoided total wreck; </seg> and I dare say that, to
-                            bear up at all, I became, that morning, very grand and very dry. I
-                            welcomed the consciousness that I was charged with much to do, and I
-                            caused it to be known as well that, left thus to myself, I was quite
-                            remarkably firm. I wandered with that manner, for <time>the next
+                            <seg ana="touch-figurative">It was precisely, in short, by just
+                                clutching the helm that I avoided total wreck; </seg> and I dare say
+                            that, to bear up at all, I became, that morning, very grand and very
+                            dry. I welcomed the consciousness that I was charged with much to do,
+                            and I caused it to be known as well that, left thus to myself, I was
+                            quite remarkably firm. I wandered with that manner, for <time>the next
                                 hour</time> or two, all over the place and <seg
                                 ana="vision-physical"> looked, </seg> I have no doubt, as if I were
                             ready for any onset. So, for the benefit of whom it might concern, I
@@ -8021,10 +8023,10 @@
                                 <seg ana="repetition">seeing and facing what I saw and faced, </seg>
                             </seg> to keep the boy himself unaware. The inspiration—I can call it by
                             no other name—was that I felt how voluntarily, how transcendently, I
-                                <emph rend="italics">might</emph>. <seg ana="touch-figurative">It was
-                                like fighting with a demon for a human soul, </seg> and when I had
-                            fairly so appraised it <seg ana="vision-figurative">I saw how the human
-                                soul</seg>seg>— <seg ana="touch-figurative">held out,</seg>
+                                <emph rend="italics">might</emph>. <seg ana="touch-figurative">It
+                                was like fighting with a demon for a human soul, </seg> and when I
+                            had fairly so appraised it <seg ana="vision-figurative">I saw how the
+                                human soul</seg>seg>— <seg ana="touch-figurative">held out,</seg>
                             <seg ana="touch-physical">in the tremor of my hands, at arm’s
                                 length</seg>—had a perfect dew of sweat on a lovely childish
                             forehead. <seg ana="vision-physical">The face that was close to mine was
@@ -8155,7 +8157,7 @@
                     </div>
                     <div type="paragraph" n="15">
                         <p>
-                            <seg ana="vision-physical">I felt myself redden to the roots of my hair
+                            <seg ana="vision-physical">I felt myself <seg ana='colors-red'>redden to the roots of my hair</seg>
                                 as well as wonder if it were more strange to put to a gentleman such
                                 a question or to see him take it with allowances that gave the very
                                 distance of his fall in the world. </seg>
@@ -8216,7 +8218,7 @@
                     <div type="paragraph" n="23">
                         <p>
                             <said who="governess" aloud="true" toWhom="miles">“Only
-                            that?”</said></p>
+                            that?”</said></p></div>
                         <div type="paragraph" n="24">
                             <p>
                                 <said who="miles" aloud="true" toWhom="governess">“They thought it
@@ -8481,8 +8483,6 @@
                                 little heart, dispossessed, had stopped.</p>
                         </div>
                     </div>
-                </div>
-            </div>
-        </body>
+           </body>
     </text>
 </TEI>
