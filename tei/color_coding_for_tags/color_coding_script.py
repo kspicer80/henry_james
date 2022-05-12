@@ -1,7 +1,10 @@
+from pathlib import Path
 import json
 import random
 
-with open(r'tei\color_coding_for_tags\color_code_data.json') as read_file:
+data_file = Path('color_code_data.json')
+print
+with open(data_file) as read_file:
     data = json.load(read_file)
     #data = dict(ChainMap(*data))
 
@@ -9,7 +12,6 @@ print(data)
 print(len(data))
 
 all_tags = ['touch-figurative',
-'fire',
 'repetition',
 'touch-figurative touch-literal',
 'vision-physical',
@@ -27,24 +29,18 @@ all_tags = ['touch-figurative',
 'interruptions',
 'letters',
 'fire touch-physical',
-'colors-brown',
 'fire-figurative',
 'reading',
 'book reading',
-'colors-red',
-'colors-golden',
 'vision',
 'sound',
 'colors-white',
-'colors-gold',
-'colors-blue',
 'reading romance books',
 'epistle',
 'letter reading-figurative',
 'touch',
 'vision-figurative touch-figurative',
 'sound-figurative sound-physical vision-physical',
-'colors-rose',
 'fire delay',
 'master-nonknowledge',
 'delay-hesitation',
@@ -57,13 +53,10 @@ all_tags = ['touch-figurative',
 'colors',
 'smell-figurative',
 'sound-physical vision-physical',
-'colors-pink',
 'sound-figurative',
 'vision-literal',
 'sound-physical sound-figurative',
-'colors-gray',
 'sight-figurative',
-'colors-crimson',
 'letters writing',
 'vision-physical touch-figurative',
 'smell-physical',
@@ -78,19 +71,28 @@ all_tags = ['touch-figurative',
 'sexuality-figurative',
 'fire-figurative vision-figurative',
 'sealed senses',
-'colors-green',
 'vision-physical touch-physical',
 'sound-physical repetition']
 
-print(len(all_tags))
+#print(len(all_tags))
 
 color_names = []
-for key in data.values():
+for key in data.keys():
     print(key)
     color_names.append(key)
 
 print(color_names)
-    
-zipped_list = zip(all_tags, random.choice(color_names))
-print(list(zipped_list))
-    
+
+color_choices = []
+for i in range(len(all_tags)):
+    color_choices.append(random.choice(color_names))
+
+
+zipped_list = zip(all_tags, color_choices)
+zipped_dict = dict(zipped_list)
+
+# So much better—obviously—then typing them all out individually ...
+for key, value in zipped_dict.items():
+    print(f"<xsl:template match=\"//TEI//text//body//div//seg[@ana=\'{key}\'\"><font color=\'{value}\'><xsl:apply-templates/></font></xsl:template>")
+
+
