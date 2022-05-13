@@ -23,12 +23,17 @@
 	<xsl:template match="div[@type = 'chapter']">
 		<p>
 			<xsl:attribute name="type">
-				<font size='30'>
-				<xsl:text>Chapter: </xsl:text>
 				<xsl:value-of select="@n"/>
-				</font>
 			</xsl:attribute>
-			
+				<xsl:if test="@type='chapter'">
+					<span class='chapter_title'>
+						<font size='30'>
+							<xsl:text>Chapter: </xsl:text>
+							<xsl:value-of select="@n"/>
+						</font>
+					</span>
+				</xsl:if>
+
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
