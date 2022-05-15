@@ -2,14 +2,14 @@ from pathlib import Path
 import json
 import random
 
-data_file = Path('tei\color_coding_for_tags\color_code_data.json')
-print
-with open(data_file) as read_file:
-    data = json.load(read_file)
-    #data = dict(ChainMap(*data))
-
-print(data)
-print(len(data))
+#data_file = Path('tei\color_coding_for_tags\color_code_data.json')
+#print
+#with open(data_file) as read_file:
+    #data = json.load(read_file)
+    ##data = dict(ChainMap(*data))
+#
+#print(data)
+#print(len(data))
 
 all_tags = ['touch-figurative',
 'repetition',
@@ -74,23 +74,25 @@ all_tags = ['touch-figurative',
 'vision-physical touch-physical',
 'sound-physical repetition']
 
+sorted = sorted(all_tags)
+print(*sorted, sep='\n')
 #print(len(all_tags))
 
-color_names = []
-for key in data.keys():
-    print(key)
-    color_names.append(key)
-
-print(color_names)
-
-color_choices = []
-for i in range(len(all_tags)):
-    color_choices.append(random.choice(color_names))
-
-
-zipped_list = zip(all_tags, color_choices)
-zipped_dict = dict(zipped_list)
-
-# So much better—obviously—then typing them all out individually ...
-for key, value in zipped_dict.items():
-    print(f"<xsl:template match=\"//TEI//text//body//div//seg[@ana=\'{key}\']\"><font color=\'{value}\'><xsl:apply-templates/></font></xsl:template>")
+#color_names = []
+#for key in data.keys():
+    #print(key)
+    #color_names.append(key)
+#
+#print(color_names)
+#
+#color_choices = []
+#for i in range(len(all_tags)):
+    #color_choices.append(random.choice(color_names))
+#
+#
+#zipped_list = zip(all_tags, color_choices)
+#zipped_dict = dict(zipped_list)
+#
+## So much better—obviously—then typing them all out individually ...
+#for key, value in zipped_dict.items():
+    #print(f"<xsl:template match=\"//TEI//text//body//div//seg[@ana=\'{key}\']\"><font color=\'{value}\'><xsl:apply-templates/></font></xsl:template>")

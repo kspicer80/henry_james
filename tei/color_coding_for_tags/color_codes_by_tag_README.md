@@ -19,76 +19,65 @@ Dates = DarkSlateGray
 Times = Olive
 
 ##### ```<seg ana>``` Tags:
-'touch-figurative'
-'fire'
-'repetition'
-'touch-figurative touch-literal'
-'vision-physical'
-'touch-physical'
-'taste-figurative'
-'vision-figurative'
-'delay'
-'sound-physical'
-'writing'
-'weather-figurative'
-'delay sound-physical'
-'sound-figurative sound-literal'
-'writing letters'
-'weather'
-'interruptions'
-'letters'
-'fire touch-physical'
-'colors-brown'
-'fire-figurative'
-'reading'
-'book reading'
-'colors-red'
-'colors-golden'
-'vision'
-'sound'
-'colors-white'
-'colors-gold'
-'colors-blue'
-'reading romance books'
-'epistle'
-'letter reading-figurative'
-'touch'
-'vision-figurative touch-figurative'
-'sound-figurative sound-physical vision-physical'
-'colors-rose'
-'fire delay'
-'master-nonknowledge'
-'delay-hesitation'
-'reading-figurative'
-'vision-physical vision-figurative'
-'reading books'
-'imaginative play'
-'colors-black'
-'vision-figurative vision-physical'
-'colors'
-'smell-figurative'
-'sound-physical vision-physical'
-'colors-pink'
-'sound-figurative'
-'vision-literal'
-'sound-physical sound-figurative'
-'colors-gray'
-'sight-figurative'
-'colors-crimson'
-'letters writing'
-'vision-physical touch-figurative'
-'smell-physical'
-'sound-figurative sound-physical'
-'reading writing letters'
-'fire-figurative delay'
-'reading letters'
-'vison-physical'
-'physical-figurative'
-'sexuality'
-'touch-physical sound-physical'
-'sexuality-figurative'
-'fire-figurative vision-figurative'
-'sealed senses'
-'colors-green'
-'vision-physical touch-physical'
-'sound-physical repetition'
+book reading
+colors
+colors-black
+colors-white
+delay
+delay sound-physical
+delay-hesitation
+epistle
+fire delay
+fire touch-physical
+fire-figurative
+fire-figurative delay
+fire-figurative vision-figurative
+imaginative play
+interruptions
+letter reading-figurative
+letters
+letters writing
+master-nonknowledge
+physical-figurative
+reading
+reading books
+reading letters
+reading romance books
+reading writing letters
+reading-figurative
+repetition
+sealed senses
+sexuality
+sexuality-figurative
+sight-figurative
+smell-figurative
+smell-physical
+sound
+sound-figurative
+sound-figurative sound-literal
+sound-figurative sound-physical
+sound-figurative sound-physical vision-physical
+sound-physical
+sound-physical repetition
+sound-physical sound-figurative
+sound-physical vision-physical
+taste-figurative
+touch
+touch-figurative
+touch-figurative touch-literal
+touch-physical
+touch-physical sound-physical
+vision
+vision-figurative
+vision-figurative touch-figurative
+vision-figurative vision-physical
+vision-literal
+vision-physical
+vision-physical touch-figurative
+vision-physical touch-physical
+vision-physical vision-figurative
+vison-physical
+weather
+weather-figurative
+writing
+writing letters

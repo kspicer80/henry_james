@@ -9,7 +9,7 @@
                 <author>Henry James</author>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>Kevin Andrew Spicer</name>
+                    <name>Dr. Kevin Andrew Spicer</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -177,7 +177,7 @@
                         <seg ana="delay">The others resented postponement,</seg> but it was just his
                         scruples that charmed me. <seg ana="writing">I adjured him to write by the
                             first post</seg> and to agree with us for an early <seg
-                            ana="sound-figurative sound-literal">hearing;</seg> then I asked him if
+                            ana="sound-figurative sound-physical">hearing;</seg> then I asked him if
                         the experience in question had been his own. To this his answer was
                         prompt.</p>
                 </div>
@@ -447,7 +447,7 @@
                             </place>
                         </listPlace>, that impressed her as vast and imposing—this prospective
                         patron proved a gentleman, a bachelor in the prime of life, such a figure as
-                        had never risen, save in a dream <seg ana="book reading">or an old
+                        had never risen, save in a dream <seg ana="reading books">or an old
                             novel,</seg> before a fluttered, anxious girl out of a <listPlace>
                             <place>
                                 <placeName><settlement type="region"

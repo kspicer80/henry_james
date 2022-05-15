@@ -21,36 +21,32 @@
 	</xsl:template>
 
 	<xsl:template match="div[@type = 'chapter']">
-		<p>
-			<xsl:attribute name="type">
+		<div class='chapter'>
+		<xsl:attribute name="n">
 				<xsl:value-of select="@n"/>
 			</xsl:attribute>
 				<xsl:if test="@type='chapter'">
-					<span class='chapter_title'>
-						<font size='30'>
+						<h4>
 							<xsl:text>Chapter: </xsl:text>
 							<xsl:value-of select="@n"/>
-						</font>
-					</span>
+						</h4>
 				</xsl:if>
-
 			<xsl:apply-templates/>
-		</p>
+		</div>
 	</xsl:template>
-	
-	<xsl:template match="/TEI/text/body/div/div">
-		<p>
-		<xsl:attribute name='paragraph'>
-			<xsl:value-of select="@n"/>
-		</xsl:attribute>
-		<xsl:if test="@type='paragraph'">
-			<span class='pilcrow'>¶</span>
-		</xsl:if>
-		<xsl:apply-templates select="@n | node()"/>
-		</p>
-		
+
+	<xsl:template match="div[@type = 'paragraph']">
+		<div class='paragraph'>
+			<xsl:attribute name='n'>
+				<xsl:value-of select="@n"/>
+			</xsl:attribute>
+			<xsl:if test="@type='paragraph'">
+				<span class='pilcrow'>¶</span>
+			</xsl:if>
+			<xsl:apply-templates select="@n | node()"/>
+		</div>
 	</xsl:template>
-	
+
 	<xsl:template match="//TEI//text//body//div//said[@who = 'douglas']">
 		<font color="paleturquoise">
 			<xsl:apply-templates/>
@@ -508,16 +504,19 @@
 		</font>
 	</xsl:template>
 
+
+<!-- blargh -->
 	<xsl:template match="p">
 		<p>
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
-	
+
+
 	<xsl:template match="/TEI/text[1]/body[1]/div[1]/div[2]/p[1]/said[1]/emph[1]">
 		<span class='emph'><xsl:apply-templates/></span>
 	</xsl:template>
-	
+
 	<xsl:template match='foreign'>
 		<span class='emph'><xsl:apply-templates/></span>
 	</xsl:template>
