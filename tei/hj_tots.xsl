@@ -374,7 +374,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'imaginative play']">
-		<font color="mistyrose">
+		<font color="salmon">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
