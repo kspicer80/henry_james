@@ -26,10 +26,10 @@
 				<xsl:value-of select="@n"/>
 			</xsl:attribute>
 			<xsl:if test="@type = 'chapter'">
-				<h4>
+				<h3>
 					<xsl:text>Chapter: </xsl:text>
 					<xsl:value-of select="@n"/>
-				</h4>
+				</h3>
 			</xsl:if>
 			<xsl:apply-templates/>
 		</div>
@@ -41,9 +41,12 @@
 				<xsl:value-of select="@n"/>
 			</xsl:attribute>
 			<xsl:if test="@type = 'paragraph'">
-				<span class="pilcrow">¶</span>
+				<sup>
+					<xsl:text>¶</xsl:text>
+					<xsl:value-of select="@n"/>
+				</sup>
 			</xsl:if>
-			<xsl:apply-templates select="@n | node()"/>
+			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
 
@@ -190,13 +193,14 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-physical']">
-		<font color="lavender">
+		<font color="magenta">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-physical']">
 		<font color="teal">
 			<xsl:apply-templates/>
+			
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'taste-figurative']">
@@ -205,7 +209,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-figurative']">
-		<font color="lavender">
+		<font color="magenta">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -220,7 +224,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'writing']">
-		<font color="whitesmoke">
+		<font color="aqua">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -265,7 +269,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision']">
-		<font color="lavender">
+		<font color="magenta">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -335,7 +339,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-literal']">
-		<font color="lavender">
+		<font color="magenta">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -379,12 +383,6 @@
 		<font color="mediumseagreen">
 			<xsl:apply-templates/>
 		</font>
-	</xsl:template>
-	<!-- blargh -->
-	<xsl:template match="p">
-		<p>
-			<xsl:apply-templates/>
-		</p>
 	</xsl:template>
 	<xsl:template match="emph[@rend = 'italics']">
 		<em>
