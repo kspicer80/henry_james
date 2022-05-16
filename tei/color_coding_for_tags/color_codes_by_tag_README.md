@@ -19,7 +19,6 @@ Dates = DarkSlateGray
 Times = Olive
 
 ##### ```<seg ana>``` Tags:
-book reading
 colors
 colors-black
 colors-white
@@ -76,7 +75,6 @@ vision-physical
 vision-physical touch-figurative
 vision-physical touch-physical
 vision-physical vision-figurative
-vison-physical
 weather
 weather-figurative
 writing
