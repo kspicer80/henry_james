@@ -507,9 +507,8 @@
 		</p>
 	</xsl:template>
 
-
-	<xsl:template match="/TEI/text[1]/body[1]/div[1]/div[2]/p[1]/said[1]/emph[1]">
-		<span class='emph'><xsl:apply-templates/></span>
+	<xsl:template match="emph rend='italics'">
+		<em><xsl:apply-templates/></em>
 	</xsl:template>
 
 	<xsl:template match='foreign'>
