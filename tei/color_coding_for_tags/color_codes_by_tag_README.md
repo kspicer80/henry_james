@@ -19,63 +19,57 @@ Dates = DarkSlateGray
 Times = Olive
 
 ##### ```<seg ana>``` Tags:
-colors
-colors-black
-colors-white
-delay
-delay sound-physical
-delay-hesitation
-epistle
-fire delay
-fire touch-physical
-fire-figurative
-fire-figurative delay
-fire-figurative vision-figurative
-imaginative play
-interruptions
-letter reading-figurative
-letters
-letters writing
-master-nonknowledge
-physical-figurative
-reading
-reading books
-reading letters
-reading romance books
-reading writing letters
-reading-figurative
-repetition
-sealed senses
-sexuality
-sexuality-figurative
-sight-figurative
-smell-figurative
-smell-physical
-sound
-sound-figurative
-sound-figurative sound-literal
-sound-figurative sound-physical
-sound-figurative sound-physical vision-physical
-sound-physical
-sound-physical repetition
-sound-physical sound-figurative
-sound-physical vision-physical
-taste-figurative
-touch
-touch-figurative
-touch-figurative touch-literal
-touch-physical
-touch-physical sound-physical
-vision
-vision-figurative
-vision-figurative touch-figurative
-vision-figurative vision-physical
-vision-literal
-vision-physical
-vision-physical touch-figurative
-vision-physical touch-physical
-vision-physical vision-figurative
-weather
-weather-figurative
-writing
-writing letters
+{'ana': 'fire'}
+{'ana': 'repetition'}
+{'ana': 'touch-literal'}
+{'ana': 'vision-physical'}
+{'ana': 'touch-physical'}
+{'ana': 'taste-figurative'}
+{'ana': 'vision-figurative'}
+{'ana': 'delay'}
+{'ana': 'sound-physical'}
+{'ana': 'writing'}
+{'ana': 'weather-figurative'}
+{'ana': 'sound-figurative'}
+{'ana': 'writing letters'}
+{'ana': 'weather'}
+{'ana': 'interruptions'}
+{'ana': 'letters'}
+{'ana': 'colors-brown'}
+{'ana': 'fire-figurative'}
+{'ana': 'reading'}
+{'ana': 'reading books'}
+{'ana': 'colors-red'}
+{'ana': 'colors-golden'}
+{'ana': 'vision'}
+{'ana': 'sound'}
+{'ana': 'colors-white'}
+{'ana': 'colors-gold'}
+{'ana': 'colors-blue'}
+{'ana': 'reading romance books'}
+{'ana': 'epistle'}
+{'ana': 'letter reading-figurative'}
+{'ana': 'touch'}
+{'ana': 'colors-rose'}
+{'ana': 'master-nonknowledge'}
+{'ana': 'delay-hesitation'}
+{'ana': 'reading-figurative'}
+{'ana': 'imaginative play'}
+{'ana': 'colors-black'}
+{'ana': 'colors'}
+{'ana': 'smell-figurative'}
+{'ana': 'colors-pink'}
+{'ana': 'vision-literal'}
+{'ana': 'colors-gray'}
+{'ana': 'sight-figurative'}
+{'ana': 'colors-crimson'}
+{'ana': 'letters writing'}
+{'ana': 'smell-physical'}
+{'ana': 'reading writing letters'}
+{'ana': 'fire-figurative delay'}
+{'ana': 'reading letters'}
+{'ana': 'physical-figurative'}
+{'ana': 'sexuality'}
+{'ana': 'sexuality-figurative'}
+{'ana': 'sealed senses'}
+{'ana': 'colors-green'}

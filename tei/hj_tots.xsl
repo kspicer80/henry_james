@@ -106,13 +106,6 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-figurative']">
-		<font color="teal">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'fire']">
 		<font color="maroon">
 			<xsl:apply-templates/>
@@ -187,13 +180,7 @@
 	</xsl:template>
 
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-figurative']">
-		<font color="lightgoldenrodyellow">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-figurative']">
-		<font color="seashell">
+		<font color="teal">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -202,18 +189,13 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-figurative touch-literal']">
-		<font color="royalblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-physical']">
-		<font color="palegoldenrod">
+		<font color="lavender">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-physical']">
-		<font color="goldenrod">
+		<font color="teal">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -223,7 +205,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-figurative']">
-		<font color="wheat">
+		<font color="lavender">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -233,7 +215,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-physical']">
-		<font color="darkgoldenrod">
+		<font color="sienna">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -244,16 +226,6 @@
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'weather-figurative']">
 		<font color="orange">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'delay sound-physical']">
-		<font color="navy">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-figurative sound-literal']">
-		<font color="darkblue">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -277,11 +249,6 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'fire touch-physical']">
-		<font color="maroon">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'fire-figurative']">
 		<font color="maroon">
 			<xsl:apply-templates/>
@@ -298,17 +265,12 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision']">
-		<font color="lightgreen">
+		<font color="lavender">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound']">
-		<font color="pink">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'colors-white']">
-		<font color="whitesmoke">
+		<font color="sienna">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -327,27 +289,6 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch']">
-		<font color="darkslateblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-figurative touch-figurative']">
-		<font color="royalblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template
-		match="//TEI//text//body//div//seg[@ana = 'sound-figurative sound-physical vision-physical']">
-		<font color="lavenderblush">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'fire delay']">
-		<font color="gold">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'master-nonknowledge']">
 		<font color="lightgreen">
 			<xsl:apply-templates/>
@@ -359,12 +300,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'reading-figurative']">
-		<font color="deeppink">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-physical vision-figurative']">
-		<font color="mediumpurple">
+		<font color="lime">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -383,28 +319,18 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-figurative vision-physical']">
-		<font color="darkslateblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'colors']">
 		<font color="darksalmon">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'smell-figurative']">
-		<font color="moccasin">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-physical vision-physical']">
-		<font color="darkmagenta">
+		<font color="Peru">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-figurative']">
-		<font color="goldenrod">
+		<font color="sienna">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -413,11 +339,7 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-physical sound-figurative']">
-		<font color="red">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
+	
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sight-figurative']">
 		<font color="mediumblue">
 			<xsl:apply-templates/>
@@ -428,23 +350,8 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-physical touch-figurative']">
-		<font color="cornflowerblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'smell-physical']">
-		<font color="silver">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-figurative sound-physical']">
-		<font color="crimson">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'reading writing letters']">
-		<font color="lime">
+		<font color="Peru">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -454,12 +361,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'reading letters']">
-		<font color="wheat">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'physical-figurative']">
-		<font color="plum">
+		<font color="lime">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -468,18 +370,8 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'touch-physical sound-physical']">
-		<font color="mediumblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sexuality-figurative']">
 		<font color="darkmagenta">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'fire-figurative vision-figurative']">
-		<font color="maroon">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -488,34 +380,20 @@
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'vision-physical touch-physical']">
-		<font color="cornflowerblue">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sound-physical repetition']">
-		<font color="chartreuse">
-			<xsl:apply-templates/>
-		</font>
-	</xsl:template>
-
-
 	<!-- blargh -->
 	<xsl:template match="p">
 		<p>
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
-
 	<xsl:template match="emph[@rend = 'italics']">
 		<em>
 			<xsl:apply-templates/>
 		</em>
 	</xsl:template>
-
 	<xsl:template match="foreign">
-		<span class="emph">
+		<em>
 			<xsl:apply-templates/>
-		</span>
+		</em>
 	</xsl:template>
 </xsl:stylesheet>
