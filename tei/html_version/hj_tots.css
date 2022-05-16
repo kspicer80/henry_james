@@ -1,6 +1,6 @@
-div[class="paragraph"] {
-  background-color: yellow;
-  color: red;
-  font-size: 40px;
+div[class = "paragraph"] {
+    background-color: yellow;
+    color: red;
+    font-size: 40px;
 
 }

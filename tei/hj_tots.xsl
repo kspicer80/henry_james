@@ -21,27 +21,27 @@
 	</xsl:template>
 
 	<xsl:template match="div[@type = 'chapter']">
-		<div class='chapter'>
-		<xsl:attribute name="n">
+		<div class="chapter">
+			<xsl:attribute name="n">
 				<xsl:value-of select="@n"/>
 			</xsl:attribute>
-				<xsl:if test="@type='chapter'">
-						<h4>
-							<xsl:text>Chapter: </xsl:text>
-							<xsl:value-of select="@n"/>
-						</h4>
-				</xsl:if>
+			<xsl:if test="@type = 'chapter'">
+				<h4>
+					<xsl:text>Chapter: </xsl:text>
+					<xsl:value-of select="@n"/>
+				</h4>
+			</xsl:if>
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
 
 	<xsl:template match="div[@type = 'paragraph']">
-		<div class='paragraph'>
-			<xsl:attribute name='n'>
+		<div class="paragraph">
+			<xsl:attribute name="n">
 				<xsl:value-of select="@n"/>
 			</xsl:attribute>
-			<xsl:if test="@type='paragraph'">
-				<span class='pilcrow'>¶</span>
+			<xsl:if test="@type = 'paragraph'">
+				<span class="pilcrow">¶</span>
 			</xsl:if>
 			<xsl:apply-templates select="@n | node()"/>
 		</div>
@@ -500,18 +500,22 @@
 	</xsl:template>
 
 
-<!-- blargh -->
+	<!-- blargh -->
 	<xsl:template match="p">
 		<p>
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
 
-	<xsl:template match="emph rend='italics'">
-		<em><xsl:apply-templates/></em>
+	<xsl:template match="emph[@rend = 'italics']">
+		<em>
+			<xsl:apply-templates/>
+		</em>
 	</xsl:template>
 
-	<xsl:template match='foreign'>
-		<span class='emph'><xsl:apply-templates/></span>
+	<xsl:template match="foreign">
+		<span class="emph">
+			<xsl:apply-templates/>
+		</span>
 	</xsl:template>
 </xsl:stylesheet>
