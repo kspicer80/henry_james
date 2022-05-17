@@ -87,7 +87,7 @@
 	</xsl:template>
 
 	<xsl:template match="//TEI//text//body//div//said[@who = 'mrsgriffin']">
-		<font color="Orange">
+		<font color="yelloworange">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -299,7 +299,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'delay-hesitation']">
-		<font color="antiquewhite">
+		<font color="lightpink">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
@@ -375,7 +375,7 @@
 		</font>
 	</xsl:template>
 	<xsl:template match="//TEI//text//body//div//seg[@ana = 'sexuality-figurative']">
-		<font color="darkmagenta">
+		<font color="royalblue">
 			<xsl:apply-templates/>
 		</font>
 	</xsl:template>
