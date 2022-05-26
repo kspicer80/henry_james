@@ -12,16 +12,16 @@ def childTexts(node):
         texts[child.tag] = child.text
     return texts  
         
-tots_xml = r'tei\hj_tots_tei.xml'
+tots_xml = r'C:\Users\KSpicer\Documents\GitHub\henry_james\tei\hj_tots_tei.xml'
 
 tree = etree.parse(tots_xml)
-print(tree.getroot().find('.//{http://www.tei-c.org/ns/1.0}title').text)
-print(tree.getroot().find('title'))
+#print(tree.getroot().find('.//{http://www.tei-c.org/ns/1.0}title').text)
+#print(tree.getroot().find('title'))
 
 all_seg_tags = tree.findall(".//tei:seg[@ana]", namespaces=nsmap)
 #print(all_seg_tags, len(all_seg_tags))
 all_tags = tree.findall(".//tei:*", namespaces=nsmap)
-print(all_tags, len(all_tags))
+#print(all_tags, len(all_tags))
 
 import xml.etree.ElementTree as ET
 # load and parse the file
@@ -34,7 +34,7 @@ for elem in xmlTree.iter():
 elemList = list(set(elemList))
 
 # Just printing out the result
-print(*elemList, sep='\n')
+#print(*elemList, sep='\n')
 #for element in all_seg_tags:
     #element_tags = []
     #element_tags.append(element.attrib.values())
@@ -50,7 +50,7 @@ def get_tags(tags):
 all_tags = get_tags(all_seg_tags)
 unique_seg_tags = list({v['ana']:v for v in all_tags}.values())
 #print(*all_tags, sep='\n')
-print(*unique_seg_tags, sep='\n')
+#print(*unique_seg_tags, sep='\n')
 
 #counts = collections.Counter(x['ana'] for x in all_tags)
 #print(counts)
